@@ -1,6 +1,7 @@
 #EXTM3U
 
-Singapore
+
+
 #EXTINF:-1, group-title="Singapore", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1, group-title="Singapore", Suria
@@ -10,7 +11,8 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1, group-title="Singapore", Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
-Malaysia
+
+
 #EXTINF:-1, group-title="Malaysia", TV1 
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8 
 #EXTINF:-1, group-title="Malaysia", TV2 
@@ -25,7 +27,8 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20960
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
 
-Thailand
+
+
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png", Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png", Nation TV
@@ -65,7 +68,8 @@ http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/playlist.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-logo="http://www.wezatv.com/images/ch7.png",BBTV
 https://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2200000_sleng.m3u8
 
-Indonesia
+
+
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",RTV
