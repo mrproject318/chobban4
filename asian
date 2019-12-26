@@ -1,0 +1,81 @@
+#EXTM3U
+
+Singapore
+#EXTINF:-1, group-title="Singapore", Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1, group-title="Singapore", Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1, group-title="Singapore", Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1, group-title="Singapore", Vasantham
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
+Malaysia
+#EXTINF:-1, group-title="Malaysia", TV1 
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8 
+#EXTINF:-1, group-title="Malaysia", TV2 
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
+#EXTINF:-1, group-title="Malaysia", TV3
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRMbkc1casvHM7vVNMQ6QwM)/dm/3/x6qp375/d/live-4.m3u8
+#EXTINF:-1, group-title="Malaysia", TV9
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX_7p5TsiKU954O4fJJwakw)/dm/3/x6qqja6/s/live-4.m3u8
+#EXTINF:-1, group-title="Malaysia", OKEY 
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8 
+#EXTINF:-1, group-title="Malaysia", AWANI
+http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1, group-title="Sport 1", RTM Sport HD
+http://rtmsportshdmobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
+
+Thailand
+#EXTINF:-1, group-title="Sport 1", True Premier 1 TH
+https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", True Premier 2 TH
+https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", True Premier 3 TH
+https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", True Premier 4 TH
+https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", True Premier 5 TH
+https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", True Sport 1 TH
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", True Sport 2 TH
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", True Sport 3 TH
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", True Sport 4 TH
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", BT Sport 1 TH
+https://livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", BT Sport 2 TH
+https://livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", PPTV TH
+http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
+#EXTINF:-1, group-title="Sport 1", Thairath TV TH
+http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
+#EXTINF:-1, group-title="Sport 1", Fox Sports 1 TH
+https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", Fox Sports 2 TH
+https://live.dufree4k.net/02_FoxSport2_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", Fox Sports 3 TH
+https://live.dufree4k.net/02_FoxSport3_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", Bein 1 TH
+https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport 1", Bein 2 TH
+https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
+
+Indonesia
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",RCTI
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",RTV
+http://210.210.155.35/qwr9ew/s/s12/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TRANS 7
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TRANS TV
+http://210.210.155.35/qwr9ew/s/s100/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TVRI HD
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
