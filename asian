@@ -137,17 +137,17 @@ http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
 #EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia", TVRI Nusa Tenggara Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia ", TVRI  Nusa Tenggara Timur
+#EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia", TVRI  Nusa Tenggara Timur
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia ", TVRI  Jawa Barat
+#EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia", TVRI  Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia ", TVRI  Jawa Tengah
+#EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia", TVRI  Jawa Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(03)/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia ", TVRI  Jawa Tiwar
+#EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia", TVRI  Jawa Tiwar
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/Stream(03)/index.m3u8
 #EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia", TVRI  Yogyakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title=" Indonesia", CTV Banten
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title="Indonesia", CTV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://news.tvku.tv/assets2/images/logotvku2.png" group-title="Indonesia", TVKU Semarang
 http://103.30.1.14:8080/hls/live.m3u8
@@ -175,7 +175,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/Stream(03)/ind
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
 #EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia", TVRI Sulawesi Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia ", TVRI  Sulawesi Utara
+#EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia", TVRI  Sulawesi Utara
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
 #EXTINF:-1, tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia", TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/Stream(03)/index.m3u8
@@ -208,149 +208,149 @@ http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",BLUE ANT ENTERTAINMENT
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel",BLUE ANT ENTERTAINMENT
 http://45.126.83.51/dr9445/h/h16/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",BLUE ANT EXTREME ID
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel",BLUE ANT EXTREME ID
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel",CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",CHINA MOVIES CLASIC
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel",CHINA MOVIES CLASIC
 http://wshls.live.migucloud.com:80/live/41IXD6US_C0/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", CINEMA WORLD
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", CINEMA WORLD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", HBO
 http://203.207.56.228/live/iptv005.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", HITS
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",J'GO
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel",J'GO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 01
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 01
 http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 02
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 02
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 03
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 03
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 04
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 04
 http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 05
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 05
 http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 06
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 06
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 07
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 07
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 08
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 08
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 09
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 09
 http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 10
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 10
 http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 11
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 12
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 12
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 13
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 13
 http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 14
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 14
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 15
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 15
 http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 16
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 16
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 17
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 17
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 18
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 18
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 19
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 19
 http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 20
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 20
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 21
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 21
 http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 22
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 22
 http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 23
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 23
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 24
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 24
 http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 25
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 25
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 26
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 26
 http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 27
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 27
 http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 28
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 28
 http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 29
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 29
 http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 30
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 30
 http://tx.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 31
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 31
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 32
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 32
 http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 33
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 33
 http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 34
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 34
 http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 35
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 35
 http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 36
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 36
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 37
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 37
 https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 38
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 38
 https://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 39
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 39
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 40
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 40
 https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 41
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 41
 https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 42
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 42
 https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 43
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 43
 https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 44
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 44
 https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 45
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 45
 https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 46
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 46
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 47
+#EXTINF:-1 tvg-logo="" group-title="Movie ChannelS", MOVIE 47
 https://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 48
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 48
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIE 49
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 49
 https://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", MY CINEMA
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",PLUTO MOVIES 2
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel",PLUTO MOVIES 2
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", RASMEYHANG MEAS
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", RASMEYHANG MEAS
 http://43.245.34.2:9000/live/RasmeyHangMeasKH.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", SAMMO HUNG
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", SAMMO HUNG
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", SINEMA INDONESIA
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", SINEMA INDONESIA
 http://bit.ly/2VLRg6f
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", STAR MOVIES
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", STAVEN COUE
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", STAVEN COUE
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", THRILL ID
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", THRILL ID
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", TN1
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", TN1
 http://thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", TV ACTION MOVIES
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", TV ACTION MOVIES
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", TV BLACK CINEMA
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", TV BLACK CINEMA
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", TV CLASSIC MOVIES
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", TV CLASSIC MOVIES
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", TV MOVIES
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", TV MOVIES
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideA
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", WAU TV
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", WAU TV
 http://nn.geo.joj.sk/hls/wau-360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel",ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
 
