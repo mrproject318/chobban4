@@ -15,15 +15,19 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX7mKPvwnKtQumY7YC
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png", Drama Sangat
 https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qCx4c1L7GNQvKaSBOhjX-o)/dm/3/x6zvnex/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://freeview.github.io/iptv/logos/okey.png", OKEY
-https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
+http://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png", RTM Sports HD
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://freeview.github.io/iptv/logos/bes.png", RTM BES
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
+http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/media-udhb3nkl6_b1096000_10191.m3u8
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://freeview.github.io/iptv/logos/awani.png", Astro Awani
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1, group-title="Malaysia", tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg", TV IKIM HD
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1, group-title="Malaysia", tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/Bernama_zpsw0cqdb8c.png", Bernama TV
+http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m70290ab09fb91755596&ct=18193&tsum=33695b93825ec6ec805a57c256daef32
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://i.imgur.com/BDQB1lb.png", RTM Parlimen
+http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
 
 
 #EXTINF:-1, group-title="Singapore", tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png", Channel 5
@@ -328,14 +332,21 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Movie Channel", RASMEYHANG MEAS
 http://43.245.34.2:9000/live/RasmeyHangMeasKH.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movie Channel", SAMMO HUNG
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", SAMMO HUNG MOVIES
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie Channel", SINEMA INDONESIA
 http://bit.ly/2VLRg6f
 #EXTINF:-1 tvg-logo="" group-title="Movie Channel", STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movie Channel", STAVEN COUE
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", STEPHEN CHOW MOVIES
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", JET LI MOVIES
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", CHOW YUEN FATT MOVIES
+http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", CHINESE BOO FILM
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Movie Channel", THRILL ID
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie Channel", TN1
