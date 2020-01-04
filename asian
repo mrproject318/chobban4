@@ -352,7 +352,7 @@ https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-
 https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 46
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movie ChannelS", MOVIE 47
+#EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 47
 https://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie Channel", MOVIE 48
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
@@ -396,4 +396,37 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie Channel",ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="Knowledge", Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="Knowledge", Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="Knowledge", National Geograpic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIpsgye.png" group-title="Knowledge", History 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", Discovery Channel UK
+http://xt.bossna-caffe.com:25461/IrBp2aTF6j/vUzPFP1p97/1592
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", Discovery Science UK
+http://xt.bossna-caffe.com:25461/IrBp2aTF6j/vUzPFP1p97/1591
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", Discovery Turbo UK
+http://xt.bossna-caffe.com:25461/IrBp2aTF6j/vUzPFP1p97/1590
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", Investigation Discovery UK
+http://xt.bossna-caffe.com:25461/IrBp2aTF6j/vUzPFP1p97/1589
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", Discovery History UK
+http://xt.bossna-caffe.com:25461/IrBp2aTF6j/vUzPFP1p97/1588
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg" group-title="Knowledge", Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Knowledge", Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C6fylkt.png" group-title="Knowledge",RT English
+https://rt-doc.secure.footprint.net/1101.m3u8
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg" group-title="Knowledge",BBC Earth
+http://103.118.76.229:1935/tvprogram/BBC-EARTH/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg" group-title="Knowledge",Sony BBC Earth 
+https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png" group-title="Knowledge", Discovery India
+http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Animal_Planet_HD_World.png" group-title="Knowledge",Animal Planet India 
+https://streamer.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 
