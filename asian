@@ -58,7 +58,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", First Movie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png"" group-title="Indonesia", Global TV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="Indonesia", Indosiar
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="Indonesia", The Indonesia Channel
@@ -76,7 +76,7 @@ http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=0
 #EXTINF:-1, tvg-logo=" http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1, tvg-logo=" https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1554107747_logo_TravelHomes-01.png" group-title="Indonesia", MNC TV
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/375px-Rajawali_Televisi.svg.png" group-title="Indonesia", Rajawali TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/300px-RCTI_2015.svg.png" group-title="Indonesia", RCTI
