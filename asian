@@ -402,6 +402,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIpsgye.png" group-title="Knowledge", History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Infotainment", History TV 18 Hindi HD
+https://triangle.iptv.digijadoo.net/live/history_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", Discovery Channel UK
 http://xt.bossna-caffe.com:25461/IrBp2aTF6j/vUzPFP1p97/1592
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", Discovery Science UK
