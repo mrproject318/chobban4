@@ -85,7 +85,7 @@ http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/
 #EXTINF:-1, group-title="Indonesia", Gemilang TV
 http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Global TV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1, group-title="Indonesia", GPR TV
 http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Home & Living
@@ -127,7 +127,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #EXTINF:-1, group-title="Indonesia", Mix TV
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1, group-title="Indonesia", NU Channel
 http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Padang TV
@@ -182,7 +182,8 @@ http://210.210.155.35/qwr9ew/s/s47/index.m3u8
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:-1, group-title="Indonesia", Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
-
+#EXTINF:-1, group-title="Indonesia", Waku Waku Japan
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 
 
 #EXTINF:-1, group-title="Philipines", TV5/ESPN 5
