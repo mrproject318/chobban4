@@ -54,7 +54,16 @@ http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28681
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28641
 #EXTINF:-1, group-title="Malaysia", Pesona
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28651
-
+#EXTINF:-1, group-title="Malaysia", Hypp Inspirasi
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33256
+#EXTINF:-1, group-title="Malaysia", Hypp Sensasi
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28664
+#EXTINF:-1, group-title="Malaysia", Red by HBO
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28650
+#EXTINF:-1, group-title="Malaysia", Salam HD
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33248
+#EXTINF:-1, group-title="Malaysia", Classic Chinese Movies
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33262
 
 #EXTINF:-1, group-title="Singapore", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
@@ -784,7 +793,8 @@ https://live.dufree4k.net/02_sport6_480p/chunklist.m3u8
 https://live.dufree4k.net/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports", True Sport 2
 https://livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-
+#EXTINF:-1 group-title="Sports", WWE Network
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28635
 
 
 
