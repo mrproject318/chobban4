@@ -14,6 +14,8 @@ https://stream-12.dc3.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08t19-DS99H4r5NKumD
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdtsIU-JeO3VN19TNEKuDME)/dm/3/x6qqja6/s/live-4.m3u8
 #EXTINF:-1, group-title="Malaysia", Drama Sangat
 https://stream-02.dc3.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08nREeyuyIxpdKqLXxBw2krY)/dm/3/x7a7rf7/s/live-3.m3u8
+#EXTINF:-1, group-title="Malaysia", Hello
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28701
 #EXTINF:-1, group-title="Malaysia", OKEY
 http://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
 #EXTINF:-1, group-title="Malaysia", RTM Sports HD
@@ -22,12 +24,27 @@ https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000
 http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/media-udhb3nkl6_b1096000_10191.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro Awani
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1, group-title="Malaysia", TV Alhijrah
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28636
 #EXTINF:-1, group-title="Malaysia", TV IKIM HD
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", Bernama TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/BNC.m3u8
 #EXTINF:-1, group-title="Malaysia", RTM Parlimen
 http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
+#EXTINF:-1, group-title="Malaysia", Astro Bollyone Box Office
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28691
+#EXTINF:-1, group-title="Malaysia", Astro Warna
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9612
+#EXTINF:-1, group-title="Malaysia", Astro Ria
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9613
+#EXTINF:-1, group-title="Malaysia", Astro Prima
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9614
+#EXTINF:-1, group-title="Malaysia", Astro Oasis
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9615
+#EXTINF:-1, group-title="Malaysia", Astro TVIQ
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9617
+
 
 
 
