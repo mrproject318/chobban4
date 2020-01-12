@@ -212,9 +212,10 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m
 https://bit.ly/2Nu8hft
 #EXTINF:-1 group-title="Movie Channel", AMC
 https://bit.ly/2WUMFMF
+#EXTINF:-1 group-title="Movie Channel", AXN
+http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 group-title="Movie Channel", Bravo
 https://bit.ly/2NuVWrx
-
 #EXTINF:-1 group-title="Movie Channel", AMC Series
 http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Blue Ant Entertainment
@@ -224,7 +225,6 @@ http://45.126.83.51/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/02
 #EXTINF:-1 group-title="Movie Channel", Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", China Classic Movies
-
 #EXTINF:-1 group-title="Movie Channel", Chinese Boo Film
 http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="Movie Channel", Cinema World
@@ -243,14 +243,29 @@ http://84.22.33.254/unicast.arthouse/index.m3u8
 http://84.22.33.254/unicast.filmboxplus/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", FilmBox Extra
 http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
+#EXTINF:-1 group-title="Movie Channel", Fox Crime
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+#EXTINF:-1 group-title="Movie Channel", Fox Family Movies
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
+#EXTINF:-1 group-title="Movie Channel", Fox Movies Premium
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
+#EXTINF:-1 group-title="Movie Channel", FX
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1 group-title="Movie Channel", HBO
 http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:-1 group-title="Movie Channel", HBO Comedy
+https://bit.ly/33vGNvI
+#EXTINF:-1 group-title="Movie Channel", HBO Family
+https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
+#EXTINF:-1 group-title="Movie Channel", HBO Hits
+https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie Channel", HBO Signature
+https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movie Channel", HBO USA
 https://bit.ly/33voeI5
 #EXTINF:-1 group-title="Movie Channel", HBO Zone
 https://bit.ly/2WTDkog
-#EXTINF:-1 group-title="Movie Channel", HBO Comedy
-https://bit.ly/33vGNvI
+
 #EXTINF:-1 group-title="Movie Channel", Hallmark
 https://bit.ly/2K3sHKu
 #EXTINF:-1 group-title="Movie Channel", Hallmark Movies
@@ -367,6 +382,8 @@ https://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Movie Channel", MOVIE 49
 https://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movie Channel", Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
 #EXTINF:-1 group-title="Movie Channel", My Cinema
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 group-title="Movie Channel", Rai Movie
@@ -387,6 +404,8 @@ https://bit.ly/32qtfAp
 http://bit.ly/2VLRg6f
 #EXTINF:-1 group-title="Movie Channel", Smithsonian Channel
 https://bit.ly/2p5Hv3W
+#EXTINF:-1 group-title="Movie Channel", Sony Pix
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Spike
 https://bit.ly/2pHXF3k
 #EXTINF:-1 group-title="Movie Channel", Starz Cinema
@@ -396,7 +415,7 @@ https://bit.ly/2NtaXu2
 #EXTINF:-1 group-title="Movie Channel", Starz Encore
 https://bit.ly/2NOxNLy
 #EXTINF:-1 group-title="Movie Channel", Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1 group-title="Movie Channel", Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Movie Channel", Syfy
@@ -405,6 +424,8 @@ https://bit.ly/36Omg7s
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", TN1
 http://thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="Movie Channel", Warner TV
+http://203.154.243.89:11205
 #EXTINF:-1 group-title="Movie Channel", Zee Bioskop
 http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/02.m3u8
 
@@ -415,7 +436,7 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
 #EXTINF:-1 group-title="Knowledge",Animal Planet India 
 https://streamer.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1 group-title="Knowledge",BBC Earth
-http://103.118.76.229:1935/tvprogram/BBC-EARTH/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 #EXTINF:-1 group-title="Knowledge", Crime Investigation
 https://bit.ly/33TapTo
 #EXTINF:-1 group-title="Knowledge", Da Vinci Learning
@@ -441,7 +462,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="Knowledge", Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 group-title="Knowledge", History
-http://95.170.215.118/hls/m3u8/History.m3u8
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 #EXTINF:-1 group-title="Knowledge", History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 group-title="Knowledge", History TV 18 Hindi HD
@@ -452,7 +473,8 @@ http://xt.bossna-caffe.com:25461/IrBp2aTF6j/vUzPFP1p97/1589
 https://rt-doc.secure.footprint.net/1101.m3u8
 #EXTINF:-1 group-title="Knowledge",Sony BBC Earth 
 https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
-
+#EXTINF:-1 group-title="Knowledge",UN Web TV 
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 
 
 
@@ -533,11 +555,22 @@ http://213.174.8.7:9100/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DAVINCI
 http://213.174.8.7:11111/index.m3u8
 
-
+#EXTINF:-1 group-title="Infotainment", Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
+#EXTINF:-1 group-title="Infotainment", Comedy Central
+https://livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Infotainment", Outdoor Channel
+http://84.22.33.254/unicast.outdoorchannel/index.m3u8
+#EXTINF:-1 group-title="Infotainment", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Infotainment", Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1 group-title="Infotainment", TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 #EXTINF:-1 group-title="Infotainment", Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
+#EXTINF:-1 group-title="Infotainment", World Fashion Channel TV
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 
 
 #EXTINF:-1 group-title="News", Fox News
@@ -548,6 +581,8 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 group-title="News", BBC World News
 http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="News", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="News", CNN USA
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="News", CNA World
@@ -564,7 +599,7 @@ http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/
 http//tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
 #EXTINF:-1 group-title="News", NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="News",TIMES NOW
+#EXTINF:-1 group-title="News", TIMES NOW
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 group-title="News", ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
@@ -594,3 +629,145 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 group-title="News", Zee News
 http://pockettv.xyz/api/zee.m3u8?c=zeenews
+
+
+#EXTINF:-1 group-title="Sports", ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="Sports", ATP Tennis TV
+http://203.154.243.89:11739
+#EXTINF:-1 group-title="Sports", BeIN Sports 1 Asia
+https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", BeIN Sports 2 Asia
+https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", BeIN Sports Extra
+https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 group-title="Sports", CCTV5
+http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="Sports", CCTV-5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 group-title="Sports",CCTV Golf
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
+#EXTINF:-1 group-title="Sports", DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sports", Discovery Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="Sports", Dubai Racing 
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports", Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports", Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Sports", Eurosport 1
+http://5.135.92.133:52841/out/u/511_1.m3u8
+#EXTINF:-1 group-title="Sports", ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 group-title="Sports", ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="Sports", ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 group-title="Sports", Fox Sports 1 Asia
+https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Fox Sports 2 Asia
+https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Fox Sports 3 Asia
+https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Japan Golf
+http://203.162.235.41:16924
+#EXTINF:-1 group-title="Sports", MMA Fight Box
+http://84.22.33.254/unicast.fightbox/index.m3u8
+#EXTINF:-1 group-title="Sports", MMA Fight Sports
+http://45.126.83.51/uq2663/h/h05/index2.m3u8
+#EXTINF:-1 group-title="Sports", MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
+#EXTINF:-1 group-title="Sports", NBA TV
+https://dl.dropbox.com/s/lowsyo1x89xaymt/NBATV.m3u8?dl=0
+#EXTINF:-1 group-title="Sports", NBC Golf
+http://203.154.243.89:1208
+#EXTINF:-1 group-title="Sports", One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="Sports", Olympic Channel
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 group-title="Sports", Olympic Channel 2
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1 group-title="Sports", PLTV
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
+#EXTINF:-1 group-title="Sports", Premier Football 1
+https://livedoomovie.com/02_PremierHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Premier Football 2
+https://livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Premier Football 3
+https://livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Premier Football 4
+https://livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", Premier Football 5
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/epl-5_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports", Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 group-title="Sports", Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 group-title="Sports", Setanta Sports 1
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1 group-title="Sports", Setanta Sports 2
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 group-title="Sports", Sony Ten 1
+http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
+#EXTINF:-1 group-title="Sports", Sony Ten 2
+https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
+#EXTINF:-1 group-title="Sports", Sony Ten 3
+http://103.68.116.50/live/feed1004/index.m3u8
+#EXTINF:-1 group-title="Sports", Sony Six
+http://fr-c.movply.stream/hls/sony-six-hd.m3u8
+#EXTINF:-1 group-title="Sports", Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
+#EXTINF:-1 group-title="Sports", Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="Sports", Stad’Afric
+https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Sports", ST Sports Arena
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_300_320x240_197192/playlist.m3u8
+#EXTINF:-1 group-title="Sports", ST Sports Premium
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_300_320x240_197232/playlist.m3u8
+#EXTINF:-1 group-title="Sports", ST Sports Focus
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_970_300_320x240_197186/playlist.m3u8
+#EXTINF:-1 group-title="Sports", Star Sports 1
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+#EXTINF:-1 group-title="Sports", Star Sports 2
+http://103.68.116.50/live/feed1006/index.m3u8
+#EXTINF:-1 group-title="Sports", Taiwan Golf
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_G1.m3u8
+#EXTINF:-1 group-title="Sports", Taiwan Tennis TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_T1.m3u8
+#EXTINF:-1 group-title="Sports", Taiwan Tennis TV 2
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="Sports", Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="Sports", Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 group-title="Sports", Tennis Channel+ 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:-1 group-title="Sports", TJK
+https://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 group-title="Sports", True Sport HD1
+https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", True Sport HD3
+https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", True Sport HD4
+https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", True Sport 6
+https://live.dufree4k.net/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", True Sport 7
+https://live.dufree4k.net/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", True Sport 2
+https://livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
