@@ -35,7 +35,7 @@ http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_
 #EXTINF:-1, group-title="Malaysia", Astro Bollyone Box Office
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28691
 #EXTINF:-1, group-title="Malaysia", Astro Ceria
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9618
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28697
 #EXTINF:-1, group-title="Malaysia", Astro Warna
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9612
 #EXTINF:-1, group-title="Malaysia", Astro Ria
@@ -95,9 +95,9 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1, group-title="Indonesia", Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", CNTV
 http://210.210.155.35/qwr9ew/s/s29/index.m3u8
 #EXTINF:-1, group-title="Indonesia", CTV Banten
@@ -107,9 +107,9 @@ http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Dhamma (Buddha)
-https://media.maxindo.net.id/dhamma/dhamma.m3u8
+http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Disney Jr Indonesia
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
 #EXTINF:-1, group-title="Indonesia", DMI Channel
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Duta TV
@@ -486,7 +486,7 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
 #EXTINF:-1 group-title="Knowledge",Animal Planet India 
 https://streamer.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1 group-title="Knowledge",BBC Earth
-http://tvku.live:8888/steve/29PL8X/2379
+http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28694
 #EXTINF:-1 group-title="Knowledge", Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1 group-title="Knowledge", Da Vinci Learning
