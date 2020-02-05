@@ -246,6 +246,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8
 #EXTINF:-1, group-title="Philipines", Beam TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
+#EXTINF:-1, group-title="Philipines", Telenovela Channel
+http://164.40.161.46:8003/play/s6
 
 
 #EXTINF:-1 group-title="Movie Channel", A&E
@@ -319,7 +321,7 @@ https://bit.ly/2K3sHKu
 #EXTINF:-1 group-title="Movie Channel", Hallmark Movies
 https://bit.ly/2CouIwo
 #EXTINF:-1 group-title="Movie Channel", Hits
-http://45.126.83.51/uq2663/h/h37/01.m3u8
+https://anevia115.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 #EXTINF:-1 group-title="Movie Channel", IFC
 https://bit.ly/2pXLOOW
 #EXTINF:-1 group-title="Movie Channel", iFilm English
@@ -329,7 +331,7 @@ http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253
 #EXTINF:-1 group-title="Movie Channel", J'Go FMP
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 group-title="Movie Channel", KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
+https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 #EXTINF:-1 group-title="Movie Channel", LBS TV K-Drama
 http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
 #EXTINF:-1 group-title="Movie Channel", MOVIE 01
@@ -469,7 +471,7 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2
 #EXTINF:-1 group-title="Movie Channel", Syfy
 https://bit.ly/36Omg7s
 #EXTINF:-1 group-title="Movie Channel", Thrill Indonesia
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+https://anevia115.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 #EXTINF:-1 group-title="Movie Channel", TVN HD
 http://tvku.live:8888/steve/29PL8X/767
 #EXTINF:-1 group-title="Movie Channel", TN1
