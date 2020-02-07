@@ -486,9 +486,9 @@ http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/
 #EXTINF:-1 group-title="Knowledge", Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
 #EXTINF:-1 group-title="Knowledge",Animal Planet India 
-https://streamer.multitvsolution.in/live/APHDHindi-a/p4.m3u8
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1 group-title="Knowledge",BBC Earth
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28694
+https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
 #EXTINF:-1 group-title="Knowledge", Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1 group-title="Knowledge", Da Vinci Learning
@@ -510,15 +510,15 @@ http://xt.bossna-caffe.com:25461/IrBp2aTF6j/vUzPFP1p97/1590
 #EXTINF:-1 group-title="Knowledge", Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge", National Geograpic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1 group-title="Knowledge", Nat Geo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="Knowledge", Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 group-title="Knowledge", History
-http://tvku.live:8888/steve/29PL8X/718
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 #EXTINF:-1 group-title="Knowledge", History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
 #EXTINF:-1 group-title="Knowledge", History TV 18 Hindi HD
 https://triangle.iptv.digijadoo.net/live/history_tv/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge", Investigation Discovery UK
