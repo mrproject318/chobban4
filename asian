@@ -6,10 +6,10 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
 #EXTINF:-1, group-title="Malaysia", TV3 - OFFLINE
 https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08iMr6kvUH6CrzZBZ_xoC6L8)/dm/3/x7a7rpm/s/live-3.m3u8
-#EXTINF:-1, group-title="Malaysia", NTV7
+#EXTINF:-1, group-title="Malaysia", NTV7 - OFFLINE
+
+#EXTINF:-1, group-title="Malaysia", 8TV
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW2KluJZ11Y1ZkuqqsQ6UAM)/dm/3/x6qp6ou/s/live-3.m3u8
-#EXTINF:-1, group-title="Malaysia", 8TV - OFFLINE
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW2KluJZ11Y1ZkqqsQ6UAM)/dm/3/x6qp6ou/s/live-3.m3u8
 #EXTINF:-1, group-title="Malaysia", TV9 - OFFLINE 
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbXA46U1MJQ6Un20TCQURuo)/dm/3/x6qqja6/s/live-3.m3u8
 #EXTINF:-1, group-title="Malaysia", Drama Sangat - OFFLINE
@@ -144,59 +144,59 @@ http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomai
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Jek TV - OFFLINE
 http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", JTV Surabaya - OFFLINE
-http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1, group-title="Indonesia", K+
+#EXTINF:-1, group-title="Indonesia", JTV
+https://iptv33.000webhostapp.com/Hooq%20JTV.m3u8
+#EXTINF:-1, group-title="Indonesia", K+ - OFFLINE
 http://tvku.live:8888/steve/29PL8X/18
-#EXTINF:-1, group-title="Indonesia", KBS World
+#EXTINF:-1, group-title="Indonesia", KBS World - OFFLINE
 http://tvku.live:8888/steve/29PL8X/1521
-#EXTINF:-1, group-title="Indonesia", K Drama
+#EXTINF:-1, group-title="Indonesia", K Drama - OFFLINE
 http://tvku.live:8888/steve/29PL8X/1699
-#EXTINF:-1, group-title="Indonesia", Kitanesia
+#EXTINF:-1, group-title="Indonesia", Kitanesia - OFFLINE
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Kompas TV
-http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1, group-title="Indonesia", Makkah TV (Islam)
+https://iptv33.000webhostapp.com/Vidio%20Kompas%20tv.m3u8
+#EXTINF:-1, group-title="Indonesia", Makkah TV (Islam) - OFFLINE
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1, group-title="Indonesia", Madinah TV (Islam)
+#EXTINF:-1, group-title="Indonesia", Madinah TV (Islam) - OFFLINE
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1, group-title="Indonesia", Mix TV
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1, group-title="Indonesia", NU Channel
+#EXTINF:-1, group-title="Indonesia", NU Channel - OFFLINE
 http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Padang TV
+#EXTINF:-1, group-title="Indonesia", Padang TV - OFFLINE
 https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Radar TV Lampung
+#EXTINF:-1, group-title="Indonesia", Radar TV Lampung - OFFLINE
 http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Rajawali TV
+#EXTINF:-1, group-title="Indonesia", Rajawali TV - OFFLINE
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1, group-title="Indonesia", Reformed 21 (Kristian)
+#EXTINF:-1, group-title="Indonesia", Reformed 21 (Kristian) - OFFLINE
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 group-title="Indonesia", RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1, group-title="Indonesia", RTV
+#EXTINF:-1, group-title="Indonesia", RTV - OFFLINE
 http://210.210.155.35/qwr9ew/s/s12/index2.m3u8
 #EXTINF:-1, group-title="Indonesia", Rumah TV
 https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Salingsapa TV
+#EXTINF:-1, group-title="Indonesia", Salingsapa TV - OFFLINE
 http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", SBS Indonesia
+#EXTINF:-1, group-title="Indonesia", SBS Indonesia - OFFLINE
 http://tvku.live:8888/steve/29PL8X/1202
 #EXTINF:-1, group-title="Indonesia", SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1577653167~acl=/hls-p/ingest_204_*/*~hmac=b305e660b286449beafa51da5ec7783cf12a7b1586b0e60028dc2a7d7dc3130e/hls-p/ingest_204_480p/index.m3u8
-#EXTINF:-1, group-title="Indonesia", Sony One
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1, group-title="Indonesia", Sony One - OFFLINE
 http://tvku.live:8888/steve/29PL8X/19
-#EXTINF:-1, group-title="Indonesia", S Gem HD
+#EXTINF:-1, group-title="Indonesia", S Gem HD - OFFLINE
 http://tvku.live:8888/steve/29PL8X/770
 #EXTINF:-1, group-title="Indonesia", Tahfizh TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", TBN
+#EXTINF:-1, group-title="Indonesia", TBN - OFFLINE
 http://210.210.155.35/qwr9ew/s/s39/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Tegar TV
 http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
@@ -205,27 +205,13 @@ http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 #EXTINF:-1, group-title="Indonesia", TRANS 7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", TRANS TV
-http://210.210.155.35/qwr9ew/s/s100/01.m3u8
-#EXTINF:-1, group-title="Indonesia", Tribrata tv
-http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", TV Chosun
-http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", TV Desa
-http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", TVKU Semarang
-http://103.30.1.14:8080/hls/live.m3u8
+https://iptv33.000webhostapp.com/Hooq%20TransTV.m3u8
 #EXTINF:-1, group-title="Indonesia", TVRI HD
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1, group-title="Indonesia", TVRI Jakarta
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
-#EXTINF:-1, group-title="Indonesia", UA TV
-http://210.210.155.35/qwr9ew/s/s47/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:-1, group-title="Indonesia", Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
-#EXTINF:-1, group-title="Indonesia", Waku Waku Japan
-http://tvku.live:8888/steve/29PL8X/717
 
 
 #EXTINF:-1, group-title="Philipines", TV5/ESPN 5
@@ -252,56 +238,57 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m
 http://164.40.161.46:8003/play/s6
 
 
-#EXTINF:-1 group-title="Movie Channel", A&E
+#EXTINF:-1 group-title="Movie Channel", A&E - OFFLINE
 https://bit.ly/2Nu8hft
-#EXTINF:-1 group-title="Movie Channel", AMC
-https://bit.ly/2WUMFMF
+#EXTINF:-1 group-title="Movie Channel", American Horror
+http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 group-title="Movie Channel", AXN
 http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:-1 group-title="Movie Channel", Bravo
+#EXTINF:-1 group-title="Movie Channel", Bravo - OFFLINE
 https://bit.ly/2NuVWrx
 #EXTINF:-1 group-title="Movie Channel", AMC Series
 http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
-#EXTINF:-1 group-title="Movie Channel", Blue Ant Entertainment
+#EXTINF:-1 group-title="Movie Channel", Blue Ant Entertainment - OFFLINE
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
-#EXTINF:-1 group-title="Movie Channel", Blue Ant Extreme 
+#EXTINF:-1 group-title="Movie Channel", Blue Ant Extreme - OFFLINE
 http://45.126.83.51/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/02.m3u8
-#EXTINF:-1 group-title="Movie Channel", Celestial Movies
+#EXTINF:-1 group-title="Movie Channel", Celestial Movies - OFFLINE
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
-#EXTINF:-1 group-title="Movie Channel", China Classic Movies
 #EXTINF:-1 group-title="Movie Channel", Chinese Boo Film
 http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="Movie Channel", Cinema World
+#EXTINF:-1 group-title="Movie Channel", Cinema World - OFFLINE
 http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/02.m3u8
-#EXTINF:-1 group-title="Movie Channel", Cinemax Starmax
+#EXTINF:-1 group-title="Movie Channel", Cinemax Starmax - OFFLINE
 https://bit.ly/2N30ILv
-#EXTINF:-1 group-title="Movie Channel", Cinemax Action
+#EXTINF:-1 group-title="Movie Channel", Cinemax Action - OFFLINE
 https://bit.ly/2Cq3e9R
-#EXTINF:-1 group-title="Movie Channel", Cinemax East
+#EXTINF:-1 group-title="Movie Channel", Cinemax East - OFFLINE
 https://bit.ly/36LmLiT
 #EXTINF:-1 group-title="Movie Channel", Chow Yuen Fatt Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movie Channel", CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
 #EXTINF:-1 group-title="Movie Channel", FilmBox ArtHouse
 http://84.22.33.254/unicast.arthouse/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", FilmBox Plus
 http://84.22.33.254/unicast.filmboxplus/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", FilmBox Extra
 http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
-#EXTINF:-1 group-title="Movie Channel", Fox
+#EXTINF:-1 group-title="Movie Channel", Fox - OFFLINE
 http://tvku.live:8888/steve/29PL8X/2367
-#EXTINF:-1 group-title="Movie Channel", Fox Action Movies
+#EXTINF:-1 group-title="Movie Channel", Fox Action Movies - OFFLINE
 http://tvku.live:8888/steve/29PL8X/2351
-#EXTINF:-1 group-title="Movie Channel", Fox Crime
+#EXTINF:-1 group-title="Movie Channel", Fox Crime - OFFLINE
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
-#EXTINF:-1 group-title="Movie Channel", Fox Life
+#EXTINF:-1 group-title="Movie Channel", Fox Life - OFFLINE
 http://tvku.live:8888/steve/29PL8X/2366
-#EXTINF:-1 group-title="Movie Channel", Fox Family Movies
+#EXTINF:-1 group-title="Movie Channel", Fox Family Movies - OFFLINE
 http://tvku.live:8888/steve/29PL8X/2350
-#EXTINF:-1 group-title="Movie Channel", Fox Movies
+#EXTINF:-1 group-title="Movie Channel", Fox Movies - OFFLINE
 http://tvku.live:8888/steve/29PL8X/2349
-#EXTINF:-1 group-title="Movie Channel", Fox Movies Premium
+#EXTINF:-1 group-title="Movie Channel", Fox Movies Premium - OFFLINE
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
-#EXTINF:-1 group-title="Movie Channel", FX
+#EXTINF:-1 group-title="Movie Channel", FX - OFFLINE
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1 group-title="Movie Channel", HBO
 http://203.207.56.228/live/iptv005.m3u8
