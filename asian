@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="Malaysia", TV1 
+#EXTINF:-1, group-title="Malaysia", TV1 - ONLINE
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8 
-#EXTINF:-1, group-title="Malaysia", TV2 
+#EXTINF:-1, group-title="Malaysia", TV2 - ONLINE
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
-#EXTINF:-1, group-title="Malaysia", TV3 - OFFLINE BOSSKU!! SORRY..
+#EXTINF:-1, group-title="Malaysia", TV3 - OFFLINE
 https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08iMr6kvUH6CrzZBZ_xoC6L8)/dm/3/x7a7rpm/s/live-3.m3u8
-#EXTINF:-1, group-title="Malaysia", NTV7 - OFFLINE BOSSKU!! SORRY..
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQl8Lhd5M53B93HjmohX1rc)/dm/3/x6qp6ou/s/live-3.m3u8
-#EXTINF:-1, group-title="Malaysia", 8TV - OFFLINE BOSSKU!! SORRY..
+#EXTINF:-1, group-title="Malaysia", NTV7 - ONLINE
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW2KluJZ11Y1ZkuqqsQ6UAM)/dm/3/x6qp6ou/s/live-3.m3u8
-#EXTINF:-1, group-title="Malaysia", TV9 - OFFLINE BOSSKU!! SORRY..
+#EXTINF:-1, group-title="Malaysia", 8TV - OFFLINE
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW2KluJZ11Y1ZkqqsQ6UAM)/dm/3/x6qp6ou/s/live-3.m3u8
+#EXTINF:-1, group-title="Malaysia", TV9 - OFFLINE 
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbXA46U1MJQ6Un20TCQURuo)/dm/3/x6qqja6/s/live-3.m3u8
-#EXTINF:-1, group-title="Malaysia", Drama Sangat - OFFLINE BOSSKU!! SORRY..
+#EXTINF:-1, group-title="Malaysia", Drama Sangat - OFFLINE
 https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0nMIeu_VUm3EaKxWQ2SsVjw)/dm/3/x6zvnex/s/live-3.m3u8
-#EXTINF:-1, group-title="Malaysia", Hello - OFFLINE BOSSKU!! SORRY..
+#EXTINF:-1, group-title="Malaysia", Hello - OFFLINE
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28701
-#EXTINF:-1, group-title="Malaysia", OKEY
+#EXTINF:-1, group-title="Malaysia", OKEY - ONLINE
 http://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
-#EXTINF:-1, group-title="Malaysia", RTM Sports HD
+#EXTINF:-1, group-title="Malaysia", RTM Sports HD - OFFLINE
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1, group-title="Malaysia", RTM BES
 http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/media-udhb3nkl6_b1096000_10191.m3u8
