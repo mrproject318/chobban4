@@ -34,8 +34,12 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/BNC.m3u8
 https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro Bollyone Box Office - OFFLINE
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28691
+#EXTINF:-1, group-title="Malaysia", Astro Boo
+http://190.2.155.140:8278/Boo/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro Ceria - OFFLINE
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28697
+#EXTINF:-1, group-title="Malaysia", Astro Colors
+http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro Warna - OFFLINE
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9612
 #EXTINF:-1, group-title="Malaysia", Astro Ria - OFFLINE
@@ -243,7 +247,7 @@ https://bit.ly/2Nu8hft
 #EXTINF:-1 group-title="Movie Channel", American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 group-title="Movie Channel", AXN
-http://210.210.155.66/h/h141/02.m3u8
+http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", Bravo - OFFLINE
 https://bit.ly/2NuVWrx
 #EXTINF:-1 group-title="Movie Channel", AMC Series
@@ -278,8 +282,8 @@ http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
 http://tvku.live:8888/steve/29PL8X/2367
 #EXTINF:-1 group-title="Movie Channel", Fox Action Movies - OFFLINE
 http://tvku.live:8888/steve/29PL8X/2351
-#EXTINF:-1 group-title="Movie Channel", Fox Crime - OFFLINE
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+#EXTINF:-1 group-title="Movie Channel", Fox Crime
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="Movie Channel", Fox Life - OFFLINE
 http://tvku.live:8888/steve/29PL8X/2366
 #EXTINF:-1 group-title="Movie Channel", Fox Family Movies - OFFLINE
