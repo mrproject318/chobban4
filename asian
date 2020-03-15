@@ -28,50 +28,15 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/str
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28636
 #EXTINF:-1, group-title="Malaysia", TV IKIM HD 
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1, group-title="Malaysia", Bernama TV
+#EXTINF:-1, group-title="Malaysia", Bernama TV - Offline
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584262084/ei/Y5dtXoXROM273LUPib21-As/ip/60.53.232.127/id/Bh5dqmsu2bA.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAMiLtVGlqSh647xgxhihKocMA_xwz8h5fejJOOJovzw8AiEAjp8kx-UFumZpqw2qyo4NU5YVMi2oelaJ1N47B1Ab_-A%3D/file/index.m3u8
 #EXTINF:-1, group-title="Malaysia", RTM Parlimen
 https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Malaysia", Astro Bollyone Box Office - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28691
-#EXTINF:-1, group-title="Malaysia", Astro Boo
-http://190.2.155.140:8278/Boo/playlist.m3u8
-#EXTINF:-1, group-title="Malaysia", Astro Ceria - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28697
-#EXTINF:-1, group-title="Malaysia", Astro Colors
-http://fr-c.movply.stream/hls/Colors.m3u8
-#EXTINF:-1, group-title="Malaysia", Astro Warna - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9612
-#EXTINF:-1, group-title="Malaysia", Astro Ria - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9613
-#EXTINF:-1, group-title="Malaysia", Astro Prima 
-http://dmtn.tv:8080/live/ahmed642710/ehuvnLl4i7/144382.m3u8
-#EXTINF:-1, group-title="Malaysia", Astro Oasis - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9615
-#EXTINF:-1, group-title="Malaysia", Astro TVIQ - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/9617
-#EXTINF:-1, group-title="Malaysia", Astro Vellithirai - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28698
-#EXTINF:-1, group-title="Malaysia", Astro Bintang - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33281
-#EXTINF:-1, group-title="Malaysia", Dunia Sinema - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28681
 #EXTINF:-1, group-title="Malaysia", Naura 
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
-#EXTINF:-1, group-title="Malaysia", Pesona - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28651
-#EXTINF:-1, group-title="Malaysia", Hypp Inspirasi - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33256
-#EXTINF:-1, group-title="Malaysia", Hypp Sensasi
-http://dragoniptv.club:8080/gxfgss/HHVVPP/28664
-#EXTINF:-1, group-title="Malaysia", Red by HBO - OFFLINE
-http://tvku.live:8888/steve/29PL8X/874
-#EXTINF:-1, group-title="Malaysia", Salam HD - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33248
-#EXTINF:-1, group-title="Malaysia", Classic Chinese Movies - OFFLINE
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33262
 #EXTINF:-1, group-title="Malaysia", TV Selangor
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584262923/ei/q5ptXvXQE87L4-EPlba1YA/ip/60.53.232.127/id/_NE2sWAzFNg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAOlfgcqu7JA3anLY1Y2tL3yOXi3pCpUVfV5GLpvj-PAWAiEA_aOBy-UkmAkXgUaYDvjpUw45VfGyjLQju_f8TtjimTY%3D/file/index.m3u8
+
 
 #EXTINF:-1, group-title="Singapore", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
@@ -89,7 +54,6 @@ https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 #EXTINF:-1, group-title="Singapore", Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
-
 
 
 #EXTINF:-1, group-title="Indonesia", Adi TV
