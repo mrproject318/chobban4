@@ -14,22 +14,22 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1, group-title="Malaysia", Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-#EXTINF:-1, group-title="Malaysia", Hello - OFFLINE
+#EXTINF:-1, group-title="Malaysia", Hello - Offline
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28701
 #EXTINF:-1, group-title="Malaysia", OKEY 
 https://rtm1hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Malaysia", RTM Sports HD
+#EXTINF:-1, group-title="Malaysia", RTM Sports HD - Offline
 https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", RTM BES
 https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro Awani 
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1, group-title="Malaysia", TV Alhijrah - OFFLINE
+#EXTINF:-1, group-title="Malaysia", TV Alhijrah - Offline
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28636
-#EXTINF:-1, group-title="Malaysia", TV IKIM HD - SOUND CORRUPT
+#EXTINF:-1, group-title="Malaysia", TV IKIM HD 
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1, group-title="Malaysia", Bernama TV - OFFLINE
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/BNC.m3u8
+#EXTINF:-1, group-title="Malaysia", Bernama TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584262084/ei/Y5dtXoXROM273LUPib21-As/ip/60.53.232.127/id/Bh5dqmsu2bA.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAMiLtVGlqSh647xgxhihKocMA_xwz8h5fejJOOJovzw8AiEAjp8kx-UFumZpqw2qyo4NU5YVMi2oelaJ1N47B1Ab_-A%3D/file/index.m3u8
 #EXTINF:-1, group-title="Malaysia", RTM Parlimen
 https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro Bollyone Box Office - OFFLINE
