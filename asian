@@ -146,8 +146,6 @@ https://1396402344.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
 http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 #EXTINF:-1, group-title="Thailand", Do Channel
 https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist.m3u8
-#EXTINF:-1, group-title="Thailand", MCOT 30
-http://183.182.100.184/live/mcothd/playlist.m3u8
 #EXTINF:-1, group-title="Thailand", MCOT HD
 http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
 #EXTINF:-1, group-title="Thailand", Mono 29
@@ -178,8 +176,6 @@ http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
 https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1, group-title="Thailand", Suwannabhumi TV
 http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
-#EXTINF:-1, group-title="Thailand", TGN
-https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="Thailand", Thai Baan
 https://edge1a.v2h-cdn.com/appt3/Thaiban.stream_720p/playlist.m3u8
 #EXTINF:-1, group-title="Thailand", Thai One 31
@@ -202,7 +198,7 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
 
 #EXTINF:-1, group-title="Vietnam", 
-4
+
 #EXTINF:-1, group-title="China", 
 
 #EXTINF:-1, group-title="Myanmar", 
