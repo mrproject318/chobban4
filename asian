@@ -64,100 +64,48 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
 #EXTINF:-1, group-title="Indonesia", CTV Banten
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/CTV.m3u8
-
 #EXTINF:-1, group-title="Indonesia", Dhamma Buddha
 http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Disney Jr Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-
-
 #EXTINF:-1, group-title="Indonesia", Global TV - Offline
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-
-
 #EXTINF:-1, group-title="Indonesia", Indosiar
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/INDOSIAR.m3u8
-
-#EXTINF:-1, group-title="Indonesia", INEWS+
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-
-
-#EXTINF:-1, group-title="Indonesia", Inspira - OFFLINE
-http://stream1.ninmedia.tv/inspiratv/udp.stream_720p/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", JAK TV - OFFLINE
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Jek TV - OFFLINE
+#EXTINF:-1, group-title="Indonesia", Jek TV
 http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", JTV
-https://iptv33.000webhostapp.com/Hooq%20JTV.m3u8
-#EXTINF:-1, group-title="Indonesia", K+ - OFFLINE
-http://tvku.live:8888/steve/29PL8X/18
-#EXTINF:-1, group-title="Indonesia", KBS World - OFFLINE
-http://tvku.live:8888/steve/29PL8X/1521
-#EXTINF:-1, group-title="Indonesia", K Drama - OFFLINE
-http://tvku.live:8888/steve/29PL8X/1699
-#EXTINF:-1, group-title="Indonesia", Kitanesia - OFFLINE
-http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Kompas TV
-https://iptv33.000webhostapp.com/Vidio%20Kompas%20tv.m3u8
-#EXTINF:-1, group-title="Indonesia", Makkah TV (Islam) - OFFLINE
+https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G78DInOtyVKRo5f6XRYucZg)/dm/3/x6pz4sa/d/live-3.m3u8
+#EXTINF:-1, group-title="Indonesia", Makkah TV
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1, group-title="Indonesia", Madinah TV (Islam) - OFFLINE
+#EXTINF:-1, group-title="Indonesia", Madinah TV 
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1, group-title="Indonesia", Mix TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", MNC TV
+#EXTINF:-1, group-title="Indonesia", MNC TV - Offline
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1, group-title="Indonesia", NU Channel - OFFLINE
-http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Padang TV - OFFLINE
-https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Radar TV Lampung - OFFLINE
-http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Rajawali TV - OFFLINE
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1, group-title="Indonesia", Reformed 21 (Kristian) - OFFLINE
+#EXTINF:-1, group-title="Indonesia", Reformed 21 Kristian
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia", RCTI
+#EXTINF:-1 group-title="Indonesia", RCTI - Offline
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 group-title="Indonesia", RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1, group-title="Indonesia", RTV - OFFLINE
-http://210.210.155.35/qwr9ew/s/s12/index2.m3u8
-#EXTINF:-1, group-title="Indonesia", Rumah TV
-https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Salingsapa TV - OFFLINE
-http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", SBS Indonesia - OFFLINE
-http://tvku.live:8888/steve/29PL8X/1202
 #EXTINF:-1, group-title="Indonesia", SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
-#EXTINF:-1, group-title="Indonesia", Sony One - OFFLINE
-http://tvku.live:8888/steve/29PL8X/19
-#EXTINF:-1, group-title="Indonesia", S Gem HD - OFFLINE
-http://tvku.live:8888/steve/29PL8X/770
 #EXTINF:-1, group-title="Indonesia", Tahfizh TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", TBN - OFFLINE
-http://210.210.155.35/qwr9ew/s/s39/index.m3u8
-#EXTINF:-1, group-title="Indonesia", Tegar TV
-http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-#EXTINF:-1, group-title="Indonesia", The Indonesia Channel
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 #EXTINF:-1, group-title="Indonesia", TRANS 7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", TRANS TV
-https://iptv33.000webhostapp.com/Hooq%20TransTV.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", TVRI HD
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1, group-title="Indonesia", TV One
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:-1, group-title="Indonesia", Usee Prime
@@ -191,7 +139,7 @@ http://164.40.161.46:8003/play/s6
 #EXTINF:-1, group-title="Thailand", 
 
 #EXTINF:-1, group-title="Vietnam", 
-
+4
 #EXTINF:-1, group-title="China", 
 
 #EXTINF:-1, group-title="Myanmar", 
@@ -237,231 +185,155 @@ http://164.40.161.46:8003/play/s6
 #EXTINF:-1 group-title="Sports",
 
 
-#EXTINF:-1, group-title="English Movie On Demand", 
-
-#EXTINF:0 tvg-name="101 DALMATIONS" tvg-language="English" tvg-country="US" tvg-id="101 DALMATIONS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",101 DALMATIONS (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 101 Dalmations
 http://www.deadlyblogger.com/NewRelease/dal1.mp4
-
-#EXTINF:0 tvg-name="12 YEARS A SLAVE" tvg-language="English" tvg-country="US" tvg-id="12 YEARS A SLAVE" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",12 YEARS A SLAVE (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 12 Years A Slave
 http://www.deadlyblogger.com/NewRelease/12slave.mp4
-
-#EXTINF:0 tvg-name="28 DAYS LATER" tvg-language="English" tvg-country="US" tvg-id="28 DAYS LATER" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",28 DAYS LATER (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 28 Days Later
 http://www.deadlyblogger.com/NewRelease/28days.mp4
-
-#EXTINF:0 tvg-name="3 DAYS TO KILL" tvg-language="English" tvg-country="US" tvg-id="3 DAYS TO KILL" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",3 DAYS TO KILL (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 3 Days to Kill
 http://www.deadlyblogger.com/NewRelease/3days.mp4
-
-#EXTINF:0 tvg-name="3 DAYS" tvg-language="English" tvg-country="US" tvg-id="3 DAYS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",3 DAYS (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 3 Days
 http://www.deadlyblogger.com/NewRelease/3days.mp4
-
-#EXTINF:0 tvg-name="3 NINJA 2: KICK BACK" tvg-language="English" tvg-country="US" tvg-id="3 NINJA 2: KICK BACK" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",3 NINJA 2: KICK BACK (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 3 Ninja 2 : Kick Back
 http://www.deadlyblogger.com/NewRelease/3ninja2.mp4
-
-#EXTINF:0 tvg-name="3 NINJA 3: KNUCKLE UP" tvg-language="English" tvg-country="US" tvg-id="3 NINJA 3: KNUCKLE UP" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",3 NINJA 3: KNUCKLE UP (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 3 Ninja 3 : Knuckle Up
 http://www.deadlyblogger.com/NewRelease/3ninja3.mp4
-
-#EXTINF:0 tvg-name="3 NINJA 4: HIGH NOON AT MEGA MOUNTIN" tvg-language="English" tvg-country="US" tvg-id="3 NINJA 4: HIGH NOON AT MEGA MOUNTIN" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",3 NINJA 4: HIGH NOON AT MEGA MOUNTIN (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 3 Ninja 4 : High Noon At Mega Mountain
 http://www.deadlyblogger.com/NewRelease/3ninja4.mp4
-
-#EXTINF:0 tvg-name="3 NINJA" tvg-language="English" tvg-country="US" tvg-id="3 NINJA" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",3 NINJA (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 3 Ninja
 http://www.deadlyblogger.com/NewRelease/3ninja1.mp4
-
-#EXTINF:0 tvg-name="300 RISE OF AN EMPIRE" tvg-language="English" tvg-country="US" tvg-id="300 RISE OF AN EMPIRE" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",300 RISE OF AN EMPIRE (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 300 Rise Of An Empire
 http://www.deadlyblogger.com/NewRelease/300rise.mp4
-
-#EXTINF:0 tvg-name="47 RONIN" tvg-language="English" tvg-country="US" tvg-id="47 RONIN" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",47 RONIN (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", 47 Ronin
 http://www.deadlyblogger.com/NewRelease/47ronin.mp4
-
-#EXTINF:0 tvg-name="A CHRISTMAS CAROL" tvg-language="English" tvg-country="US" tvg-id="A CHRISTMAS CAROL" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",A CHRISTMAS CAROL (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", A Christmas Carol
 http://www.deadlyblogger.com/NewRelease/acc2009.mp4
-
-#EXTINF:0 tvg-name="A DISNEY CHRISTMAS GIFT" tvg-language="English" tvg-country="US" tvg-id="A DISNEY CHRISTMAS GIFT" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",A DISNEY CHRISTMAS GIFT (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", A Disney Christmas Gift
 http://www.deadlyblogger.com/NewRelease/disneyc1.mp4
-
-#EXTINF:0 tvg-name="A HAUNTED HOUSE 2 COMEDY" tvg-language="English" tvg-country="US" tvg-id="A HAUNTED HOUSE 2 COMEDY" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",A HAUNTED HOUSE 2 COMEDY (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", A Haunted House 2 Comedy
 http://www.deadlyblogger.com/NewRelease/haunted2.mp4
-
-#EXTINF:0 tvg-name="A NIGHT AT ROXBURY" tvg-language="English" tvg-country="US" tvg-id="A NIGHT AT ROXBURY" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",A NIGHT AT ROXBURY (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", A Night At Roxbury
 http://www.deadlyblogger.com/NewRelease/roxbury.mp4
-
-#EXTINF:0 tvg-name="AFFLICTED" tvg-language="English" tvg-country="US" tvg-id="AFFLICTED" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",AFFLICTED (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Afflicted
 http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
-
-#EXTINF:0 tvg-name="AFTER EARTH" tvg-language="English" tvg-country="US" tvg-id="AFTER EARTH" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",AFTER EARTH (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", After Earth
 http://www.deadlyblogger.com/NewRelease/after.mp4
-
-#EXTINF:0 tvg-name="AFTER" tvg-language="English" tvg-country="US" tvg-id="AFTER" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",AFTER (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", After
 http://www.deadlyblogger.com/NewRelease/after.mp4
-
-#EXTINF:0 tvg-name="ALI" tvg-language="English" tvg-country="US" tvg-id="ALI" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",ALI (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Ali
 http://www.deadlyblogger.com/NewRelease/ali1.mp4
-
-#EXTINF:0 tvg-name="AMERICAN GANGSTER" tvg-language="English" tvg-country="US" tvg-id="AMERICAN GANGSTER" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",AMERICAN GANGSTER (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", American Gangster
 http://www.deadlyblogger.com/NewRelease/agangster.mp4
-
-#EXTINF:0 tvg-name="AMERICAN HUSTLE" tvg-language="English" tvg-country="US" tvg-id="AMERICAN HUSTLE" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",AMERICAN HUSTLE (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", American Hustle
 http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
-
-#EXTINF:0 tvg-name="ANCHORMAN 2: THE LEGEND CONTINUES" tvg-language="English" tvg-country="US" tvg-id="ANCHORMAN 2: THE LEGEND CONTINUES" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",ANCHORMAN 2: THE LEGEND CONTINUES (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Anchorman 2 : The Legend Continues
 http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
-
-#EXTINF:0 tvg-name="ANCHORMAN THE LEGEND OF RON BURGUNDY" tvg-language="English" tvg-country="US" tvg-id="ANCHORMAN THE LEGEND OF RON BURGUNDY" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",ANCHORMAN THE LEGEND OF RON BURGUNDY (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Anchorman : The Legend Of Ron Burgundy
 http://www.deadlyblogger.com/NewRelease/anchorman.mp4
-
-#EXTINF:0 tvg-name="ANIMAL" tvg-language="English" tvg-country="US" tvg-id="ANIMAL" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",ANIMAL (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Animal
 http://www.deadlyblogger.com/NewRelease/animal.mp4
-
-#EXTINF:0 tvg-name="AUSTIN POWERS" tvg-language="English" tvg-country="US" tvg-id="AUSTIN POWERS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",AUSTIN POWERS (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Austin Powers
 http://www.deadlyblogger.com/NewRelease/austin1.mp4
-
-#EXTINF:0 tvg-name="AUSTIN POWERS: THE SPY WHO SHAGGED ME" tvg-language="English" tvg-country="US" tvg-id="AUSTIN POWERS: THE SPY WHO SHAGGED ME" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",AUSTIN POWERS: THE SPY WHO SHAGGED ME (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Austin Powers : The Spy Who Shagged Me
 http://www.deadlyblogger.com/NewRelease/austin2.mp4
-
-#EXTINF:0 tvg-name="BAD BOYS 2" tvg-language="English" tvg-country="US" tvg-id="BAD BOYS 2" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BAD BOYS 2 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Bad Boys 2
 http://www.deadlyblogger.com/NewRelease/badboys2.mp4
-
-#EXTINF:0 tvg-name="BAD BOYS" tvg-language="English" tvg-country="US" tvg-id="BAD BOYS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BAD BOYS (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Bad boys
 http://www.deadlyblogger.com/NewRelease/badboys1.mp4
-
-#EXTINF:0 tvg-name="BAD GRANDPA" tvg-language="English" tvg-country="US" tvg-id="BAD GRANDPA" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BAD GRANDPA (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Bad Grandpa (2013)
 http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
-
-#EXTINF:0 tvg-name="BAD WORDS" tvg-language="English" tvg-country="US" tvg-id="BAD WORDS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BAD WORDS (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Bad Words
 http://www.deadlyblogger.com/NewRelease/badwords.mp4
-
-#EXTINF:0 tvg-name="BALLER BLOCKIN" tvg-language="English" tvg-country="US" tvg-id="BALLER BLOCKIN" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BALLER BLOCKIN (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Baller Blockin
 http://www.deadlyblogger.com/NewRelease/blockin.mp4
-
-#EXTINF:0 tvg-name="BATTLE FOR THE PLANET OF THE APES" tvg-language="English" tvg-country="US" tvg-id="BATTLE FOR THE PLANET OF THE APES" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BATTLE FOR THE PLANET OF THE APES (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Battle For The Planet Of The Apes
 http://www.deadlyblogger.com/NewRelease/apes5.mp4
-
-#EXTINF:0 tvg-name="BATTLE OF THE YEAR" tvg-language="English" tvg-country="US" tvg-id="BATTLE OF THE YEAR" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BATTLE OF THE YEAR (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Battle Of The Year
 http://www.deadlyblogger.com/NewRelease/battleyear2013.mp4
-
-#EXTINF:0 tvg-name="BEANEATH PLANET OF THE APES" tvg-language="English" tvg-country="US" tvg-id="BEANEATH PLANET OF THE APES" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BEANEATH PLANET OF THE APES (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Beneath Planet Of The Apes
 http://www.deadlyblogger.com/NewRelease/apes2.mp4
-
-#EXTINF:0 tvg-name="BELLY" tvg-language="English" tvg-country="US" tvg-id="BELLY" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BELLY (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Belly
 http://www.deadlyblogger.com/NewRelease/belly1998.mp4
-
-#EXTINF:0 tvg-name="Beto TV" tvg-language="English" tvg-country="US" tvg-id="BETO tv" tvg-logo="http://www.userlogos.org/files/logos/14505_deva/ccloud1.png" group-title="Lifestyle",Beto TV (Lifestyle) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Beto TV
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-
-#EXTINF:0 tvg-name="BEWITCHED" tvg-language="English" tvg-country="US" tvg-id="BEWITCHED" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BEWITCHED (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Bewitched
 http://www.deadlyblogger.com/NewRelease/bewitched.mp4
-
-#EXTINF:0 tvg-name="BLADE 1" tvg-language="English" tvg-country="US" tvg-id="BLADE 1" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BLADE 1 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Blade 1
 http://www.deadlyblogger.com/NewRelease/blade1.mp4
-
-#EXTINF:0 tvg-name="BLADE 2" tvg-language="English" tvg-country="US" tvg-id="BLADE 2" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BLADE 2 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Blade 2
 http://www.deadlyblogger.com/NewRelease/blade2.mp4
-
-#EXTINF:0 tvg-name="BLADE 3" tvg-language="English" tvg-country="US" tvg-id="BLADE 3" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BLADE 3 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Blade 3
 http://www.deadlyblogger.com/NewRelease/blade3.mp4
-
-#EXTINF:0 tvg-name="BLADES OF GLORY" tvg-language="English" tvg-country="US" tvg-id="BLADES OF GLORY" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BLADES OF GLORY (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Blades Of Glory
 http://www.deadlyblogger.com/NewRelease/glory.mp4
-
-#EXTINF:0 tvg-name="BLOOD IN BLOOD OUT VATOS LACOS" tvg-language="English" tvg-country="US" tvg-id="BLOOD IN BLOOD OUT VATOS LACOS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BLOOD IN BLOOD OUT VATOS LACOS (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Blood In Blood Out Vatos Lacos
 http://www.deadlyblogger.com/NewRelease/blood.mp4
-
-#EXTINF:0 tvg-name="BODY HEAT" tvg-language="English" tvg-country="US" tvg-id="BODY HEAT" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BODY HEAT (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Body Heat
 http://www.deadlyblogger.com/NewRelease/bodyheat1981.mp4
-
-#EXTINF:0 tvg-name="BOYZ N THE HOOD" tvg-language="English" tvg-country="US" tvg-id="BOYZ N THE HOOD" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",BOYZ N THE HOOD (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Boyz N The Hood
 http://www.deadlyblogger.com/NewRelease/thehood.mp4
-
-#EXTINF:0 tvg-name="BYU TV" tvg-language="English" tvg-country="US" tvg-id="BYU TV" tvg-logo="http://www.byutv.org/Content/images/logo-grayscale.png" group-title="Lifestyle",BYU TV (Lifestyle) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Byu TV
 http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/master.m3u8
-
-#EXTINF:0 tvg-name="CABIN BY THE LAKE" tvg-language="English" tvg-country="US" tvg-id="CABIN BY THE LAKE" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CABIN BY THE LAKE (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Cabin By The Lake
 http://www.deadlyblogger.com/NewRelease/cabin1.mp4
-
-#EXTINF:0 tvg-name="CARRIE 1976" tvg-language="English" tvg-country="US" tvg-id="CARRIE 1976" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CARRIE 1976 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Carrie (1976)
 http://www.deadlyblogger.com/NewRelease/carrie1976.mp4
-
-#EXTINF:0 tvg-name="CARRIE 2013" tvg-language="English" tvg-country="US" tvg-id="CARRIE 2013" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CARRIE 2013 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Carrie (2013)
 http://www.deadlyblogger.com/NewRelease/carrie2013.mp4
-
-#EXTINF:0 tvg-name="CHILDREN OF THE CORN 1" tvg-language="English" tvg-country="US" tvg-id="CHILDREN OF THE CORN 1" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CHILDREN OF THE CORN 1 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Children Of The Corn 1
 http://www.deadlyblogger.com/NewRelease/corn1984.mp4
-
-#EXTINF:0 tvg-name="CHILDREN OF THE CORN 2" tvg-language="English" tvg-country="US" tvg-id="CHILDREN OF THE CORN 2" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CHILDREN OF THE CORN 2 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Children Of The Corn 2
 http://www.deadlyblogger.com/NewRelease/corn2.mp4
-
-#EXTINF:0 tvg-name="CHILDREN OF THE CORN 3" tvg-language="English" tvg-country="US" tvg-id="CHILDREN OF THE CORN 3" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CHILDREN OF THE CORN 3 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Chlidren Of The Corn 3
 http://www.deadlyblogger.com/NewRelease/corn3.mp4
-
-#EXTINF:0 tvg-name="CHILDREN OF THE CORN 4" tvg-language="English" tvg-country="US" tvg-id="CHILDREN OF THE CORN 4" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CHILDREN OF THE CORN 4 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Chlidren Of The Corn 4
 http://www.deadlyblogger.com/NewRelease/corn4.mp4
-
-#EXTINF:0 tvg-name="CHILDREN OF THE CORN 5" tvg-language="English" tvg-country="US" tvg-id="CHILDREN OF THE CORN 5" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CHILDREN OF THE CORN 5 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Children Of The Corn 5
 http://www.deadlyblogger.com/NewRelease/corn5.mp4
-
-#EXTINF:0 tvg-name="CHILDREN OF THE CORN 6" tvg-language="English" tvg-country="US" tvg-id="CHILDREN OF THE CORN 6" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CHILDREN OF THE CORN 6 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Children Of The Corn 6
 http://www.deadlyblogger.com/NewRelease/corn6.mp4
-
-#EXTINF:0 tvg-name="CHILDS PLAY 1" tvg-language="English" tvg-country="US" tvg-id="CHILDS PLAY 1" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CHILDS PLAY 1 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Childs Play 1
 http://www.deadlyblogger.com/NewRelease/childsplay1.mp4
-
-#EXTINF:0 tvg-name="CHILDS PLAY 2" tvg-language="English" tvg-country="US" tvg-id="CHILDS PLAY 2" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CHILDS PLAY 2 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Childs Play 2
 http://www.deadlyblogger.com/NewRelease/childsplay2.mp4
-
-#EXTINF:0 tvg-name="CHILDS PLAY 3" tvg-language="English" tvg-country="US" tvg-id="CHILDS PLAY 3" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CHILDS PLAY 3 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Childs Play 3
 http://www.deadlyblogger.com/NewRelease/childsplay3.mp4
-
-#EXTINF:0 tvg-name="CINDERELLA 1950" tvg-language="English" tvg-country="US" tvg-id="CINDERELLA 1950" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CINDERELLA 1950 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Cinderella (1950)
 http://www.deadlyblogger.com/NewRelease/cinder1.mp4
-
-#EXTINF:0 tvg-name="CLASS ACT" tvg-language="English" tvg-country="US" tvg-id="CLASS ACT" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CLASS ACT (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Class Act
 http://www.deadlyblogger.com/NewRelease/classact.mp4
-
-#EXTINF:0 tvg-name="COLORS" tvg-language="English" tvg-country="US" tvg-id="COLORS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",COLORS (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Colors
 http://www.deadlyblogger.com/NewRelease/colors.mp4
-
-#EXTINF:0 tvg-name="CONGO 1995" tvg-language="English" tvg-country="US" tvg-id="CONGO 1995" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CONGO 1995 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Congo (1995)
 http://www.deadlyblogger.com/NewRelease/congo1995.mp4
-
-#EXTINF:0 tvg-name="CONQUEST OF THE PLANET OF THE APES" tvg-language="English" tvg-country="US" tvg-id="CONQUEST OF THE PLANET OF THE APES" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CONQUEST OF THE PLANET OF THE APES (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Conquest Of The Planet Of The Apes
 http://www.deadlyblogger.com/NewRelease/apes4.mp4
-
-#EXTINF:0 tvg-name="CRIMSON" tvg-language="English" tvg-country="US" tvg-id="CRIMSON" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CRIMSON (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Crimson
 http://www.deadlyblogger.com/NewRelease/crimson.mp4
-
-#EXTINF:0 tvg-name="CUJO" tvg-language="English" tvg-country="US" tvg-id="CUJO" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",CUJO (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Cujo
 http://www.deadlyblogger.com/NewRelease/cujo.mp4
-
-#EXTINF:0 tvg-name="Cnc3" tvg-language="English" tvg-country="TT" tvg-id="Cnc3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs7bMoD5c7mf0WvrxdL8e3KrSoeCTQdIFF1dZwYo-SSjyaLNV1oZ5yMw" group-title="Entertainment",Cnc3 (Entertainment) (TT) (English)
+#EXTINF:-1, group-title="English Movie On Demand", CNC3
 rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
-
-#EXTINF:0 tvg-name="DANGEROUS MINDS" tvg-language="English" tvg-country="US" tvg-id="DANGEROUS MINDS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DANGEROUS MINDS (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Dangerous Mind
 http://www.deadlyblogger.com/NewRelease/minds.mp4
-
-#EXTINF:0 tvg-name="DEAD PRESIDENTS" tvg-language="English" tvg-country="US" tvg-id="DEAD PRESIDENTS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DEAD PRESIDENTS (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Dead Presidents
 http://www.deadlyblogger.com/NewRelease/deadp.mp4
-
-#EXTINF:0 tvg-name="DEJA VU" tvg-language="English" tvg-country="US" tvg-id="DEJA VU" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DEJA VU (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Deja Vu
 http://www.deadlyblogger.com/NewRelease/dejavu.mp4
-
-#EXTINF:0 tvg-name="DELIVERY MAN" tvg-language="English" tvg-country="US" tvg-id="DELIVERY MAN" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DELIVERY MAN (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Delivery Man
 http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
-
-#EXTINF:0 tvg-name="DIRTY DANCING 1987" tvg-language="English" tvg-country="US" tvg-id="DIRTY DANCING 1987" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DIRTY DANCING 1987 (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Dirty Dancing (1987)
 http://www.deadlyblogger.com/NewRelease/dirtydancing1987.mp4
-
-#EXTINF:0 tvg-name="DIRTY DANCING HAVANA" tvg-language="English" tvg-country="US" tvg-id="DIRTY DANCING HAVANA" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DIRTY DANCING HAVANA (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Dirty Dancing Havana
 http://www.deadlyblogger.com/NewRelease/dirtydancing2004.mp4
-
-#EXTINF:0 tvg-name="DIRTY" tvg-language="English" tvg-country="US" tvg-id="DIRTY" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DIRTY (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Dirty
 http://www.deadlyblogger.com/NewRelease/dirty1.mp4
-
-#EXTINF:0 tvg-name="DOGMA" tvg-language="English" tvg-country="US" tvg-id="DOGMA" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DOGMA (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Dogma
 http://www.deadlyblogger.com/NewRelease/dogma1999.mp4
-
-#EXTINF:0 tvg-name="DONT BE A MENACE" tvg-language="English" tvg-country="US" tvg-id="DONT BE A MENACE" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DONT BE A MENACE (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Don't Be A Menace
 http://www.deadlyblogger.com/NewRelease/menace.mp4
-
-#EXTINF:0 tvg-name="DONT TELL MOM THE BABYSITTERS DEAD" tvg-language="English" tvg-country="US" tvg-id="DONT TELL MOM THE BABYSITTERS DEAD" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DONT TELL MOM THE BABYSITTERS DEAD (OnDemandMovies) (US) (English)
+#EXTINF:-1, group-title="English Movie On Demand", Don't Tell Mom The Babysitters Dead (1991)
 http://www.deadlyblogger.com/NewRelease/babysitter1991.mp4
 
 #EXTINF:0 tvg-name="DUCKTALES: TREASURE OF THE LOST LAMP" tvg-language="English" tvg-country="US" tvg-id="DUCKTALES: TREASURE OF THE LOST LAMP" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",DUCKTALES: TREASURE OF THE LOST LAMP (OnDemandMovies) (US) (English)
