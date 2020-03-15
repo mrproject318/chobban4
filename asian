@@ -112,6 +112,7 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 
 
+
 #EXTINF:-1, group-title="Philipines", TV5/ESPN 5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1085149194.m3u8
 #EXTINF:-1, group-title="Philipines", TV5 PLUS
@@ -134,6 +135,7 @@ https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
 #EXTINF:-1, group-title="Philipines", Telenovela Channel
 http://164.40.161.46:8003/play/s6
+
 
 
 #EXTINF:-1, group-title="Thailand", 13 Siam TV
@@ -195,15 +197,236 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
 
 
+#EXTINF:-1, group-title="Vietnam", CTV
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1, group-title="Vietnam", KRT
+http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
+#EXTINF:-1, group-title="Vietnam", NTV
+http://113.160.173.47:8080/live/na1_720/index.m3u8
+#EXTINF:-1, group-title="Vietnam", PTP
+http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1, group-title="Vietnam", TN1
+http://thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1, group-title="Vietnam", ATV
+http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
+#EXTINF:-1, group-title="Vietnam", ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1, group-title="Vietnam", HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1, group-title="Vietnam", THLC
+http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
+#EXTINF:-1, group-title="Vietnam", THGL
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1, group-title="Vietnam", THTG
+http://thtg.vn:8001/thtg.m3u8
+#EXTINF:-1, group-title="Vietnam", BPTV 1
+http://118.69.197.145/hls/bptv1.m3u8
+#EXTINF:-1, group-title="Vietnam", BPTV 2
+http://118.69.197.145/hls/bptv2.m3u8
+#EXTINF:-1, group-title="Vietnam", V News
+http://live.vnanet.vn/480P/playlist.m3u8
+#EXTINF:-1, group-title="Vietnam", Hung Yen
+http://live.hungyentv.vn:1935/live/HYTV/chunklist_w769520286.m3u8
+#EXTINF:-1, group-title="Vietnam", Da Nang 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1, group-title="Vietnam", Da Nang 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 
-#EXTINF:-1, group-title="Vietnam", 
+#EXTINF:-1, group-title="China", Bright Smart Channel
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1, group-title="China", Hong Kong Open TV
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1, group-title="China", RTHK 31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+#EXTINF:-1, group-title="China", Canal Macau
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1, group-title="China", MASTV Macau
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:-1, group-title="China", TDM HD Macau
+http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1, group-title="China", TDM Sports Macau
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1, group-title="China", TDM Info Macau
+http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1, group-title="China", TDM Macau Satelite
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1, group-title="China", Aniu TV
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1, group-title="China", CCTV 2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1, group-title="China", CCTV 3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1, group-title="China", CCTV 4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1, group-title="China", CCTV 6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1, group-title="China", CCTV 8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1, group-title="China", CCTV 9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1, group-title="China", CCTV 10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1, group-title="China", CCTV 11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1, group-title="China", CCTV 12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1, group-title="China", CCTV 13
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1, group-title="China", CCTV 14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1, group-title="China", China Business Network
+https://w1live.livecdn.yicai.com/live/cbn.m3u8
+#EXTINF:-1, group-title="China", China CTV 1
+http://stream.chinactv.com/ctv1/sd/live.m3u8
+#EXTINF:-1, group-title="China", China CTV 2
+http://stream.chinactv.com/ctv2/sd/live.m3u8
+#EXTINF:-1, group-title="China", China CTV 3
+http://stream.chinactv.com/ctv3/sd/live.m3u8
+#EXTINF:-1, group-title="China", China CTV 5
+http://stream.chinactv.com/ctv5/sd/live.m3u8
+#EXTINF:-1, group-title="China", Max Financial Media
+http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+#EXTINF:-1, group-title="China", NewTV Movies
+http://183.251.61.198/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1, group-title="China", NewTV Sports
+http://183.251.61.198/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1, group-title="China", Nongan News
+http://stream2.jlntv.cn/naxw/sd/live.m3u8
+#EXTINF:-1, group-title="China", Tonghua TV 1 Jilin
+http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1, group-title="China", Yanbian TV Jilin
+http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+#EXTINF:-1, group-title="China", Yushu TV Jilin
+http://stream.zhystv.com/yset/sd/live.m3u8
+#EXTINF:-1, group-title="China", Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1, group-title="China", CNTV
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+#EXTINF:-1, group-title="China", FTV News
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="China", Sportscast
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1, group-title="China", UChannel TV
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1, group-title="China", HRT 1
+http://live1.hrtonline.cn:1935/live/live101/500K/tzwj_video.m3u8
+#EXTINF:-1, group-title="China", HRT 2
+http://live1.hrtonline.cn:1935/live/live102/500K/tzwj_video.m3u8
+#EXTINF:-1, group-title="China", HRT 3
+http://live1.hrtonline.cn:1935/live/live100/500K/tzwj_video.m3u8
 
-#EXTINF:-1, group-title="China", 
 
-#EXTINF:-1, group-title="Myanmar", 
+#EXTINF:-1, group-title="India", 4K Tamil TV
+http://184.173.179.163:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+#EXTINF:-1, group-title="India", 5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1, group-title="India", Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1, group-title="India", Akaram Mix
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:-1, group-title="India", Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1, group-title="India", Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
+#EXTINF:-1, group-title="India", BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1, group-title="India", Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+#EXTINF:-1, group-title="India", Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1, group-title="India", Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1, group-title="India", DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1, group-title="India", Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1, group-title="India", Desi TV USA
+http://cdn30.liveonlineservices.com/hls/desitv.m3u8
+#EXTINF:-1, group-title="India", Dighvijay News 24x7
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
+#EXTINF:-1, group-title="India", Dilli Aaj Tak
+https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/chunks.m3u8
+#EXTINF:-1, group-title="India", EET TV
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:-1, group-title="India", Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1, group-title="India", Fastway TV
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1, group-title="India", Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1, group-title="India", Garshom News
+http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1, group-title="India", Hamdard TV
+http://cdn.samtv.ca/hamdard/index.m3u8
+#EXTINF:-1, group-title="India", Bhakti Sagar
+http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+#EXTINF:-1, group-title="India", Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1, group-title="India", Pop Pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1, group-title="India", Punjabi Tadka
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1, group-title="India", India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+#EXTINF:-1, group-title="India", Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1, group-title="India", Jhanjar 
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:-1, group-title="India", Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1, group-title="India", Khabrain Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
+#EXTINF:-1, group-title="India", Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1, group-title="India", Lok Sabha TV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:-1, group-title="India", Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1, group-title="India", Nagara TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1, group-title="India", News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1, group-title="India", Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="India", PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+#EXTINF:-1, group-title="India", Rajya Sabha TV
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:-1, group-title="India", Saral Jeevan
+https://vidcdn.vidgyor.com/saraljeevan-origin/liveabr/saraljeevan-origin/live1/chunks.m3u8
+#EXTINF:-1, group-title="India", Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1, group-title="India", Sri Krishna TV
+http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
+#EXTINF:-1, group-title="India", Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1, group-title="India", Sur Sagar TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="India", Surya Samachar
+http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
+#EXTINF:-1, group-title="India", Taaza TV
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/playlist.m3u8
+#EXTINF:-1, group-title="India", Tamil Vision International
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1, group-title="India", Tamil Vision International
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1, group-title="India", TCV Tirur
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1, group-title="India", Thanti TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+#EXTINF:-1, group-title="India", Times Now
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1, group-title="India", TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:-1, group-title="India", Vaanavil TV
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1, group-title="India", Venus TV
+https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 
-#EXTINF:-1, group-title="India", 
+
+
+
 
 #EXTINF:-1, group-title="Pakistan", 
 
@@ -232,7 +455,7 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge", 
 
 
-#EXTINF:-1  group-title="KIDS",
+#EXTINF:-1  group-title="Kids",
 
 
 #EXTINF:-1 group-title="Infotainment & Lifestyle", 
@@ -344,9 +567,9 @@ http://www.deadlyblogger.com/NewRelease/carrie2013.mp4
 http://www.deadlyblogger.com/NewRelease/corn1984.mp4
 #EXTINF:-1, group-title="English Movie On Demand", Children Of The Corn 2
 http://www.deadlyblogger.com/NewRelease/corn2.mp4
-#EXTINF:-1, group-title="English Movie On Demand", Chlidren Of The Corn 3
+#EXTINF:-1, group-title="English Movie On Demand", Children Of The Corn 3
 http://www.deadlyblogger.com/NewRelease/corn3.mp4
-#EXTINF:-1, group-title="English Movie On Demand", Chlidren Of The Corn 4
+#EXTINF:-1, group-title="English Movie On Demand", Children Of The Corn 4
 http://www.deadlyblogger.com/NewRelease/corn4.mp4
 #EXTINF:-1, group-title="English Movie On Demand", Children Of The Corn 5
 http://www.deadlyblogger.com/NewRelease/corn5.mp4
