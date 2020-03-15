@@ -70,6 +70,8 @@ http://tvku.live:8888/steve/29PL8X/874
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33248
 #EXTINF:-1, group-title="Malaysia", Classic Chinese Movies - OFFLINE
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33262
+#EXTINF:-1, group-title="Malaysia", TV Selangor
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584262923/ei/q5ptXvXQE87L4-EPlba1YA/ip/60.53.232.127/id/_NE2sWAzFNg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAOlfgcqu7JA3anLY1Y2tL3yOXi3pCpUVfV5GLpvj-PAWAiEA_aOBy-UkmAkXgUaYDvjpUw45VfGyjLQju_f8TtjimTY%3D/file/index.m3u8
 
 #EXTINF:-1, group-title="Singapore", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
