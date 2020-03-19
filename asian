@@ -531,6 +531,13 @@ http://203.162.235.41:16916
 
 #EXTINF:-1, group-title="Russia", 
 
+#EXTINF:-1  group-title="Kids", Cartoon Network Arabic
+http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1  group-title="Kids", Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+
+
+
 #EXTINF:-1 group-title="Movie Channel", Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 group-title="Movie Channel", Disney Channel
@@ -541,6 +548,10 @@ http://210.210.155.66/h/h143/02.m3u8
 http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", Kix
 http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1 group-title="Movie Channel", ConTV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
+
+
 
 #EXTINF:-1 group-title="News", Astro Awani Malaysia
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
@@ -574,10 +585,10 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 group-title="News", Press TV Iran
 https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:-1 group-title="News", Sky News australia
+#EXTINF:-1 group-title="News", Sky News Australia
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 group-title="News", RT Russia
-http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/playlist.m3u8
+https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 group-title="News", TRT World Turkey
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="News", CNN Indonesia
@@ -617,15 +628,12 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 
 
 
-
 #EXTINF:-1 group-title="Knowledge & Infotainment", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", BBC Earth
 
-#EXTINF:-1 group-title="Knowledge & Infotainment", Smithsonian
-
 #EXTINF:-1 group-title="Knowledge & Infotainment", Asian Food Channel
-
+http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History
@@ -638,26 +646,24 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life HD
-
+#EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life 
+https://plbl.m9.lfstrm.tv/fox_life/normal/1/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Lifetime HD
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", 
-
-#EXTINF:-1 group-title="Knowledge & Infotainment",
-
+#EXTINF:-1 group-title="Knowledge & Infotainment", CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel
-
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor Channel
-
+http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Home & Living
-
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Ocean TV
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", People TV
@@ -671,9 +677,9 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", RT Documentary
-
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor America
-
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", UN TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Info Wars TV
@@ -684,26 +690,40 @@ https://live.chdrstatic.com/cheddar/primary/5.m3u8
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/2/prog_index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Safe TV
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Japanet
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" Love World USA
+http://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_4728_av-p.m3u8
 
-#EXTINF:-1 group-title="Knowledge & Infotainment",
-
-#EXTINF:-1 group-title="Knowledge & Infotainment",
-
-
-
-
-
-
-#EXTINF:-1  group-title="Kids", Cartoon Network Arabic
-http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
 
 
 #EXTINF:-1 group-title="Entertainment", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="Entertainment", America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="Entertainment", AKC
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 group-title="Entertainment", Beach TV
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 group-title="Entertainment", RadioM20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Entertainment", Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment", 
 
+#EXTINF:-1 group-title="Entertainment", 
 
+#EXTINF:-1 group-title="Entertainment",
 
+#EXTINF:-1 group-title="Entertainment",
 
+#EXTINF:-1 group-title="Entertainment",
+
+#EXTINF:-1 group-title="Entertainment", 
+
+#EXTINF:-1 group-title="Entertainment",
 
 
 
