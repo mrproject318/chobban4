@@ -4,8 +4,8 @@
 https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", TV2 
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Malaysia", TV3 - Offline
-http://190.2.155.140:8278/TV3/playlist.m3u8
+#EXTINF:-1, group-title="Malaysia", TV3
+
 #EXTINF:-1, group-title="Malaysia", NTV7 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1, group-title="Malaysia", 8TV
@@ -14,28 +14,18 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1, group-title="Malaysia", Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-#EXTINF:-1, group-title="Malaysia", Hello - Offline
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28701
+#EXTINF:-1, group-title="Malaysia", Hello
+
 #EXTINF:-1, group-title="Malaysia", OKEY 
 https://rtm1hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Malaysia", RTM Sports HD - Offline
-https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Malaysia", RTM BES
-https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Malaysia", Astro Awani 
-http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1, group-title="Malaysia", TV Alhijrah - Offline
-http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28636
+#EXTINF:-1, group-title="Malaysia", RTM Sports HD 
+#EXTINF:-1, group-title="Malaysia", TV Alhijrah
+
 #EXTINF:-1, group-title="Malaysia", TV IKIM HD 
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1, group-title="Malaysia", Bernama TV - Offline
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584262084/ei/Y5dtXoXROM273LUPib21-As/ip/60.53.232.127/id/Bh5dqmsu2bA.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAMiLtVGlqSh647xgxhihKocMA_xwz8h5fejJOOJovzw8AiEAjp8kx-UFumZpqw2qyo4NU5YVMi2oelaJ1N47B1Ab_-A%3D/file/index.m3u8
-#EXTINF:-1, group-title="Malaysia", RTM Parlimen
-https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", Naura 
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1, group-title="Malaysia", TV Selangor
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584262923/ei/q5ptXvXQE87L4-EPlba1YA/ip/60.53.232.127/id/_NE2sWAzFNg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAOlfgcqu7JA3anLY1Y2tL3yOXi3pCpUVfV5GLpvj-PAWAiEA_aOBy-UkmAkXgUaYDvjpUw45VfGyjLQju_f8TtjimTY%3D/file/index.m3u8
 
 
 #EXTINF:-1, group-title="Singapore", Channel 5
@@ -86,12 +76,12 @@ http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1, group-title="Indonesia", MNC TV - Offline
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1, group-title="Indonesia", MNC TV
+
 #EXTINF:-1, group-title="Indonesia", Reformed 21 Kristian
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia", RCTI - Offline
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 group-title="Indonesia", RCTI
+
 #EXTINF:-1 group-title="Indonesia", RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1, group-title="Indonesia", SCTV
@@ -438,16 +428,16 @@ https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 
 #EXTINF:-1, group-title="Korea", Korean Central Television
 https://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1, group-title="Korea", KBS World - Offline
+#EXTINF:-1, group-title="Korea", KBS World
 
-#EXTINF:-1, group-title="Korea", NHK - Offline
+#EXTINF:-1, group-title="Korea", NHK
 
 #EXTINF:-1, group-title="Korea", NHK Education TV
 http://203.162.235.41:16901
 #EXTINF:-1, group-title="Korea", NHK BS
 http://203.162.235.41:16910
 #EXTINF:-1, group-title="Korea", NHK World Premium
-http://160.119.77.50/iptv/sd-nhkpremium.stream/playlist.m3u8
+
 #EXTINF:-1, group-title="Korea", MBS On
 http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
 #EXTINF:-1, group-title="Korea", SBS International
@@ -541,93 +531,188 @@ http://203.162.235.41:16916
 
 #EXTINF:-1, group-title="Russia", 
 
-#EXTINF:-1 group-title="Movie Channel", 
+#EXTINF:-1 group-title="Movie Channel", Star Movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 group-title="Movie Channel", Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Channel", Sony One HD
+http://210.210.155.66/h/h143/02.m3u8
+#EXTINF:-1 group-title="Movie Channel", K+
+http://210.210.155.66/h/h08/01.m3u8
+#EXTINF:-1 group-title="Movie Channel", Kix
+http://210.210.155.66/h/h07/01.m3u8
 
 
-#EXTINF:-1 group-title="Knowledge", Red Bull TV
+#EXTINF:-1 group-title="News", Astro Awani Malaysia
+http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="News", Berita RTM Malaysia
+https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="News", Bernama News Channel Malaysia
+
+#EXTINF:-1 group-title="News", Al Jazeera English Qatar
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="News", CNN International USA
+http://mrriptv.dnsabr.com:8080/jeffo/johnny1/17053
+#EXTINF:-1 group-title="News", BBC World News UK
+
+#EXTINF:-1 group-title="News", CGTN China
+
+#EXTINF:-1 group-title="News", Fox News Channel USA
+
+#EXTINF:-1 group-title="News", Arirang TV Korea
+
+#EXTINF:-1 group-title="News", CNBC World Singapore
+
+#EXTINF:-1 group-title="News", DW Germany
+
+#EXTINF:-1 group-title="News", Euronews Europe
+
+#EXTINF:-1 group-title="News", France 24
+http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
+#EXTINF:-1 group-title="News", i24 News Israel
+
+#EXTINF:-1 group-title="News", DD India
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 group-title="News", NHK World Japan
+
+#EXTINF:-1 group-title="News", Press TV Iran
+
+#EXTINF:-1 group-title="News", PTV World Pakistan
+
+#EXTINF:-1 group-title="News", Sky News australia
+
+#EXTINF:-1 group-title="News", RT Russia
+http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/playlist.m3u8
+#EXTINF:-1 group-title="News", TRT World Turkey
+
+#EXTINF:-1 group-title="News", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 group-title="News", CNN Philipines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 group-title="News", Berita Satu Indonesia
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title="News", Metro TV Indonesia
+
+#EXTINF:-1 group-title="News", Channel News Asia Singapore
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 group-title="News", ABC News Australia
+
+#EXTINF:-1 group-title="News", Africanews Congo
+
+#EXTINF:-1 group-title="News", Parlimen Malaysia
+https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="News", BBC Parliment UK
+
+#EXTINF:-1 group-title="News", CBC News Network Canada
+
+#EXTINF:-1 group-title="News", iNews TV Indonesia
+
+#EXTINF:-1 group-title="News", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="News", Jakarta Globe News Indonesia
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="News", Kompas TV Indonesia
+https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G78DInOtyVKRo5f6XRYucZg)/dm/3/x6pz4sa/d/live-3.m3u8
+#EXTINF:-1 group-title="News", TV One Indonesia
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1 group-title="News", CBN News USA
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="News", Weather Nation USA
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 group-title="News", Times Now India
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 group-title="News", ET Now India
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+
+
+#EXTINF:-1 group-title="Knowledge & Infotainment", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Knowledge", BBC Earth
+#EXTINF:-1 group-title="Knowledge & Infotainment", BBC Earth
 
-#EXTINF:-1 group-title="Knowledge", Smithsonian
+#EXTINF:-1 group-title="Knowledge & Infotainment", Smithsonian
 
-#EXTINF:-1 group-title="Knowledge", Asian Food Channel
+#EXTINF:-1 group-title="Knowledge & Infotainment", Asian Food Channel
 
-#EXTINF:-1 group-title="Knowledge", Animal Planet
+#EXTINF:-1 group-title="Knowledge & Infotainment", Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Knowledge", History
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 group-title="Knowledge", History 2
-http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
-#EXTINF:-1 group-title="Knowledge", National Geographic
+#EXTINF:-1 group-title="Knowledge & Infotainment", History
 
-#EXTINF:-1 group-title="Knowledge", Nat Geo Wild
+#EXTINF:-1 group-title="Knowledge & Infotainment", History 2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="Knowledge", Nat Geo People
+#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="Knowledge", Fox Life HD
+#EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life HD
 
-#EXTINF:-1 group-title="Knowledge", Lifetime HD
+#EXTINF:-1 group-title="Knowledge & Infotainment", Lifetime HD
 
-#EXTINF:-1 group-title="Knowledge", Fashion TV Teens
+#EXTINF:-1 group-title="Knowledge & Infotainment", Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge", Fashion TV Films
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge", Fashion TV Midnight
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge", Discovery Channel
+#EXTINF:-1 group-title="Knowledge & Infotainment", 
 
-#EXTINF:-1 group-title="Knowledge", Discovery Turbo
+#EXTINF:-1 group-title="Knowledge & Infotainment",
+
+#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel
+
+#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 group-title="Knowledge", Sony Gem
+#EXTINF:-1 group-title="Knowledge & Infotainment", Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1 group-title="Knowledge", Outdoor Channel
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
-#EXTINF:-1 group-title="Knowledge", Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
-#EXTINF:-1 group-title="Knowledge", Ocean TV
+#EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor Channel
+
+#EXTINF:-1 group-title="Knowledge & Infotainment", Home & Living
+
+#EXTINF:-1 group-title="Knowledge & Infotainment", Ocean TV
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge", People TV
+#EXTINF:-1 group-title="Knowledge & Infotainment", People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-#EXTINF:-1 group-title="Knowledge", CGTN Documentary
+#EXTINF:-1 group-title="Knowledge & Infotainment", CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="Knowledge", Hunt Channel
+#EXTINF:-1 group-title="Knowledge & Infotainment", Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 group-title="Knowledge", Docubox
+#EXTINF:-1 group-title="Knowledge & Infotainment", Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:-1 group-title="Knowledge", Investigation Discovery
+#EXTINF:-1 group-title="Knowledge & Infotainment", Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Knowledge", RT Documentary
+#EXTINF:-1 group-title="Knowledge & Infotainment", RT Documentary
 
+#EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor America
 
-#EXTINF:-1 group-title="Knowledge", Outdoor America
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 group-title="Knowledge", UN TV
+#EXTINF:-1 group-title="Knowledge & Infotainment", UN TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
-#EXTINF:-1 group-title="Knowledge", Info Wars TV
+#EXTINF:-1 group-title="Knowledge & Infotainment", Info Wars TV
 https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b866304.m3u8
-#EXTINF:-1 group-title="Knowledge", Cheddar
+#EXTINF:-1 group-title="Knowledge & Infotainment", Cheddar
 https://live.chdrstatic.com/cheddar/primary/5.m3u8
-#EXTINF:-1 group-title="Knowledge", Law & Crime Network
+#EXTINF:-1 group-title="Knowledge & Infotainment", Law & Crime Network
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/2/prog_index.m3u8
-#EXTINF:-1 group-title="Knowledge", Safe TV
+#EXTINF:-1 group-title="Knowledge & Infotainment", Safe TV
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 
-#EXTINF:-1 group-title="Knowledge",
+#EXTINF:-1 group-title="Knowledge & Infotainment",
 
-#EXTINF:-1 group-title="Knowledge",
-
-
+#EXTINF:-1 group-title="Knowledge & Infotainment",
 
 
 
 
-#EXTINF:-1  group-title="Kids",
 
 
-#EXTINF:-1 group-title="Infotainment & Lifestyle", 
+#EXTINF:-1  group-title="Kids", Cartoon Network Arabic
+http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
 
 
-#EXTINF:-1 group-title="News", 
+#EXTINF:-1 group-title="Entertainment", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Sports",
