@@ -542,7 +542,6 @@ http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", Kix
 http://210.210.155.66/h/h07/01.m3u8
 
-
 #EXTINF:-1 group-title="News", Astro Awani Malaysia
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="News", Berita RTM Malaysia
@@ -552,39 +551,35 @@ https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 #EXTINF:-1 group-title="News", Al Jazeera English Qatar
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="News", CNN International USA
-http://mrriptv.dnsabr.com:8080/jeffo/johnny1/17053
+http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
 #EXTINF:-1 group-title="News", BBC World News UK
-
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="News", CGTN China
-
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="News", Fox News Channel USA
-
+http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News", Arirang TV Korea
-
-#EXTINF:-1 group-title="News", CNBC World Singapore
-
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="News", DW Germany
 
 #EXTINF:-1 group-title="News", Euronews Europe
-
+http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News", France 24
-http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="News", i24 News Israel
 
 #EXTINF:-1 group-title="News", DD India
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 group-title="News", NHK World Japan
-
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 group-title="News", Press TV Iran
-
-#EXTINF:-1 group-title="News", PTV World Pakistan
-
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 #EXTINF:-1 group-title="News", Sky News australia
-
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 group-title="News", RT Russia
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News", TRT World Turkey
-
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="News", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 group-title="News", CNN Philipines
@@ -592,20 +587,16 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News", Berita Satu Indonesia
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 group-title="News", Metro TV Indonesia
-
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 group-title="News", Channel News Asia Singapore
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 #EXTINF:-1 group-title="News", ABC News Australia
-
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
 #EXTINF:-1 group-title="News", Africanews Congo
 
 #EXTINF:-1 group-title="News", Parlimen Malaysia
 https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="News", BBC Parliment UK
-
-#EXTINF:-1 group-title="News", CBC News Network Canada
-
-#EXTINF:-1 group-title="News", iNews TV Indonesia
 
 #EXTINF:-1 group-title="News", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -623,6 +614,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 group-title="News", ET Now India
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
 
 
 
@@ -671,7 +663,7 @@ http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Docubox
