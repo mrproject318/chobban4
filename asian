@@ -46,6 +46,7 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 
 
+
 #EXTINF:-1, group-title="Indonesia", Adi TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Berita Satu World
@@ -60,8 +61,8 @@ https://raw.githubusercontent.com/b4byhuey/chunklist/master/CTV.m3u8
 http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Disney Jr Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1, group-title="Indonesia", Global TV - Offline
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1, group-title="Indonesia", Global TV
+
 #EXTINF:-1, group-title="Indonesia", Indosiar
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Jakarta Globe News
@@ -77,11 +78,11 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
-
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Reformed 21 Kristian
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia", RCTI
-
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 group-title="Indonesia", RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1, group-title="Indonesia", SCTV
@@ -418,10 +419,6 @@ https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 
 
 
-
-
-#EXTINF:-1, group-title="Pakistan", 
-
 #EXTINF:-1, group-title="Arabic", 
 
 
@@ -533,9 +530,26 @@ http://203.162.235.41:16916
 
 #EXTINF:-1  group-title="Kids", Cartoon Network Arabic
 http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1  group-title="Kids", Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1  group-title="Kids", 3ABN Kidz
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1  group-title="Kids", Nickelodeon
+http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Kids", Boing
+#EXTINF:-1  group-title="Kids", Boing
+
+
 #EXTINF:-1  group-title="Kids", Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-
+#EXTINF:-1  group-title="Kids", Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+#EXTINF:-1  group-title="Kids", KWTV Kids
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
+#EXTINF:-1  group-title="Kids", Spacetoon Arabic
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1  group-title="Kids", Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
 
 #EXTINF:-1 group-title="Movie Channel", Star Movies HD
@@ -550,6 +564,58 @@ http://210.210.155.66/h/h08/01.m3u8
 http://210.210.155.66/h/h07/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
+#EXTINF:-1, group-title="Movie Channel", Gemini Movies
+http://31.14.40.58:8080/GEMINIMOVIES_h264/index.m3u8
+#EXTINF:-1, group-title="Movie Channel", BFlix Movies
+https://streamer-1.toffeelive.com/live/bflix_320/index.m3u8
+#EXTINF:-1 group-title="Movie Channel", Zee Cinema UK
+https://streamer-1.toffeelive.com/live/zee_cinema_320/index.m3u8	
+#EXTINF:-1 group-title="Movie Channel", Zee Cinema HD
+http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Channel", Zee Action HD
+http://216.144.250.174/Zee_ActIon_HD/index.m3u8	
+#EXTINF:-1 group-title="Movie Channel", Zee Bollywood HD
+http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Channel", Star Gold
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Channel", Sony Max
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel", B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8		
+#EXTINF:-1 group-title="Movie Channel", Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8	
+#EXTINF:-1 group-title="Movie Channel", Manorajan TV
+http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8
+#EXTINF:-1 group-title="Movie Channel", Wow Cinema
+http://streamidvo.multitvsolution.in//live/WowCinema-d/p3.m3u8	
+#EXTINF:-1 group-title="Movie Channel", B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8	
+#EXTINF:-1 group-title="Movie Channel", Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 group-title="Movie Channel", Movie Max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8	
+#EXTINF:-1 group-title="Movie Channel", ifilm
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
+#EXTINF:-1 group-title="Movie Channel", MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 group-title="Movie Channel", 2M Monde
+http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
+#EXTINF:-1 group-title="Movie Channel", 24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+#EXTINF:-1 group-title="Movie Channel", American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel", Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 group-title="Movie Channel", Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 group-title="Movie Channel", The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1 group-title="Movie Channel", K+
+#EXTINF:-1 group-title="Movie Channel", K+
+#EXTINF:-1 group-title="Movie Channel", K+
+#EXTINF:-1 group-title="Movie Channel", K+
+
+
 
 
 
@@ -628,8 +694,6 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 
 
 
-#EXTINF:-1 group-title="Knowledge & Infotainment", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", BBC Earth
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Asian Food Channel
@@ -642,6 +706,8 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic Abu Dhabi
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People
@@ -660,6 +726,8 @@ http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Sony TV
+http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Home & Living
@@ -686,16 +754,42 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b866304.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Cheddar
 https://live.chdrstatic.com/cheddar/primary/5.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Law & Crime Network
-https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/2/prog_index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Safe TV
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Japanet
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment" E!
+#EXTINF:-1 group-title="Knowledge & Infotainment", E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment" Love World USA
+#EXTINF:-1 group-title="Knowledge & Infotainment", Love World USA
 http://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_4728_av-p.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", MBC Action
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Cruise 1st TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Law & Crime 
+https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Parliament TV New Zealand
+http://i.mjh.nz/nz/tv.18.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", The Asylum TV
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", The Xcorps TV
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Z Living USA
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
 
 
@@ -711,16 +805,96 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 group-title="Entertainment", Retro Music TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment", 
+#EXTINF:-1 group-title="Entertainment", Music Now 
+http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:-1 group-title="Entertainment", Sony Mix
+https://streamer-1.toffeelive.com/live/sony_mix_576/index.m3u8
+#EXTINF:-1 group-title="Entertainment", Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment", Arabic Music
+http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
+#EXTINF:-1 group-title="Entertainment", Blaze TV
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:-1 group-title="Entertainment", Buzzr TV
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+#EXTINF:-1 group-title="Entertainment", Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 group-title="Entertainment", Buzzr TV
+#EXTINF:-1 group-title="Entertainment", Buzzr TV
+#EXTINF:-1 group-title="Entertainment", Buzzr TV
+#EXTINF:-1 group-title="Entertainment", Buzzr TV
 
-#EXTINF:-1 group-title="Entertainment", 
-
-#EXTINF:-1 group-title="Entertainment",
 
 
+#EXTINF:-1 group-title="Agama", Al Aqsa Channel
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 group-title="Agama", Mecca Live TV
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 group-title="Agama", Madinah Live TV
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+#EXTINF:-1 group-title="Agama", Iqra'a
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Agama", Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Agama", Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="Agama", British Muslim TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 group-title="Agama", Gospel Truth TV
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+#EXTINF:-1 group-title="Agama", Guide US TV
+http://stream.streamislam.com:8080/streamer/live/index.m3u8
+#EXTINF:-1 group-title="Agama", Jewish Life TV
+http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Agama", Al Aqsa Channel
+#EXTINF:-1 group-title="Agama", Al Aqsa Channel
 
 
-#EXTINF:-1 group-title="Sports",
+
+
+
+#EXTINF:-1 group-title="Sports", Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 group-title="Sports", Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1 group-title="Sports", Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports", KSA Sports
+https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports", KWTV Sports
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Sports", ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="Sports", Fox Sports HD
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="Sports", Gol TV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
+#EXTINF:-1 group-title="Sports", Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 group-title="Sports", Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 group-title="Sports", Real Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Sports", Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Sports", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Sports", RTM Sports HD
+https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="Sports", RTSH Sports
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 group-title="Sports", Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="Sports", TDM Macau Sports
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="Sports", Viasat Sports
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="Sports", ATG
+#EXTINF:-1 group-title="Sports", ATG
+#EXTINF:-1 group-title="Sports", ATG
+#EXTINF:-1 group-title="Sports", ATG
+#EXTINF:-1 group-title="Sports", ATG
+#EXTINF:-1 group-title="Sports", ATG
 
 
 
