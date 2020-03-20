@@ -536,10 +536,10 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1  group-title="Kids", Nickelodeon
 http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Kids", Boing
-#EXTINF:-1  group-title="Kids", Boing
-
-
+#EXTINF:-1  group-title="Kids", Toonie
+http://96.30.124.101:1935/psilive2a/AsianMovie.stream_360p/chunklist_w1575217654.m3u8
+#EXTINF:-1  group-title="Kids", Fan TV
+http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:-1  group-title="Kids", Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:-1  group-title="Kids", Boomerang
@@ -550,6 +550,35 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chu
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1  group-title="Kids", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1  group-title="Kids", Jimjam
+http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Kids", Miaomi TV
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:-1  group-title="Kids", Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:-1  group-title="Kids", Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Kids", Gem Kidz
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1  group-title="Kids", Hodhod
+http://51.158.184.234/hls/stream.m3u8
+#EXTINF:-1  group-title="Kids", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1  group-title="Kids", Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1  group-title="Kids", Sat7Kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1  group-title="Kids", Taha TV
+http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b850000.m3u8
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+
 
 
 #EXTINF:-1 group-title="Movie Channel", Star Movies HD
@@ -610,19 +639,32 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/maste
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 group-title="Movie Channel", The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
-#EXTINF:-1 group-title="Movie Channel", K+
+#EXTINF:-1 group-title="Movie Channel", Movie Plus
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel", Popcorn Flix Action Movies
+https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel", AXN
+http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:-1 group-title="Movie Channel", MGM Sci-Fi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 group-title="Movie Channel", HBO
+	http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8 
+#EXTINF:-1 group-title="Movie Channel", FX
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel", Fox Action Movies
+http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 group-title="Movie Channel", Hits movies
+http://103.22.183.136:8081/live/hits-movies/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel", Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 group-title="Movie Channel", Star Chinese
+http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel", Hollywood HD Chinese
+http://192.200.120.82:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 group-title="Movie Channel", CHC
+http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
+#EXTINF:-1 group-title="Movie Channel", CBC
+http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 
 
 
@@ -732,6 +774,8 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Sony TV
@@ -798,7 +842,35 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Z Living USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-
+#EXTINF:-1 group-title="Knowledge & Infotainment", Warner TV
+http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Create & Craft
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Gems TV
+https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", US House Channel
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", 5 Minutes Craft
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Tourism Travel
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Forensic Files
+https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", TLC
+https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Citizen Television
+https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Fitness TV
+https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", History Lab
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w16597501200.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", This Is Bulgaria
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Tourism Travel
 
 
 #EXTINF:-1 group-title="Entertainment", MTV
@@ -827,10 +899,17 @@ https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 #EXTINF:-1 group-title="Entertainment", Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 group-title="Entertainment", Buzzr TV
-#EXTINF:-1 group-title="Entertainment", Buzzr TV
-#EXTINF:-1 group-title="Entertainment", Buzzr TV
-#EXTINF:-1 group-title="Entertainment", Buzzr TV
+#EXTINF:-1 group-title="Entertainment", Entertainment Now
+https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
+#EXTINF:-1 group-title="Entertainment", Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 group-title="Entertainment", Classic Arts
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 group-title="Entertainment", Made In Hollywood TV
+https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
+#EXTINF:-1 group-title="Entertainment", Real People
+https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
+
 
 
 
@@ -897,12 +976,16 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="Sports", Viasat Sports
 http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 group-title="Sports", ATG
-#EXTINF:-1 group-title="Sports", ATG
-#EXTINF:-1 group-title="Sports", ATG
-#EXTINF:-1 group-title="Sports", ATG
-#EXTINF:-1 group-title="Sports", ATG
-#EXTINF:-1 group-title="Sports", ATG
+#EXTINF:-1 group-title="Sports", True Primier Football 1
+https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
+#EXTINF:-1 group-title="Sports", True Primier Football 2
+https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
+#EXTINF:-1 group-title="Sports", True Primier Football 3 
+https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
+#EXTINF:-1 group-title="Sports", True Primier Football 4
+https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
+#EXTINF:-1 group-title="Sports", True Primier Football 5 
+https://dl.dropboxusercontent.com/s/1g6hje6lx2nr8x4/TrueEPL5.m3u8
 
 
 
