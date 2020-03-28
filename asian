@@ -3,9 +3,9 @@
 #EXTINF:-1, group-title="Malaysia", TV1 
 https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", TV2 
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", TV3
-
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
 #EXTINF:-1, group-title="Malaysia", NTV7 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1, group-title="Malaysia", 8TV
@@ -25,7 +25,12 @@ https://rtm1hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b206400
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", Naura 
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
-#EXTINF:-1, group-title="Malaysia", TV Selangor
+#EXTINF:-1, group-title="Malaysia", Astro Awani
+http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1, group-title="Malaysia", Saluran Berita RTM
+https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1, group-title="Malaysia", Parlimen Malaysia
+https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
 
 
 #EXTINF:-1, group-title="Singapore", Channel 5
