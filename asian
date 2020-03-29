@@ -84,7 +84,7 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
-https://dicdnali.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_200000=1-mp4a_64000=2.m3u8
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8   
 #EXTINF:-1, group-title="Indonesia", Reformed 21 Kristian
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia", RCTI
