@@ -807,6 +807,8 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", History
+http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History 2
@@ -829,6 +831,8 @@ http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", CMC
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Asia
+http://live.9koh.com:8000/live/a-play/stream/32.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel India
