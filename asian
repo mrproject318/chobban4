@@ -739,7 +739,8 @@ http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News", Arirang TV Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="News", DW Germany
-
+#EXTINF:-1 group-title="News", LSTV India Parliament
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 group-title="News", Euronews Europe
 http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News", France 24
