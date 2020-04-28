@@ -63,7 +63,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1, group-title="Indonesia", Disney Jr Indonesia
 
 #EXTINF:-1, group-title="Indonesia", Global TV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
+https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1.m3u8
 #EXTINF:-1, group-title="Indonesia", Indosiar
 
 #EXTINF:-1, group-title="Indonesia", Jakarta Globe News
