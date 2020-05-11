@@ -525,18 +525,191 @@ http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1, group-title="Japan", Wowow
 
 
-#EXTINF:-1, group-title="Europe", 
+
+#EXTINF:-1, group-title="United Kingdom", BBC One HD
+
+#EXTINF:-1, group-title="United Kingdom", ITV1
+
+#EXTINF:-1, group-title="United Kingdom", Channel4
+
+#EXTINF:-1, group-title="United Kingdom", Channel5 HD
+
+#EXTINF:-1, group-title="United Kingdom", ITV2
+
+#EXTINF:-1, group-title="United Kingdom", ITV3
+
+#EXTINF:-1, group-title="United Kingdom", CBeebies HD
+
+#EXTINF:-1, group-title="United Kingdom", BBC Four HD
+
+#EXTINF:-1, group-title="United Kingdom", E4
+
+#EXTINF:-1, group-title="United Kingdom", More4
+
+#EXTINF:-1, group-title="United Kingdom", Dave
+
+#EXTINF:-1, group-title="United Kingdom", Film4
+
+#EXTINF:-1, group-title="United Kingdom", Sony Movies
+
+#EXTINF:-1, group-title="United Kingdom", BBC News HD
+
+#EXTINF:-1, group-title="United Kingdom", Sky News International
+
+#EXTINF:-1, group-title="United Kingdom", CBBC HD
+
+#EXTINF:-1, group-title="United Kingdom", ITV4
+
+#EXTINF:-1, group-title="United Kingdom", 4Seven
+
+#EXTINF:-1, group-title="United Kingdom", Drama
+
+#EXTINF:-1, group-title="United Kingdom", Paramount Network
+
+#EXTINF:-1, group-title="United Kingdom", ITVBe
+
+#EXTINF:-1, group-title="United Kingdom", CBS Reality
+
+#EXTINF:-1, group-title="United Kingdom", 5USA
+
+#EXTINF:-1, group-title="United Kingdom", Euronews UK
+
+#EXTINF:-1, group-title="United Kingdom", Bloomberg Europe
+
+#EXTINF:-1, group-title="United Kingdom", BBC World News Europe
+
+#EXTINF:-1, group-title="United Kingdom", CNBC Europe
+
+#EXTINF:-1, group-title="United Kingdom", CNN Europe
+
+#EXTINF:-1, group-title="United Kingdom", Yesterday
+
+#EXTINF:-1, group-title="United Kingdom", FreeSports
+
+#EXTINF:-1, group-title="United Kingdom", BBC1 London
+
+#EXTINF:-1, group-title="United Kingdom", BBC Parliament
+
+#EXTINF:-1, group-title="United Kingdom", BBC Alba
+
+#EXTINF:-1, group-title="United Kingdom", BBC Red Button
+
+#EXTINF:-1, group-title="United Kingdom", CITV
+
+#EXTINF:-1, group-title="United Kingdom", 5Star
+
+#EXTINF:-1, group-title="United Kingdom", PickTV
+
+#EXTINF:-1, group-title="United Kingdom", STV
+
+#EXTINF:-1, group-title="United Kingdom", True Entertainment
+
+#EXTINF:-1, group-title="United Kingdom", The Vault
+
+#EXTINF:-1, group-title="United Kingdom", Sony Movies Classic
+
+#EXTINF:-1, group-title="United Kingdom", Sony Crime
+
+#EXTINF:-1, group-title="United Kingdom", Chart Show TV
+
+#EXTINF:-1, group-title="United Kingdom", Challenge
+
+#EXTINF:-1, group-title="United Kingdom", CBS Action
+
+#EXTINF:-1, group-title="United Kingdom", CBS Drama
+
+#EXTINF:-1, group-title="United Kingdom", Horror Channel
+
+#EXTINF:-1, group-title="United Kingdom", Food Network
+
+#EXTINF:-1, group-title="United Kingdom", PBS America
+
+#EXTINF:-1, group-title="United Kingdom", Talking Pictures
+
+#EXTINF:-1, group-title="United Kingdom", Movies4Men
+
+#EXTINF:-1, group-title="United Kingdom", BBC One Wales
+
+#EXTINF:-1, group-title="United Kingdom", BBC Two Wales
+
+#EXTINF:-1, group-title="United Kingdom", BBC One Scotland
+
+#EXTINF:-1, group-title="United Kingdom", Blaze
+
+#EXTINF:-1, group-title="United Kingdom", BBC Scotland
+
+#EXTINF:-1, group-title="United Kingdom", DMAX
+
+#EXTINF:-1, group-title="United Kingdom", Together
+
+
+
 
 #EXTINF:-1, group-title="Africa", 
 
 
 #EXTINF:-1, group-title="South America",
 
-#EXTINF:-1, group-title="USA", 
 
-#EXTINF:-1, group-title="Australia", 
 
-#EXTINF:-1, group-title="Canada", 
+#EXTINF:-1, group-title="North America", 
+
+
+
+
+#EXTINF:-1, group-title="Australia", ABC
+
+#EXTINF:-1, group-title="Australia", SBS
+
+#EXTINF:-1, group-title="Australia", Seven
+
+#EXTINF:-1, group-title="Australia", Channel 9
+
+#EXTINF:-1, group-title="Australia", TEN
+
+#EXTINF:-1, group-title="Australia", ONE
+
+#EXTINF:-1, group-title="Australia", ABC Kids
+
+#EXTINF:-1, group-title="Australia", ABC Me
+
+#EXTINF:-1, group-title="Australia", ABC News 24
+
+#EXTINF:-1, group-title="Australia", SBS2
+
+#EXTINF:-1, group-title="Australia", Food Network
+
+#EXTINF:-1, group-title="Australia", NITV
+
+#EXTINF:-1, group-title="Australia", 7TWO
+
+#EXTINF:-1, group-title="Australia", 7Mate
+
+#EXTINF:-1, group-title="Australia", 7Flix
+
+#EXTINF:-1, group-title="Australia", Racing.com
+
+#EXTINF:-1, group-title="Australia", 9Gem
+
+#EXTINF:-1, group-title="Australia", 9Go!
+
+#EXTINF:-1, group-title="Australia", 9Life
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, group-title="Canada", Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
 
 #EXTINF:-1, group-title="Russia", 
 
@@ -853,7 +1026,7 @@ http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History
-http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History 2
@@ -908,6 +1081,8 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", RT Documentary
@@ -987,8 +1162,18 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Tourism Travel
 
 
+#EXTINF:-1 group-title="Entertainment", The Action Channel
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 group-title="Entertainment", Best Of WWE
+https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Entertainment", FilmBox Arthouse
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Entertainment", FilmBox Plus
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Entertainment", FashionBox
+http://188.93.95.34:80/fashionbox/index.m3u8
 #EXTINF:-1 group-title="Entertainment", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
 #EXTINF:-1 group-title="Entertainment", MTV Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 group-title="Entertainment", America's Funniest Videos
@@ -1153,6 +1338,8 @@ https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 https://edge-1192-ch-gv.filmon.com/live/4136.high.stream/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Sports", FightBox
+http://188.93.95.34:80/fightboxhd/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony Ten 2
