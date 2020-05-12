@@ -5,7 +5,7 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #EXTINF:-1, group-title="Malaysia", TV2 
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", TV3
-
+http://ts.lemmovie.com:80/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 #EXTINF:-1, group-title="Malaysia", NTV7 
 
 #EXTINF:-1, group-title="Malaysia", 8TV
@@ -39,7 +39,18 @@ https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b206400
 #EXTINF:-1, group-title="Malaysia", Bernama TV
 
 
-
+#EXTINF:-1, group-title="Malaysia", Astro Go Shop
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_04.m3u8
+#EXTINF:-1, group-title="Malaysia", Astro Ceria
+https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=aGoZ3&v=20200308
+#EXTINF:-1, group-title="Malaysia", Astro Oasis
+https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=aGoZ3&v=20200308
+#EXTINF:-1, group-title="Malaysia", Astro Prima
+https://delivery.macan.live/stream/astro_prima/index.m3u8?token=aGoZ3&v=20200308
+#EXTINF:-1, group-title="Malaysia", Astro Ria
+https://delivery.macan.live/stream/astro_ria/index.m3u8?token=aGoZ3&v=20200308
+#EXTINF:-1, group-title="Malaysia", Astro Warna
+https://delivery.macan.live/stream/astro_warna/index.m3u8?token=aGoZ3&v=20200308
 
 
 #EXTINF:-1, group-title="Singapore", Channel 5
