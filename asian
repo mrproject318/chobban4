@@ -645,7 +645,8 @@ http://210.210.155.66/h/h19/01.m3u8
 
 
 
-#EXTINF:-1, group-title="Africa", 
+#EXTINF:-1, group-title="Africa", TBN Africa
+http://api.new.livestream.com/accounts/27460990/events/8787764/broadcasts/205906006.m3u8
 
 
 #EXTINF:-1, group-title="South America",
