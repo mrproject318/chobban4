@@ -42,16 +42,15 @@ https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b206400
 #EXTINF:-1, group-title="Malaysia", Astro Go Shop
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_04.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro Ceria
-https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=aGoZ3&v=20200308
+https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=y9Mgp&v=20200308
 #EXTINF:-1, group-title="Malaysia", Astro Oasis
-https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=aGoZ3&v=20200308
+https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=y9Mgp&v=20200308
 #EXTINF:-1, group-title="Malaysia", Astro Prima
-https://delivery.macan.live/stream/astro_prima/index.m3u8?token=aGoZ3&v=20200308
+https://delivery.macan.live/stream/astro_prima/index.m3u8?token=y9Mgp&v=20200308
 #EXTINF:-1, group-title="Malaysia", Astro Ria
-https://delivery.macan.live/stream/astro_ria/index.m3u8?token=aGoZ3&v=20200308
+https://delivery.macan.live/stream/astro_ria/index.m3u8?token=y9Mgp&v=20200308
 #EXTINF:-1, group-title="Malaysia", Astro Warna
-https://delivery.macan.live/stream/astro_warna/index.m3u8?token=aGoZ3&v=20200308
-
+https://delivery.macan.live/stream/astro_warna/index.m3u8?token=y9Mgp&v=20200308
 
 #EXTINF:-1, group-title="Singapore", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
