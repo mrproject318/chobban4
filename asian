@@ -461,7 +461,36 @@ https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 
 
 
-#EXTINF:-1, group-title="Arabic", 
+
+#EXTINF:-1, group-title="Arabic", Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+#EXTINF:-1, group-title="Arabic", Kan Educational
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1, group-title="Arabic", Youness
+http://youness-export.com/tv/otv
+#EXTINF:-1, group-title="Arabic", Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1, group-title="Arabic", LBC
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="Arabic", Al Malmka
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1, group-title="Arabic", Al Tagheir
+http://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8 
+#EXTINF:-1, group-title="Arabic", Dijlah TV
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8 
+#EXTINF:-1, group-title="Arabic", Jordan TV
+http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
+#EXTINF:-1, group-title="Arabic", Roya TV
+http://roya-live.ercdn.net/roya/roya.m3u8
+#EXTINF:-1, group-title="Arabic",
+#EXTINF:-1, group-title="Arabic",
+#EXTINF:-1, group-title="Arabic",
+#EXTINF:-1, group-title="Arabic",
+#EXTINF:-1, group-title="Arabic",
+#EXTINF:-1, group-title="Arabic",
+#EXTINF:-1, group-title="Arabic",
+#EXTINF:-1, group-title="Arabic",
+#EXTINF:-1, group-title="Arabic",
 
 
 
