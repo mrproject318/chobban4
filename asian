@@ -72,6 +72,8 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 
 #EXTINF:-1, group-title="Indonesia", ANTV
 https://stream.suryaiptv.net/streams/5_.m3u8
+#EXTINF:-1, group-title="Indonesia", ArekTV
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8 
 #EXTINF:-1, group-title="Indonesia", Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Bioskop Indonesia
@@ -87,7 +89,9 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1, group-title="Indonesia", Dunia Lain
 
 #EXTINF:-1, group-title="Indonesia", Global TV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=1-mp4a_64000=2.m3u8 
+https://etslive-2-vidio-com.akamaized.net/exp=1589388632~acl=/hls-b/ingest_778_*/*~hmac=4f50356b7405c24b7bd084cb003bba1ff7de52cb4813bc600c60bd6cea63fd69/hls-b/ingest_778_720p/index.m3u8
+#EXTINF:-1, group-title="Indonesia", .IdKu
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Indosiar
 https://stream.suryaiptv.net/streams/113_.m3u8
 #EXTINF:-1, group-title="Indonesia", iNews
@@ -96,8 +100,12 @@ https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1
 
 #EXTINF:-1, group-title="Indonesia", Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+#EXTINF:-1, group-title="Indonesia", JekTV
+http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Kompas TV
-
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+#EXTINF:-1, group-title="Indonesia", Lapak Musik TV
+http://stream2.ninmedia.tv:1935/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Makkah TV
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Madinah TV 
@@ -105,15 +113,21 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=1-mp4a_64000=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589389158~acl=/hls-p/ingest_870_*/*~hmac=939f24e8244b06d334d3599f8b17da3544972673491b1629c0aba1df723d4c6b/hls-p/ingest_870_720p/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Net.TV
 https://stream.suryaiptv.net/streams/16_.m3u8
+#EXTINF:-1, group-title="Indonesia", Nusantara TV
+https://zet.pluginsandthemes.ro/http://wowza60.indostreamserver.com:1935/tv9nusantara/live/chunklist_w108337223.m3u8
 #EXTINF:-1 group-title="Indonesia", RCTI
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
+#EXTINF:-1 group-title="Indonesia", Radar Tasik Malaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8 
 #EXTINF:-1, group-title="Indonesia", SCTV
-https://stream.suryaiptv.net/streams/6_.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589389404~acl=/hls-b/ingest_204_*/*~hmac=c41ea4037cf31e6ca21476e304983e86527db2d2bc06084b7b90bd62a48bb5ec/hls-b/ingest_204_720p/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Sinema Indonesia
-https://stream.suryaiptv.net/streams/124_.m3u8
+
+#EXTINF:-1, group-title="Indonesia", SBOTV
+https://rvs.zet.co.id:4432/sbotv/live/playlist.m3u8 
 #EXTINF:-1, group-title="Indonesia", TRANS 7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", TRANS TV
@@ -121,8 +135,11 @@ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_s
 #EXTINF:-1, group-title="Indonesia", TVRI HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1, group-title="Indonesia", TV One
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+#EXTINF:-1, group-title="Indonesia", TVKU
+http://103.30.1.14:8080/hls/live.m3u8	
 #EXTINF:-1, group-title="Indonesia", Thrill
+
 
 
 #EXTINF:-1, group-title="Brunei Darussalam", RTB Sukmaindera
@@ -922,7 +939,7 @@ http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
 #EXTINF:-1 group-title="Movie Channel", Warner TV
-http://mantul.biz.id:8888/prem20/Premium123/49
+https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Wow Cinema
 
 #EXTINF:-1 group-title="Movie Channel", Zee Aflam
@@ -1187,6 +1204,8 @@ http://188.93.95.34:80/fashionbox/index.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
 #EXTINF:-1 group-title="Entertainment", MTV Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1101581_sleng.m3u8
+#EXTINF:-1 group-title="Entertainment", MTV Live
+https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
 #EXTINF:-1 group-title="Entertainment", America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="Entertainment", AKC
@@ -1227,6 +1246,8 @@ https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
 
 #EXTINF:-1 group-title="Agama", Al Aqsa Channel
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 group-title="Agama", DhammaTV
+https://media.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 group-title="Agama", Mecca Live TV
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:-1 group-title="Agama", Madinah Live TV
@@ -1245,8 +1266,12 @@ https://bstna.tulix.tv/live/bs_2m/index.m3u8
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
 #EXTINF:-1 group-title="Agama", Jewish Life TV
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Agama", Al Aqsa Channel
-#EXTINF:-1 group-title="Agama", Al Aqsa Channel
+#EXTINF:-1 group-title="Agama", Nabawi TV
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+#EXTINF:-1 group-title="Agama", Reformed21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8 
+#EXTINF:-1 group-title="Agama", TawafTV
+http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8 
 
 
 #EXTINF:-1 group-title="Film On Channel", Film On 1
