@@ -24,49 +24,53 @@ https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tvikim.my/images/logo-header-02.png", TV IKIM HD 
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1, group-title="Malaysia", Naura 
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/FJ9sZJy.png", Naura 
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/awani.png", Astro Awani
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1, group-title="Malaysia", Saluran Berita RTM
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/bes.png", Saluran Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", Parlimen Malaysia
 https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Malaysia", OneNews
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/onenews.png", OneNews
 
 #EXTINF:-1, group-title="Malaysia", TV Selangor
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png", Bernama TV
 
 
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/111.png", Astro Go Shop
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/52JsuOB.png", Astro Go Shop Ruuma
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_04.m3u8
-#EXTINF:-1, group-title="Malaysia", Astro Ceria
-https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=y9Mgp&v=20200308
-#EXTINF:-1, group-title="Malaysia", Astro Oasis
-https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=y9Mgp&v=20200308
-#EXTINF:-1, group-title="Malaysia", Astro Prima
-https://delivery.macan.live/stream/astro_prima/index.m3u8?token=y9Mgp&v=20200308
-#EXTINF:-1, group-title="Malaysia", Astro Ria
-https://delivery.macan.live/stream/astro_ria/index.m3u8?token=y9Mgp&v=20200308
-#EXTINF:-1, group-title="Malaysia", Astro Warna
-https://delivery.macan.live/stream/astro_warna/index.m3u8?token=y9Mgp&v=20200308
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/52JsuOB.png", Astro Go Shop Gaaya
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/52JsuOB.png", Astro Go Shop Cina
+https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
+http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ceria.png", Astro Ceria
+https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=gratisan
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_oasis.png", Astro Oasis
+https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=gratisan
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_prima.png", Astro Prima
+https://delivery.macan.live/stream/astro_prima/index.m3u8?token=gratisan
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ria.png", Astro Ria
+https://delivery.macan.live/stream/astro_ria/index.m3u8?token=gratisan
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_warna.png", Astro Warna
+https://delivery.macan.live/stream/astro_warna/index.m3u8?token=gratisan
 
-#EXTINF:-1, group-title="Singapore", Channel 5
+#EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1, group-title="Singapore", Suria
+#EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/suria.png", Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1, group-title="Singapore", Channel 8
+#EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png", Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1, group-title="Singapore", Vasantham
+#EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/vasantham.png", Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1, group-title="Singapore", Channel U
+#EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/channel-u.png", Channel U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-#EXTINF:-1, group-title="Singapore", OKTO
+#EXTINF:-1, group-title="Singapore" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png", OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-#EXTINF:-1, group-title="Singapore", Channel News Asia
+#EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png", Channel News Asia
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
-#EXTINF:-1, group-title="Singapore", Miao Mi
+#EXTINF:-1, group-title="Singapore" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png", Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 
 
@@ -88,8 +92,8 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 
 #EXTINF:-1, group-title="Indonesia", Dunia Lain
 
-#EXTINF:-1, group-title="Indonesia", Global TV
-https://etslive-2-vidio-com.akamaized.net/exp=1589388632~acl=/hls-b/ingest_778_*/*~hmac=4f50356b7405c24b7bd084cb003bba1ff7de52cb4813bc600c60bd6cea63fd69/hls-b/ingest_778_720p/index.m3u8
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_aLogo-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:-1, group-title="Indonesia", .IdKu
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Indosiar
@@ -113,7 +117,7 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
-https://etslive-2-vidio-com.akamaized.net/exp=1589389158~acl=/hls-p/ingest_870_*/*~hmac=939f24e8244b06d334d3599f8b17da3544972673491b1629c0aba1df723d4c6b/hls-p/ingest_870_720p/index.m3u8
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:-1, group-title="Indonesia", Net.TV
 https://stream.suryaiptv.net/streams/16_.m3u8
 #EXTINF:-1, group-title="Indonesia", Nusantara TV
@@ -709,9 +713,40 @@ http://api.new.livestream.com/accounts/27460990/events/8787764/broadcasts/205906
 
 
 
-#EXTINF:-1, group-title="North America", 
+#EXTINF:-1, group-title="Moldova"tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png", Moldova 1
+http://www.trm.md/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1, group-title="Moldova" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png", Moldova 2
+http://www.trm.md/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1, group-title="Moldova" tvg-logo="https://canalregional.md/wp-content/uploads/2018/04/Logo.png", Regional
+http://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:-1, group-title="Moldova" tvg-logo="https://static.epg.best/md/PublikaTV.md.png", Publika
+http://livebeta.publika.md/LIVE/P/1500.m3u8
 
+#EXTINF:-1, group-title="Ukraine" tvg-logo="https://arhat.tv/Engine/Templates/img/favicon-png/favicon-128.png", Arhat TV
+http://arhat.tv/public/720p/index.m3u8
+#EXTINF:-1, group-title="Ukraine" tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png", NTK
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1, group-title="Ukraine" tvg-logo="https://rudana.com.ua/sites/all/themes/rudana/logo.png", Rudana TV
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1, group-title="Ukraine" tvg-logo="https://ternopil1.com/wp-content/uploads/2019/06/footer-logo.png", Ternopil 1
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1, group-title="Ukraine" tvg-logo="http://tv7plus.com/wp-content/uploads/2017/05/logo-2.png", TV7 Plus
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1, group-title="Ukraine" tvg-logo="https://khersontv.com/wp-content/themes/hueman/img/logo.png", Kherson TV
+https://stream.smarthost.com.ua/hls/khersontv.m3u8
+#EXTINF:-1, group-title="Ukraine" tvg-logo="https://ztv.zp.ua/wp-content/themes/tv-z/img/logo.png", TV Z
+https://stream.ztv.zp.ua/hls/live.m3u8
 
+#EXTINF:-1, group-title="Kazakhstan" tvg-logo="https://mtrk.uz/modules/state/client/assets/image/0c354d80-4e4f-4194-85dd-1803c06e1b9b_thumb.png", Ozbekiston
+https://stream3.itv.uz/1001-1500k/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="Kazakhstan" tvg-logo="https://media.mediabay.uz/www_data/newlogos/channels/kinoteatr.218.png", UZTV
+https://stream4.itv.uz/1080-1500k/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="Kazakhstan" tvg-logo="https://kazakh-tv.kz/img/logo_default.png", Kazakh Tv
+https://kazakhtvuz.ultraiptv.com/live_uz/playlist3/index.m3u8
+#EXTINF:-1, group-title="Kazakhstan" tvg-logo="https://azon.uz/assets/main/img/azon-tv.png", Azon TV
+http://tv2.azon.uz/high/stream.m3u8
+#EXTINF:-1, group-title="Kazakhstan" tvg-logo="http://milliy.tv/assets/images/logo.png", Milliy
+http://milliy.tv/hls/index_480.m3u8
 
 
 #EXTINF:-1, group-title="Australia", ABC
@@ -753,14 +788,17 @@ http://api.new.livestream.com/accounts/27460990/events/8787764/broadcasts/205906
 #EXTINF:-1, group-title="Australia", 9Life
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1, group-title="Armenia" tvg-logo="https://arpinet.am/templates/arpinet/images/logo.png", Arpinet Nur
+http://timeshift.arpinet.am/228/index.m3u8
+#EXTINF:-1, group-title="Armenia" tvg-logo="http://artn.tv/theme_5b7f3ebdc0a68/assets/5ba5a4abe66dd.png", ARTN
+http://livestream.usatv.com/hls/master-ARTN-NET.m3u8
+#EXTINF:-1, group-title="Armenia" tvg-logo="https://songtv.am/images/logos/logo.png", SongTV
+https://songtvam.ru/hd/playlist.m3u8
+#EXTINF:-1, group-title="Armenia" tvg-logo="http://haytube.am/wp-content/uploads/2016/04/usarmenia-300x150.jpg", US Armenia
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1, group-title="Armenia" tvg-logo="http://tvradio.am/wp-content/uploads/2019/06/Logo-Nor-Hayastan-TV-200x200.jpg", iNewArm
+http://livestream.usatv.com/hls/master-iNEWARM.m3u8
+#EXTINF:-1, group-title="Armenia"
 
 
 
@@ -768,7 +806,24 @@ http://api.new.livestream.com/accounts/27460990/events/8787764/broadcasts/205906
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
 
-#EXTINF:-1, group-title="Russia", 
+#EXTINF:-1, group-title="Russia" tvg-logo="https://tvbrics.com/local/templates/aspro-digital/images/logo/Logo_ENG.png", TV Brics
+https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1, group-title="Russia" tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png", 3Angels
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1, group-title="Russia" tvg-logo="http://tk-union.tv/assets/components/union/u_logo.png", Phoenix
+http://dprtv.phoenix-dnr.ru/union
+#EXTINF:-1, group-title="Russia" tvg-logo="https://i.imgur.com/Fnpm8RO.png", Univer
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1, group-title="Russia" tvg-logo="http://wfc.tv/images/Logo-WF.png", World Fashion News Russia
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
+#EXTINF:-1, group-title="Russia" tvg-logo="http://vrt.tv/assets/vrt/img/logo/logo_30.png", VRT.TV
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
+#EXTINF:-1, group-title="Russia",
+
+#EXTINF:-1, group-title="Russia",
+
+#EXTINF:-1, group-title="Russia",
+#EXTINF:-1, group-title="Russia",
 
 #EXTINF:-1  group-title="Kids", Cartoon Network Arabic
 http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
@@ -812,7 +867,8 @@ http://stream.atr.ua/lale//live/index.m3u8
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 #EXTINF:-1  group-title="Kids", Taha TV
 http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b850000.m3u8
-#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids" tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png", Discovery Kids Hindi
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1  group-title="Kids", Jimjam
 #EXTINF:-1  group-title="Kids", Jimjam
 #EXTINF:-1  group-title="Kids", Jimjam
@@ -832,8 +888,8 @@ http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:-1 group-title="Movie Channel", American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="Movie Channel", AXN
-http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8	
 #EXTINF:-1 group-title="Movie Channel", B4U Kadak
@@ -856,8 +912,8 @@ http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", CCM
 
-#EXTINF:-1 group-title="Movie Channel", Cinemax
-http://mantul.biz.id:8888/prem20/Premium123/89
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Cinema World
 http://210.210.155.66/h/h04/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", China Movies 1
@@ -882,39 +938,40 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", FilmBox
 
-#EXTINF:-1 group-title="Movie Channel", FX
-http://mantul.biz.id:8888/prem20/Premium123/37
-#EXTINF:-1 group-title="Movie Channel", Fox
-http://mantul.biz.id:8888/prem20/Premium123/9
-#EXTINF:-1 group-title="Movie Channel", Fox Crime
-https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8  
-
-#EXTINF:-1 group-title="Movie Channel", Fox Action Movies
-http://mantul.biz.id:8888/prem20/Premium123/20
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FX
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Fox Movies
 
-#EXTINF:-1 group-title="Movie Channel", Fox Movies Premium
-http://mantul.biz.id:8888/prem20/Premium123/50
-#EXTINF:-1 group-title="Movie Channel", Fox Family Movies
-http://mantul.biz.id:8888/prem20/Premium123/131
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_movies_premium.png", Fox Movies Premium
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Flik
-http://mantul.biz.id:8888/prem20/Premium123/223
+https://delivery.macan.live/stream/flik/index.m3u8?token=gratisan
 #EXTINF:-1, group-title="Movie Channel", Galaxy
-http://mantul.biz.id:8888/prem20/Premium123/298
+
 #EXTINF:-1, group-title="Movie Channel", Gemini Movies
 
-#EXTINF:-1 group-title="Movie Channel", HBO
-http://mantul.biz.id:8888/prem20/Premium123/1
-#EXTINF:-1 group-title="Movie Channel", HBO Family
-http://mantul.biz.id:8888/prem20/Premium123/5
-#EXTINF:-1 group-title="Movie Channel", HBO Hits
-http://mantul.biz.id:8888/prem20/Premium123/3
-#EXTINF:-1 group-title="Movie Channel", HBO Signature
-http://mantul.biz.id:8888/prem20/Premium123/44
-#EXTINF:-1 group-title="Movie Channel", Hits movies
-
-#EXTINF:-1 group-title="Movie Channel", Hollywood HD Chinese
-
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Hits
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
+https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hits.png", Hits
+https://delivery.macan.live/stream/hits/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hits_movies.png", Hits Movies
+https://delivery.macan.live/stream/hits_movies/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/HousefullMoviesLogo.jpg",Housefull Movies
+https://streamidvo.multitvsolution.in/live/Housefullmovies-f/p4.m3u8
 #EXTINF:-1 group-title="Movie Channel", ifilm
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", K+
@@ -945,16 +1002,16 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", Reel PX Vintage
 
-#EXTINF:-1 group-title="Movie Channel", Red By HBO
-http://mantul.biz.id:8888/prem20/Premium123/242
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/red_hbo.png", Red By HBO
+https://delivery.macan.live/stream/redhbo/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Romedy Now
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8 
 #EXTINF:-1 group-title="Movie Channel", Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sky Movies Premiere
 
-#EXTINF:-1 group-title="Movie Channel", Sinema Indonesia
-http://mantul.biz.id:8888/prem20/Premium123/158
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/sinema_indonesia.png", Sinema Indonesia
+https://delivery.macan.live/stream/sinema_indonesia/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Star Chinese
 
 #EXTINF:-1 group-title="Movie Channel", Star Gold
@@ -967,6 +1024,8 @@ http://210.210.155.66/h/h143/02.m3u8
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1 group-title="Movie Channel"tvg-logo="https://macan.live/img/thrill.png", Thrill
+https://delivery.macan.live/stream/thrill/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Warner TV
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Wow Cinema
@@ -1073,15 +1132,18 @@ http://161.0.157.51/pltv/88888888/224/3221227040/01.m3u8
 http://tv.nknews.org/tvhls/stream.m3u8
 
 
-#EXTINF:-1 group-title="Knowledge & Infotainment", BBC Earth
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png", Animal Planet Hindi
+https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth
+https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Knowledge & Infotainment", CCTV 4K
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", CCTV9
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Asian Food Channel
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Animal Planet
-http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/animalplanet.png", Animal Planet
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Knowledge & Infotainment", History
 http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18
@@ -1103,23 +1165,22 @@ https://plbl.m9.lfstrm.tv/fox_life/normal/1/index.m3u8
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nasa TV
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
-
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", CMC
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Asia
-http://live.9koh.com:8000/live/a-play/stream/32.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel
-http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel India
-http://103.214.202.218:8081/live/discovery-12/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoveryasia.png", Discovery Asia
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoverychannel.png", Discovery Channel
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png", Discovery Channel India
+https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel Brazil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Science
-http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/si/DiscoveryScience.si.png", Discovery Science
+https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Sony TV
@@ -1140,8 +1201,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/index.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Investigation Discovery
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png", Investigation Discovery
+http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", RT Documentary
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor America
@@ -1204,8 +1265,8 @@ https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Forensic Files
 https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", TLC
-https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/tlc.png", TLC
+https://delivery.macan.live/stream/tlc/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Knowledge & Infotainment", Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Citizen Television
@@ -1216,8 +1277,23 @@ https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w16597501200.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", This Is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Tourism Travel
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/de/TLC.de.png",TLC
+http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/crime_investigation.png", Crime Investigation 
+https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=gratisan
 
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/blue_ant_entertainment.png", Blue Ant Entertainment
+https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/lifetime.png", Lifetime
+https://delivery.macan.live/stream/lifetime/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/blue_ant_extreme.png", Blue Ant Extreme
+https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/hgtv.png", HGTV
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/afc.png", AFC
+https://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan
 
 #EXTINF:-1 group-title="Entertainment", The Action Channel
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
@@ -1403,6 +1479,8 @@ https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 https://edge-1192-ch-gv.filmon.com/live/4136.high.stream/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png", CBC Sports
+http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:-1 group-title="Sports", FightBox
 http://188.93.95.34:80/fightboxhd/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony ESPN
