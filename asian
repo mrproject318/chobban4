@@ -825,97 +825,101 @@ http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
 #EXTINF:-1, group-title="Russia",
 #EXTINF:-1, group-title="Russia",
 
-#EXTINF:-1  group-title="Kids", Cartoon Network Arabic
-http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1  group-title="Kids", Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Jimjam
 #EXTINF:-1  group-title="Kids", 3ABN Kidz
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1  group-title="Kids", Nickelodeon
-http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Kids", Toonie
-http://96.30.124.101:1935/psilive2a/AsianMovie.stream_360p/chunklist_w1575217654.m3u8
-#EXTINF:-1  group-title="Kids", Fan TV
-http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1  group-title="Kids", Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:-1  group-title="Kids", Animax
+https://delivery.macan.live/stream/id_animax/index.m3u8?token=gratisan
+#EXTINF:-1  group-title="Kids", Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1  group-title="Kids", Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:-1  group-title="Kids", Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-#EXTINF:-1  group-title="Kids", KWTV Kids
-https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
-#EXTINF:-1  group-title="Kids", Spacetoon Arabic
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1  group-title="Kids", Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-#EXTINF:-1  group-title="Kids", Jimjam
-http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Kids", Miaomi TV
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
-#EXTINF:-1  group-title="Kids", Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:-1  group-title="Kids", Cartoon Network Arabic
+http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1  group-title="Kids" tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png", Discovery Kids Hindi
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1  group-title="Kids", Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Kids", Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1  group-title="Kids", Fan TV
+http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:-1  group-title="Kids", Gem Kidz
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1  group-title="Kids", Hodhod
 http://51.158.184.234/hls/stream.m3u8
+#EXTINF:-1  group-title="Kids", Jimjam
+http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Kids", Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1  group-title="Kids", KWTV Kids
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
 #EXTINF:-1  group-title="Kids", Lale
 http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1  group-title="Kids", Miaomi TV
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:-1  group-title="Kids", Nickelodeon
+http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Kids", Sat7Kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1  group-title="Kids", Spacetoon Arabic
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1  group-title="Kids", Taha TV
 http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b850000.m3u8
-#EXTINF:-1  group-title="Kids" tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png", Discovery Kids Hindi
-http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:-1  group-title="Kids", Jimjam
-#EXTINF:-1  group-title="Kids", Jimjam
-#EXTINF:-1  group-title="Kids", Jimjam
-#EXTINF:-1  group-title="Kids", Jimjam
-#EXTINF:-1  group-title="Kids", Jimjam
-#EXTINF:-1  group-title="Kids", Jimjam
-#EXTINF:-1  group-title="Kids", Jimjam
+#EXTINF:-1  group-title="Kids", Toonie
+http://96.30.124.101:1935/psilive2a/AsianMovie.stream_360p/chunklist_w1575217654.m3u8
 
 
-#EXTINF:-1 group-title="Movie Channel", &PriveHD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Movie Channel", &FlixHD
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-#EXTINF:-1 group-title="Movie Channel", 2M Monde
-http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
+#EXTINF:-1 group-title="Movie Channel", &PriveHD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", 24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+#EXTINF:-1 group-title="Movie Channel", 2M Monde
+http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:-1 group-title="Movie Channel", American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN
 https://delivery.macan.live/stream/id_axn/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Movie Channel", B4U Movies
-http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8	
 #EXTINF:-1 group-title="Movie Channel", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Movie Channel", B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8	
 #EXTINF:-1, group-title="Movie Channel", BFlix Movies
 
+#EXTINF:-1 group-title="Movie Channel", Bioskop Indonesia
+http://mantul.biz.id:8888/prem20/Premium123/243
 #EXTINF:-1, group-title="Movie Channel", BlueAnt Entertainment
 http://mantul.biz.id:8888/prem20/Premium123/135
 #EXTINF:-1, group-title="Movie Channel", BlueAnt Extreme
 
 #EXTINF:-1 group-title="Movie Channel", Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 group-title="Movie Channel", Bioskop Indonesia
-http://mantul.biz.id:8888/prem20/Premium123/243
-#EXTINF:-1 group-title="Movie Channel", CCTV 6
-
-#EXTINF:-1 group-title="Movie Channel", CHC
-http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 #EXTINF:-1 group-title="Movie Channel", CBC
 
 #EXTINF:-1 group-title="Movie Channel", CCM
 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax
-https://delivery.macan.live/stream/cinemax/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Movie Channel", Cinema World
-http://210.210.155.66/h/h04/01.m3u8
+#EXTINF:-1 group-title="Movie Channel", CCTV 6
+
+#EXTINF:-1 group-title="Movie Channel", Celestial Movies
+https://delivery.macan.live/stream/cm/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel", Celestial Classic Movies
+https://delivery.macan.live/stream/ccm/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel", CHC
+http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 #EXTINF:-1 group-title="Movie Channel", China Movies 1
 
 #EXTINF:-1 group-title="Movie Channel", China Movies 2
@@ -927,9 +931,12 @@ http://210.210.155.66/h/h04/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", China Movies 5
 
 #EXTINF:-1 group-title="Movie Channel", China Movies 6
-
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel", Cinema World
+http://210.210.155.66/h/h04/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", Citra Bioskop
-http://mantul.biz.id:8888/prem20/Premium123/114
+
 #EXTINF:-1 group-title="Movie Channel", ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Disney Channel
@@ -938,24 +945,24 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", FilmBox
 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel", Flik
+https://delivery.macan.live/stream/flik/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
-https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies
 https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Fox Movies
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_movies_premium.png", Fox Movies Premium
 https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies
-https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Movie Channel", Flik
-https://delivery.macan.live/stream/flik/index.m3u8?token=gratisan
-#EXTINF:-1, group-title="Movie Channel", Galaxy
-
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FX
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=gratisan
+#EXTINF:-1, group-title="Movie Channel", Galaxy Premium
+https://delivery.macan.live/stream/galaxy_premium/index.m3u8?token=gratisan
 #EXTINF:-1, group-title="Movie Channel", Gemini Movies
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO
@@ -977,15 +984,15 @@ http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", K+
 http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", Kix
-http://210.210.155.66/h/h07/01.m3u8
+https://delivery.macan.live/stream/kix/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Manorajan TV
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8
-#EXTINF:-1 group-title="Movie Channel", Movie Max
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8	
-#EXTINF:-1 group-title="Movie Channel", MNX
-http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", MGM Sci-Fi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 group-title="Movie Channel", MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
+#EXTINF:-1 group-title="Movie Channel", Movie Max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8	
 #EXTINF:-1 group-title="Movie Channel", Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8 
 #EXTINF:-1 group-title="Movie Channel", Movie Plus
@@ -996,249 +1003,268 @@ http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
 https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 group-title="Movie Channel", Reel PX Family
-
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/red_hbo.png", Red By HBO
+https://delivery.macan.live/stream/redhbo/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Reel PX Comedy
+
+#EXTINF:-1 group-title="Movie Channel", Reel PX Family
 
 #EXTINF:-1 group-title="Movie Channel", Reel PX Vintage
 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/red_hbo.png", Red By HBO
-https://delivery.macan.live/stream/redhbo/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Romedy Now
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8 
 #EXTINF:-1 group-title="Movie Channel", Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 group-title="Movie Channel", Sky Movies Premiere
-
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/sinema_indonesia.png", Sinema Indonesia
 https://delivery.macan.live/stream/sinema_indonesia/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Movie Channel", Star Chinese
+#EXTINF:-1 group-title="Movie Channel", Sky Movies Premiere
 
-#EXTINF:-1 group-title="Movie Channel", Star Gold
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movie Channel", Star Movies HD
-http://103.214.202.218:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony One HD
 http://210.210.155.66/h/h143/02.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony Max
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel", Star Chinese Movies
+https://delivery.macan.live/stream/id_scm/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel", Star Gold
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Channel", Star Movies HD
+http://103.214.202.218:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
 #EXTINF:-1 group-title="Movie Channel"tvg-logo="https://macan.live/img/thrill.png", Thrill
 https://delivery.macan.live/stream/thrill/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel",TvN Movies
+https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Warner TV
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Wow Cinema
 
 #EXTINF:-1 group-title="Movie Channel", Zee Aflam
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8	
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Action HD
-http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
+http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8	
 #EXTINF:-1 group-title="Movie Channel", Zee Bollywood HD
 
 #EXTINF:-1 group-title="Movie Channel", Zee Cafe
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
-#EXTINF:-1 group-title="Movie Channel", Zee Cinema UK
-
 #EXTINF:-1 group-title="Movie Channel", Zee Cinema HD
 
+#EXTINF:-1 group-title="Movie Channel", Zee Cinema UK
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="News", Astro Awani Malaysia
-http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="News", Berita RTM Malaysia
-https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
-#EXTINF:-1 group-title="News", Bernama News Channel Malaysia
-
-#EXTINF:-1 group-title="News", Al Jazeera English Qatar
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 group-title="News", CNN International USA
-http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
-#EXTINF:-1 group-title="News", BBC World News UK
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="News", CGTN China
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="News", Fox News Channel USA
-http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
-#EXTINF:-1 group-title="News", Arirang TV Korea
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="News", DW Germany
-#EXTINF:-1 group-title="News", LSTV India Parliament
-http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1 group-title="News", Euronews Europe
-http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News", France 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 group-title="News", i24 News Israel
-
-#EXTINF:-1 group-title="News", DD India
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 group-title="News", NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 group-title="News", Press TV Iran
-https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:-1 group-title="News", Sky News Australia
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 group-title="News", RT Russia
-https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 group-title="News", TRT World Turkey
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1 group-title="News", CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1 group-title="News", CNN Philipines
-http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1 group-title="News", Berita Satu Indonesia
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 group-title="News", Metro TV Indonesia
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1 group-title="News", Channel News Asia Singapore
-https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 #EXTINF:-1 group-title="News", ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
 #EXTINF:-1 group-title="News", Africanews Congo
 
-#EXTINF:-1 group-title="News", Parlimen Malaysia
-https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="News", Al Jazeera English Qatar
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 group-title="News", Arirang TV Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="News", Astro Awani Malaysia
+http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="News", BBC Parliment UK
 
+#EXTINF:-1 group-title="News", BBC World News UK
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="News", Berita RTM Malaysia
+https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="News", Bernama News Channel Malaysia
+
+#EXTINF:-1 group-title="News", Berita Satu Indonesia
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title="News", CBN News USA
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="News", CGTN China
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="News", Channel News Asia Singapore
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 #EXTINF:-1 group-title="News", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="News", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 group-title="News", CNN Philipines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 group-title="News", CNN International USA
+http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
+#EXTINF:-1 group-title="News", DD India
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 group-title="News", DPRK Central TV North Korea
+http://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 group-title="News", DW Germany
+
+#EXTINF:-1 group-title="News", ET Now India
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 group-title="News", Euronews Europe
+http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="News", Fox News Channel USA
+http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
+#EXTINF:-1 group-title="News", France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="News", i24 News Israel
+
 #EXTINF:-1 group-title="News", Jakarta Globe News Indonesia
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 group-title="News", Kompas TV Indonesia
 https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G78DInOtyVKRo5f6XRYucZg)/dm/3/x6pz4sa/d/live-3.m3u8
-#EXTINF:-1 group-title="News", TV One Indonesia
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1 group-title="News", CBN News USA
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 group-title="News", Weather Nation USA
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 group-title="News", Times Now India
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:-1 group-title="News", ET Now India
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 group-title="News", LSTV India Parliament
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:-1 group-title="News", Metro TV Indonesia
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 group-title="News", NBC USA
 http://161.0.157.51/pltv/88888888/224/3221227040/01.m3u8
-#EXTINF:-1 group-title="News", DPRK Central TV North Korea
-http://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 group-title="News", NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 group-title="News", Parlimen Malaysia
+https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="News", Press TV Iran
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+EXTINF:-1 group-title="News", RT Russia
+https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1 group-title="News", Sky News Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 group-title="News", Times Now India
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 group-title="News", TRT World Turkey
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 group-title="News", TV One Indonesia
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1 group-title="News", Weather Nation USA
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
+#EXTINF:-1 group-title="Knowledge & Infotainment", 5 Minutes Craft
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/animalplanet.png", Animal Planet
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png", Animal Planet Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Arirang
+https://delivery.macan.live/stream/arirang/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment", Asian Food Channel
+http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth
 https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Knowledge & Infotainment", CCTV 4K
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", CCTV9
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Asian Food Channel
-http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/animalplanet.png", Animal Planet
-https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Knowledge & Infotainment", History
-http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18
-http://103.214.202.218:8081/live/history/chunks.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", History 2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic Abu Dhabi
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life 
-https://plbl.m9.lfstrm.tv/fox_life/normal/1/index.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Lifetime HD
-#EXTINF:-1 group-title="Knowledge & Infotainment", TV66 Israel
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Nasa TV
-http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Fashion TV
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", CMC
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoveryasia.png", Discovery Asia
-https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoverychannel.png", Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png", Discovery Channel India
-https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel Brazil
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Turbo
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/si/DiscoveryScience.si.png", Discovery Science
-https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Sony Gem
-http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Sony TV
-http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor Channel
-http://84.22.33.254/unicast.outdoorchannel/index.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Ocean TV
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Cheddar
+https://live.chdrstatic.com/cheddar/primary/5.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/crime_investigation.png", Crime Investigation 
+https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment", Citizen Television
+https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Create & Craft
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Cruise 1st TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoverychannel.png", Discovery Channel
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoveryasia.png", Discovery Asia
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel Brazil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/si/DiscoveryScience.si.png", Discovery Science
+https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png", Discovery Channel India
+https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/index.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png", Investigation Discovery
-http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", RT Documentary
-https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor America
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", UN TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Info Wars TV
-https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b866304.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Cheddar
-https://live.chdrstatic.com/cheddar/primary/5.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Safe TV
-http://18.191.91.130:1935/live/safetv/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Japanet
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Love World USA
-http://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_4728_av-p.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", MBC Action
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", American Classic Network
-https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Cruise 1st TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Fitness TV
+https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Forensic Files
+https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life 
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment", Gems TV
+https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", History
+https://delivery.macan.live/stream/history/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18
+http://103.214.202.218:8081/live/history/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", History 2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", History Lab
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w16597501200.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png", Investigation Discovery
+http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Info Wars TV
+https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b866304.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Japanet
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", KBS World
+https://delivery.macan.live/stream/kbs_world/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Knowledge & Infotainment", Law & Crime 
 https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Lifetime HD
+
+#EXTINF:-1 group-title="Knowledge & Infotainment", Love Nature
+https://delivery.macan.live/stream/love_nature/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment", Love World USA
+http://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_4728_av-p.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", MBC Action
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Nasa TV
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic Abu Dhabi
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Ocean TV
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor Channel
+http://84.22.33.254/unicast.outdoorchannel/index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Parliament TV New Zealand
-http://i.mjh.nz/nz/tv.18.m3u8
+lihttp://i.mjh.nz/nz/tv.18.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", RT Documentary
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Safe TV
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Smithsonian
+https://delivery.macan.live/stream/smithsonian/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment", Sony Gem
+https://delivery.macan.live/stream/id_gem/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment", Sony TV
+https://delivery.macan.live/stream/sonyone/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment", Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", The Asylum TV
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", The Outdoor Cooking Channel
@@ -1247,136 +1273,124 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", The Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Z Living USA
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Warner TV
-http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Create & Craft
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Gems TV
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", QVC Extra
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", US House Channel
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", 5 Minutes Craft
-https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Tourism Travel
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Forensic Files
-https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/tlc.png", TLC
-https://delivery.macan.live/stream/tlc/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Knowledge & Infotainment", Adult Swim
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Citizen Television
-https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Fitness TV
-https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", History Lab
-http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w16597501200.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", This Is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/de/TLC.de.png",TLC
-http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/crime_investigation.png", Crime Investigation 
-https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/tlc.png", TLC
+https://delivery.macan.live/stream/tlc/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Knowledge & Infotainment", Tourism Travel
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", TV66 Israel
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", UN TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", US House Channel
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Warner TV
+http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Z Living USA
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/blue_ant_entertainment.png", Blue Ant Entertainment
-https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/lifetime.png", Lifetime
-https://delivery.macan.live/stream/lifetime/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/blue_ant_extreme.png", Blue Ant Extreme
-https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=gratisan
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/hgtv.png", HGTV
-https://delivery.macan.live/stream/hgtv/index.m3u8?token=gratisan
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/afc.png", AFC
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan
-
-#EXTINF:-1 group-title="Entertainment", The Action Channel
-https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 group-title="Entertainment", AKC
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 group-title="Entertainment", America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="Entertainment", Arabic Music
+http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
+#EXTINF:-1 group-title="Entertainment", Beach TV
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 group-title="Entertainment", BBC Lifestyle
+https://delivery.macan.live/stream/bbc_lifestyle/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Entertainment", Best Of WWE
 https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Entertainment", Blaze TV
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/blue_ant_entertainment.png", Blue Ant Entertainment
+https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/blue_ant_extreme.png", Blue Ant Extreme
+https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Entertainment", Buzzr TV
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+#EXTINF:-1 group-title="Entertainment", Classic Arts
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 group-title="Entertainment", Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 group-title="Entertainment", Entertainment Now
+https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
+#EXTINF:-1 group-title="Entertainment", Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 group-title="Entertainment", FashionBox
+http://188.93.95.34:80/fashionbox/index.m3u8
 #EXTINF:-1 group-title="Entertainment", FilmBox Arthouse
 http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment", FilmBox Plus
 http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment", FashionBox
-http://188.93.95.34:80/fashionbox/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/hgtv.png", HGTV
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://macan.live/img/lifetime.png", Lifetime
+ttps://delivery.macan.live/stream/lifetime/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Entertainment", Made In Hollywood TV
+https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
 #EXTINF:-1 group-title="Entertainment", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
 #EXTINF:-1 group-title="Entertainment", MTV Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1101581_sleng.m3u8
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
 #EXTINF:-1 group-title="Entertainment", MTV Live
 https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
-#EXTINF:-1 group-title="Entertainment", America's Funniest Videos
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="Entertainment", AKC
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 group-title="Entertainment", Beach TV
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 group-title="Entertainment", RadioM20
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 group-title="Entertainment", Retro Music TV
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment", Music Now 
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:-1 group-title="Entertainment", RadioM20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Entertainment", Real People
+https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
+#EXTINF:-1 group-title="Entertainment", Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment", SCM Legend
+https://delivery.macan.live/stream/scmlegend/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Entertainment", Sony Mix
 https://streamer-1.toffeelive.com/live/sony_mix_576/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment", Arabic Music
-http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
-#EXTINF:-1 group-title="Entertainment", Blaze TV
-https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
-#EXTINF:-1 group-title="Entertainment", Buzzr TV
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
-#EXTINF:-1 group-title="Entertainment", Fail Army
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 group-title="Entertainment", Entertainment Now
-https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
-#EXTINF:-1 group-title="Entertainment", Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 group-title="Entertainment", Classic Arts
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 group-title="Entertainment", Made In Hollywood TV
-https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
-#EXTINF:-1 group-title="Entertainment", Real People
-https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
-
+#EXTINF:-1 group-title="Entertainment", The Action Channel
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 group-title="Entertainment", TvN
+https://delivery.macan.live/stream/id_tvn/index.m3u8?token=gratisan
 
 
 
 #EXTINF:-1 group-title="Agama", Al Aqsa Channel
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 group-title="Agama", DhammaTV
-https://media.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:-1 group-title="Agama", Mecca Live TV
-http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1 group-title="Agama", Madinah Live TV
-http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
-#EXTINF:-1 group-title="Agama", Iqra'a
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Agama", Makkah TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Agama", Peace TV
-http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 group-title="Agama", British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 group-title="Agama", DhammaTV
+https://media.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 group-title="Agama", Gospel Truth TV
 https://bstna.tulix.tv/live/bs_2m/index.m3u8
 #EXTINF:-1 group-title="Agama", Guide US TV
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
+#EXTINF:-1 group-title="Agama", Iqra'a
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Agama", Jewish Life TV
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Agama", Madinah Live TV
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+#EXTINF:-1 group-title="Agama", Mecca Live TV
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 group-title="Agama", Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Agama", Nabawi TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+#EXTINF:-1 group-title="Agama", Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 group-title="Agama", Reformed21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8 
 #EXTINF:-1 group-title="Agama", TawafTV
-http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8 
+http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Film On Channel", Film On 1
