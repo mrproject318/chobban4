@@ -117,13 +117,13 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:-1, group-title="Indonesia", Net.TV
 https://stream.suryaiptv.net/streams/16_.m3u8
 #EXTINF:-1, group-title="Indonesia", Nusantara TV
 https://zet.pluginsandthemes.ro/http://wowza60.indostreamserver.com:1935/tv9nusantara/live/chunklist_w108337223.m3u8
 #EXTINF:-1 group-title="Indonesia", RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
+https://linier.akamaized.net:443/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
 #EXTINF:-1 group-title="Indonesia", Radar Tasik Malaya
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8 
 #EXTINF:-1, group-title="Indonesia", SCTV
@@ -846,6 +846,8 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1  group-title="Kids", Cartoon Network Arabic
 http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1  group-title="Kids", Cbeebies
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1  group-title="Kids" tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png", Discovery Kids Hindi
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1  group-title="Kids", Disney Channel
@@ -1032,7 +1034,7 @@ http://103.214.202.218:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
 #EXTINF:-1 group-title="Movie Channel"tvg-logo="https://macan.live/img/thrill.png", Thrill
-https://delivery.macan.live/stream/thrill/index.m3u8?token=gratisan
+http://bbdd.228888888.xyz:8081/hls/ch112.m3u8
 #EXTINF:-1 group-title="Movie Channel",TvN Movies
 https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Warner TV
@@ -1048,7 +1050,7 @@ http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Cafe
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Cinema HD
-
+http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Cinema UK
 
 
@@ -1202,7 +1204,7 @@ https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklis
 #EXTINF:-1 group-title="Knowledge & Infotainment", History
 https://delivery.macan.live/stream/history/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18
-http://103.214.202.218:8081/live/history/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History Lab
