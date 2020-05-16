@@ -38,7 +38,8 @@ https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b206400
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png", Bernama TV
 
-
+#EXTINF:-1, group-title="Malaysia", Astro Boo
+https://dl.dropboxusercontent.com/s/u04mt8q7y9goiy6/boo.m3u8?dl=0
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/52JsuOB.png", Astro Go Shop Ruuma
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_04.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/52JsuOB.png", Astro Go Shop Gaaya
@@ -54,7 +55,7 @@ https://delivery.macan.live/stream/astro_prima/index.m3u8?token=gratisan
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ria.png", Astro Ria
 https://delivery.macan.live/stream/astro_ria/index.m3u8?token=gratisan
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_warna.png", Astro Warna
-https://delivery.macan.live/stream/astro_warna/index.m3u8?token=gratisan
+https://dl.dropboxusercontent.com/s/j4qxbpzwblmi2r0/warna.m3u8?dl=0
 
 #EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
@@ -952,7 +953,7 @@ https://delivery.macan.live/stream/flik/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=gratisan
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies
@@ -968,7 +969,7 @@ https://delivery.macan.live/stream/galaxy_premium/index.m3u8?token=gratisan
 #EXTINF:-1, group-title="Movie Channel", Gemini Movies
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
 https://delivery.macan.live/stream/hbo_family/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Hits
