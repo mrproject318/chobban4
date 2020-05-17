@@ -102,17 +102,17 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1, group-title="Indonesia", Dunia Anak
 
 #EXTINF:-1, group-title="Indonesia", Dunia Lain
-
+http://mantul.biz.id:8888/live/gocir/0905/246.ts
 #EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_aLogo-avc1_2000000=1-mp4a_64000=2.m3u8
+http://mantul.biz.id:8888/live/gocir/0905/192.ts
 #EXTINF:-1, group-title="Indonesia", .IdKu
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Indosiar
-https://stream.suryaiptv.net/streams/113_.m3u8
+http://mantul.biz.id:8888/live/gocir/0905/60.ts
 #EXTINF:-1, group-title="Indonesia", iNews
 https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8
 #EXTINF:-1, group-title="Indonesia", INSERT
-
+http://mantul.biz.id:8888/live/gocir/0905/313.ts
 #EXTINF:-1, group-title="Indonesia", Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
 #EXTINF:-1, group-title="Indonesia", JekTV
@@ -128,13 +128,13 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
-https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+http://mantul.biz.id:8888/live/gocir/0905/191.ts
 #EXTINF:-1, group-title="Indonesia", Net.TV
 https://stream.suryaiptv.net/streams/16_.m3u8
 #EXTINF:-1, group-title="Indonesia", Nusantara TV
 https://zet.pluginsandthemes.ro/http://wowza60.indostreamserver.com:1935/tv9nusantara/live/chunklist_w108337223.m3u8
 #EXTINF:-1 group-title="Indonesia", RCTI
-https://linier.akamaized.net:443/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
+http://mantul.biz.id:8888/live/gocir/0905/190.ts
 #EXTINF:-1 group-title="Indonesia", Radar Tasik Malaya
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8 
 #EXTINF:-1, group-title="Indonesia", SCTV
