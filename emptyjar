@@ -14,7 +14,7 @@ https://dl.dropboxusercontent.com/s/oba4i3j9mmszk7t/tv3.m3u8?dl=0
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drama_Sangat_HQ.jpg/80px-Drama_Sangat_HQ.jpg", Drama Sangat
 
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.ibb.co/qygYNHH/hello.png", Hello
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.ibb.co/qygYNHH/hello.png", Astro Hello
 https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/150px-Okey_RTM.png", OKEY 
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
@@ -58,6 +58,13 @@ https://dl.dropboxusercontent.com/s/uylwgbt12bjtemv/prima.m3u8?dl=0
 https://dl.dropboxusercontent.com/s/6phdlnye69n6469/ria.m3u8?dl=0
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_warna.png", Astro Warna
 https://dl.dropboxusercontent.com/s/j4qxbpzwblmi2r0/warna.m3u8?dl=0
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/hypp-inspirasi.png", Hypp Inspirasi
+http://mainpanel01.club:8080/dt6SU8zQDw/vnJxFk69h2/33256
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png", Hypp Pesona HD
+http://62.210.246.131:25461/gxfgss/HHVVPP/28651?token=HhVYAkpZQF8XVVUMVAFcA1ANA1RWXlNYVQddBVRdUFNRDghRXARbXVQTThtFQ0pVUlk6X1QaWVNdBQFUG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwVQXRsSE1BVQF8XAlMKBQ4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwEOCgERSQ
+#EXTINF:-1, group-title="Malaysia" https://www.tm.com.my/tv/assets/imgs/channels/hypp-sensasi.png"", Hypp Sensasi
+http://62.210.246.131:25461/gxfgss/HHVVPP/28664?token=HhVYAkpZQF8XVVUMVAFcA1ANA1RWXlNYVQddBVRdUFNRDghRXARbXVQTThtFQ0pVUlk6X1QaWVNdBQFUG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwVQXRsSE1BVQF8XAlMKBQ4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwEOCgERSQ==
+
 
 #EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
