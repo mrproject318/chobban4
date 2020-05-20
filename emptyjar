@@ -5,7 +5,7 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/TV2_Logo_2011.png/100px-TV2_Logo_2011.png", TV2 
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/100px-TV3_%28Malaysia%29.svg.png", TV3
-https://dl.dropboxusercontent.com/s/oba4i3j9mmszk7t/tv3.m3u8?dl=0
+http://link.iptvsubscription.org:7899/cristianosds871/AjyNunV3/55473
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/NTV7_logo_%282018%29.png/50px-NTV7_logo_%282018%29.png", NTV7 
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png", 8TV
@@ -40,9 +40,9 @@ https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b206400
 https://dl.dropboxusercontent.com/s/u04mt8q7y9goiy6/boo.m3u8?dl=0
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ceria.png", Astro Ceria
-https://dl.dropboxusercontent.com/s/cudmad8yy2tnbsg/ceria.m3u8?dl=0
+https://delivery.macan.live/stream/astro_ceria/playlist.m3u8?token=uLys6&v=20200308
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ceria.png", Astro Citra
-https://dl.dropbox.com/s/req6wk7rchn9hhh/acitra.m3u8?dl=0
+https://delivery.macan.live/stream/astro_citra/playlist.m3u8?token=uLys6&v=20200308
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/52JsuOB.png", Astro Go Shop Gaaya
 http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/52JsuOB.png", Astro Go Shop Cina
@@ -52,19 +52,19 @@ https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_04.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.ibb.co/qygYNHH/hello.png", Astro Hello
 https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_oasis.png", Astro Oasis
-https://dl.dropboxusercontent.com/s/i2aaztikdn0l0nv/oasis.m3u8?dl=0
+https://delivery.macan.live/stream/astro_oasis/playlist.m3u8?token=uLys6&v=20200308
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_prima.png", Astro Prima
-https://dl.dropboxusercontent.com/s/uylwgbt12bjtemv/prima.m3u8?dl=0
+https://delivery.macan.live/stream/astro_prima/playlist.m3u8?token=uLys6&v=20200308
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ria.png", Astro Ria
-https://dl.dropboxusercontent.com/s/6phdlnye69n6469/ria.m3u8?dl=0
+https://delivery.macan.live/stream/astro_ria/playlist.m3u8?token=uLys6&v=20200308
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_warna.png", Astro Warna
-https://delivery.macan.live/stream/astro_warna/index.m3u8?token=9o34I&v=20200308
+https://delivery.macan.live/stream/astro_warna/playlist.m3u8?token=uLys6&v=20200308
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/hypp-inspirasi.png", Hypp Inspirasi
 http://mainpanel01.club:8080/dt6SU8zQDw/vnJxFk69h2/33256
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png", Hypp Pesona HD
-http://62.210.246.131:25461/gxfgss/HHVVPP/28651?token=HhVYAkpZQF8XVVUMVAFcA1ANA1RWXlNYVQddBVRdUFNRDghRXARbXVQTThtFQ0pVUlk6X1QaWVNdBQFUG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwVQXRsSE1BVQF8XAlMKBQ4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwEOCgERSQ
+
 #EXTINF:-1, group-title="Malaysia" https://www.tm.com.my/tv/assets/imgs/channels/hypp-sensasi.png"", Hypp Sensasi
-http://62.210.246.131:25461/gxfgss/HHVVPP/28664?token=HhVYAkpZQF8XVVUMVAFcA1ANA1RWXlNYVQddBVRdUFNRDghRXARbXVQTThtFQ0pVUlk6X1QaWVNdBQFUG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwVQXRsSE1BVQF8XAlMKBQ4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwEOCgERSQ==
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18580
 
 
 #EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png", Channel 5
@@ -128,7 +128,7 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
-http://mantul.biz.id:8888/live/gocir/0905/191.ts
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Net.TV
 https://stream.suryaiptv.net/streams/16_.m3u8
 #EXTINF:-1, group-title="Indonesia", Nusantara TV
