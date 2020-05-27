@@ -186,326 +186,6 @@ http://164.40.161.46:8003/play/s6
 
 
 
-#EXTINF:-1, group-title="Thailand", 13 Siam TV
-http://203.154.83.176:1935/live/13wDt2b6g4/playlist.m3u8
-#EXTINF:-1, group-title="Thailand", 69 Tv
-https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w559182369.m3u8
-#EXTINF:-1, group-title="Thailand", Bull & Chicken Showtime
-https://1396402344.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="Thailand", DDTV
-http://203.156.63.20:1935/live/ddtv/playlist.m3u8
-#EXTINF:-1, group-title="Thailand", Do Channel
-https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist.m3u8
-#EXTINF:-1, group-title="Thailand", MCOT HD
-http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
-#EXTINF:-1, group-title="Thailand", Mono 29
-http://183.182.100.184/live/mono29/chunklist.m3u8
-#EXTINF:-1, group-title="Thailand", MVTV
-https://edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist_w1224574036.m3u8
-#EXTINF:-1, group-title="Thailand", MVTV Five Channel
-https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1616935929.m3u8
-#EXTINF:-1, group-title="Thailand", MVTV Hmong
-https://edge1a.v2h-cdn.com/appt7/MHONG.stream_360p/chunklist_w839479703.m3u8
-#EXTINF:-1, group-title="Thailand", MVTV Major Mix
-https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
-#EXTINF:-1, group-title="Thailand", MVTVI
-https://edge1a.v2h-cdn.com/appt7/WSM.stream_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Thailand", Nation TV
-http://live.nationtv.tv/hls/ntv_th_hd.m3u8 
-#EXTINF:-1, group-title="Thailand", NBT Bangkok
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1, group-title="Thailand", NBT Central
-http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
-#EXTINF:-1, group-title="Thailand", New18
-http://live.pjmcdn.info/live/New-TV.stream/playlist.m3u8
-#EXTINF:-1, group-title="Thailand", News 1
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1, group-title="Thailand", One HD
-http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1, group-title="Thailand", Smart SME Channel
-https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1, group-title="Thailand", Suwannabhumi TV
-http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
-#EXTINF:-1, group-title="Thailand", Thai Baan
-https://edge1a.v2h-cdn.com/appt3/Thaiban.stream_720p/playlist.m3u8
-#EXTINF:-1, group-title="Thailand", Thai One 31
-https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="Thailand", Thai PBS 3
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1, group-title="Thailand", Thai TV 5
-https://1905117544.rsc.cdn77.org/LS-50041-SIN-20/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="Thailand", Thai TV 7
-http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
-#EXTINF:-1, group-title="Thailand", Thai Voice TV
-https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
-#EXTINF:-1, group-title="Thailand",True4U
-http://live.pjmcdn.info/live/True4U.stream/playlist.m3u8
-#EXTINF:-1, group-title="Thailand", White Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-
-
-#EXTINF:-1, group-title="Vietnam", CTV
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1, group-title="Vietnam", KRT
-http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
-#EXTINF:-1, group-title="Vietnam", NTV
-http://113.160.173.47:8080/live/na1_720/index.m3u8
-#EXTINF:-1, group-title="Vietnam", PTP
-http://113.161.4.48:8080/phuyen/tv.m3u8
-#EXTINF:-1, group-title="Vietnam", TN1
-http://thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1, group-title="Vietnam", ATV
-http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
-#EXTINF:-1, group-title="Vietnam", ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1, group-title="Vietnam", HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-#EXTINF:-1, group-title="Vietnam", THLC
-http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
-#EXTINF:-1, group-title="Vietnam", THGL
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
-#EXTINF:-1, group-title="Vietnam", THTG
-http://thtg.vn:8001/thtg.m3u8
-#EXTINF:-1, group-title="Vietnam", BPTV 1
-http://118.69.197.145/hls/bptv1.m3u8
-#EXTINF:-1, group-title="Vietnam", BPTV 2
-http://118.69.197.145/hls/bptv2.m3u8
-#EXTINF:-1, group-title="Vietnam", V News
-http://live.vnanet.vn/480P/playlist.m3u8
-#EXTINF:-1, group-title="Vietnam", Hung Yen
-http://live.hungyentv.vn:1935/live/HYTV/chunklist_w769520286.m3u8
-#EXTINF:-1, group-title="Vietnam", Da Nang 1
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1, group-title="Vietnam", Da Nang 2
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-
-
-#EXTINF:-1, group-title="China", Bright Smart Channel
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1, group-title="China", Hong Kong Open TV
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1, group-title="China", RTHK 31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-#EXTINF:-1, group-title="China", Canal Macau
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1, group-title="China", MASTV Macau
-http://stream.mastvnet.com/MSTV/playlist.m3u8
-#EXTINF:-1, group-title="China", TDM HD Macau
-http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1, group-title="China", TDM Sports Macau
-http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1, group-title="China", TDM Info Macau
-http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1, group-title="China", TDM Macau Satelite
-http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1, group-title="China", Aniu TV
-http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1, group-title="China", CCTV 2
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1, group-title="China", CCTV 3
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1, group-title="China", CCTV 4
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1, group-title="China", CCTV 6
-http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-#EXTINF:-1, group-title="China", CCTV 8
-http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-#EXTINF:-1, group-title="China", CCTV 9
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1, group-title="China", CCTV 10
-http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1, group-title="China", CCTV 11
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1, group-title="China", CCTV 12
-http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-#EXTINF:-1, group-title="China", CCTV 13
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1, group-title="China", CCTV 14
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1, group-title="China", China Business Network
-https://w1live.livecdn.yicai.com/live/cbn.m3u8
-#EXTINF:-1, group-title="China", China CTV 1
-http://stream.chinactv.com/ctv1/sd/live.m3u8
-#EXTINF:-1, group-title="China", China CTV 2
-http://stream.chinactv.com/ctv2/sd/live.m3u8
-#EXTINF:-1, group-title="China", China CTV 3
-http://stream.chinactv.com/ctv3/sd/live.m3u8
-#EXTINF:-1, group-title="China", China CTV 5
-http://stream.chinactv.com/ctv5/sd/live.m3u8
-#EXTINF:-1, group-title="China", Max Financial Media
-http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
-#EXTINF:-1, group-title="China", NewTV Movies
-http://183.251.61.198/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:-1, group-title="China", NewTV Sports
-http://183.251.61.198/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:-1, group-title="China", Nongan News
-http://stream2.jlntv.cn/naxw/sd/live.m3u8
-#EXTINF:-1, group-title="China", Tonghua TV 1 Jilin
-http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-#EXTINF:-1, group-title="China", Yanbian TV Jilin
-http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
-#EXTINF:-1, group-title="China", Yushu TV Jilin
-http://stream.zhystv.com/yset/sd/live.m3u8
-#EXTINF:-1, group-title="China", Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1, group-title="China", CNTV
-https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-#EXTINF:-1, group-title="China", FTV News
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1, group-title="China", Sportscast
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1, group-title="China", UChannel TV
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1, group-title="China", HRT 1
-http://live1.hrtonline.cn:1935/live/live101/500K/tzwj_video.m3u8
-#EXTINF:-1, group-title="China", HRT 2
-http://live1.hrtonline.cn:1935/live/live102/500K/tzwj_video.m3u8
-#EXTINF:-1, group-title="China", HRT 3
-http://live1.hrtonline.cn:1935/live/live100/500K/tzwj_video.m3u8
-
-
-
-
-#EXTINF:-1, group-title="India", 4K Tamil TV
-http://184.173.179.163:1935/Jaffnatv/Jaffnatv/playlist.m3u8
-#EXTINF:-1, group-title="India", 5aab TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1, group-title="India", Aaj Tak
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:-1, group-title="India", Akaram Mix
-http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
-#EXTINF:-1, group-title="India", Amar Ujala
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:-1, group-title="India", Assam Talks
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
-#EXTINF:-1, group-title="India", BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1, group-title="India", Boss TV
-http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
-#EXTINF:-1, group-title="India", Channel Y
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1, group-title="India", Cine Voice
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1, group-title="India", DD News
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1, group-title="India", Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1, group-title="India", Desi TV USA
-http://cdn30.liveonlineservices.com/hls/desitv.m3u8
-#EXTINF:-1, group-title="India", Dighvijay News 24x7
-https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
-#EXTINF:-1, group-title="India", Dilli Aaj Tak
-https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/chunks.m3u8
-#EXTINF:-1, group-title="India", EET TV
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:-1, group-title="India", Ekta TV
-http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
-#EXTINF:-1, group-title="India", Fastway TV
-http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
-#EXTINF:-1, group-title="India", Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1, group-title="India", Garshom News
-http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1, group-title="India", Hamdard TV
-http://cdn.samtv.ca/hamdard/index.m3u8
-#EXTINF:-1, group-title="India", Bhakti Sagar
-http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
-#EXTINF:-1, group-title="India", Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:-1, group-title="India", Pop Pataka
-http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
-#EXTINF:-1, group-title="India", Punjabi Tadka
-http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
-#EXTINF:-1, group-title="India", India TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
-#EXTINF:-1, group-title="India", Janta TV
-http://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1, group-title="India", Jhanjar 
-http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF:-1, group-title="India", Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1, group-title="India", Khabrain Abhi Tak
-https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
-#EXTINF:-1, group-title="India", Life Punjabi
-http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:-1, group-title="India", Lok Sabha TV
-http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1, group-title="India", Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1, group-title="India", Nagara TV
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1, group-title="India", News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
-#EXTINF:-1, group-title="India", Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="India", PBN Music
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
-#EXTINF:-1, group-title="India", Rajya Sabha TV
-http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-#EXTINF:-1, group-title="India", Saral Jeevan
-https://vidcdn.vidgyor.com/saraljeevan-origin/liveabr/saraljeevan-origin/live1/chunks.m3u8
-#EXTINF:-1, group-title="India", Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1, group-title="India", Sri Krishna TV
-http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
-#EXTINF:-1, group-title="India", Steelbird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1, group-title="India", Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="India", Surya Samachar
-http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
-#EXTINF:-1, group-title="India", Taaza TV
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/playlist.m3u8
-#EXTINF:-1, group-title="India", Tamil Vision International
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1, group-title="India", Tamil Vision International
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1, group-title="India", TCV Tirur
-http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1, group-title="India", Thanti TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
-#EXTINF:-1, group-title="India", Times Now
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:-1, group-title="India", TV Punjab
-http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:-1, group-title="India", Vaanavil TV
-http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
-#EXTINF:-1, group-title="India", Venus TV
-https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
-
-
-
-
-#EXTINF:-1, group-title="Arabic", Kan 11
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1, group-title="Arabic", Kan Educational
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:-1, group-title="Arabic", Youness
-http://youness-export.com/tv/otv
-#EXTINF:-1, group-title="Arabic", Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1, group-title="Arabic", LBC
-http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
-#EXTINF:-1, group-title="Arabic", Al Malmka
-https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF:-1, group-title="Arabic", Al Tagheir
-http://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8 
-#EXTINF:-1, group-title="Arabic", Dijlah TV
-http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8 
-#EXTINF:-1, group-title="Arabic", Jordan TV
-http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
-#EXTINF:-1, group-title="Arabic", Roya TV
-http://roya-live.ercdn.net/roya/roya.m3u8
-#EXTINF:-1, group-title="Arabic",
-#EXTINF:-1, group-title="Arabic",
-#EXTINF:-1, group-title="Arabic",
-#EXTINF:-1, group-title="Arabic",
-#EXTINF:-1, group-title="Arabic",
-#EXTINF:-1, group-title="Arabic",
-#EXTINF:-1, group-title="Arabic",
-#EXTINF:-1, group-title="Arabic",
-#EXTINF:-1, group-title="Arabic",
 
 
 
@@ -568,273 +248,9 @@ http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklis
 #EXTINF:-1, group-title="Korea", TBS
 http://203.162.235.41:16907
 
+#EXTINF:-1, group-title="Picked Multination TV", Comedy Central
+https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
 
-#EXTINF:-1, group-title="Japan", Asahi TV
-http://203.162.235.41:16906
-#EXTINF:-1, group-title="Japan", Fuji TV
-http://203.162.235.41:16904
-#EXTINF:-1, group-title="Japan", TV Tokyo
-http://203.162.235.41:16908
-#EXTINF:-1, group-title="Japan", Nippon TV
-http://203.162.235.41:16905
-#EXTINF:-1, group-title="Japan", News24
-https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1, group-title="Japan", WNI
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1, group-title="Japan", BS TBS
-http://203.162.235.41:16913
-#EXTINF:-1, group-title="Japan", Asahi TV
-http://203.162.235.41:16914
-#EXTINF:-1, group-title="Japan", TV Tokyo
-http://203.162.235.41:16915
-#EXTINF:-1, group-title="Japan", BS
-http://203.162.235.41:16912
-#EXTINF:-1, group-title="Japan", Japanet
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1, group-title="Japan", Sony Gem
-http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1, group-title="Japan", Wowow
-
-
-
-#EXTINF:-1, group-title="United Kingdom", BBC One HD
-
-#EXTINF:-1, group-title="United Kingdom", ITV1
-
-#EXTINF:-1, group-title="United Kingdom", Channel4
-
-#EXTINF:-1, group-title="United Kingdom", Channel5 HD
-
-#EXTINF:-1, group-title="United Kingdom", ITV2
-
-#EXTINF:-1, group-title="United Kingdom", ITV3
-
-#EXTINF:-1, group-title="United Kingdom", CBeebies HD
-
-#EXTINF:-1, group-title="United Kingdom", BBC Four HD
-
-#EXTINF:-1, group-title="United Kingdom", E4
-
-#EXTINF:-1, group-title="United Kingdom", More4
-
-#EXTINF:-1, group-title="United Kingdom", Dave
-
-#EXTINF:-1, group-title="United Kingdom", Film4
-
-#EXTINF:-1, group-title="United Kingdom", Sony Movies
-
-#EXTINF:-1, group-title="United Kingdom", BBC News HD
-
-#EXTINF:-1, group-title="United Kingdom", Sky News International
-
-#EXTINF:-1, group-title="United Kingdom", CBBC HD
-
-#EXTINF:-1, group-title="United Kingdom", ITV4
-
-#EXTINF:-1, group-title="United Kingdom", 4Seven
-
-#EXTINF:-1, group-title="United Kingdom", Drama
-
-#EXTINF:-1, group-title="United Kingdom", Paramount Network
-
-#EXTINF:-1, group-title="United Kingdom", ITVBe
-
-#EXTINF:-1, group-title="United Kingdom", CBS Reality
-
-#EXTINF:-1, group-title="United Kingdom", 5USA
-
-#EXTINF:-1, group-title="United Kingdom", Euronews UK
-
-#EXTINF:-1, group-title="United Kingdom", Bloomberg Europe
-
-#EXTINF:-1, group-title="United Kingdom", BBC World News Europe
-
-#EXTINF:-1, group-title="United Kingdom", CNBC Europe
-
-#EXTINF:-1, group-title="United Kingdom", CNN Europe
-
-#EXTINF:-1, group-title="United Kingdom", Yesterday
-
-#EXTINF:-1, group-title="United Kingdom", FreeSports
-
-#EXTINF:-1, group-title="United Kingdom", BBC1 London
-
-#EXTINF:-1, group-title="United Kingdom", BBC Parliament
-
-#EXTINF:-1, group-title="United Kingdom", BBC Alba
-
-#EXTINF:-1, group-title="United Kingdom", BBC Red Button
-
-#EXTINF:-1, group-title="United Kingdom", CITV
-
-#EXTINF:-1, group-title="United Kingdom", 5Star
-
-#EXTINF:-1, group-title="United Kingdom", PickTV
-
-#EXTINF:-1, group-title="United Kingdom", STV
-
-#EXTINF:-1, group-title="United Kingdom", True Entertainment
-
-#EXTINF:-1, group-title="United Kingdom", The Vault
-
-#EXTINF:-1, group-title="United Kingdom", Sony Movies Classic
-
-#EXTINF:-1, group-title="United Kingdom", Sony Crime
-
-#EXTINF:-1, group-title="United Kingdom", Chart Show TV
-
-#EXTINF:-1, group-title="United Kingdom", Challenge
-
-#EXTINF:-1, group-title="United Kingdom", CBS Action
-
-#EXTINF:-1, group-title="United Kingdom", CBS Drama
-
-#EXTINF:-1, group-title="United Kingdom", Horror Channel
-
-#EXTINF:-1, group-title="United Kingdom", Food Network
-
-#EXTINF:-1, group-title="United Kingdom", PBS America
-
-#EXTINF:-1, group-title="United Kingdom", Talking Pictures
-
-#EXTINF:-1, group-title="United Kingdom", Movies4Men
-
-#EXTINF:-1, group-title="United Kingdom", BBC One Wales
-
-#EXTINF:-1, group-title="United Kingdom", BBC Two Wales
-
-#EXTINF:-1, group-title="United Kingdom", BBC One Scotland
-
-#EXTINF:-1, group-title="United Kingdom", Blaze
-
-#EXTINF:-1, group-title="United Kingdom", BBC Scotland
-
-#EXTINF:-1, group-title="United Kingdom", DMAX
-
-#EXTINF:-1, group-title="United Kingdom", Together
-
-
-
-
-#EXTINF:-1, group-title="Africa", TBN Africa
-http://api.new.livestream.com/accounts/27460990/events/8787764/broadcasts/205906006.m3u8
-
-
-#EXTINF:-1, group-title="South America",
-
-
-
-#EXTINF:-1, group-title="Moldova"tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png", Moldova 1
-http://www.trm.md/live/MoldovaUnu1/playlist.m3u8
-#EXTINF:-1, group-title="Moldova" tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png", Moldova 2
-http://www.trm.md/live/MoldovaDoi2/playlist.m3u8
-#EXTINF:-1, group-title="Moldova" tvg-logo="https://canalregional.md/wp-content/uploads/2018/04/Logo.png", Regional
-http://canalregional.md/tv/live/canalregional.m3u8
-#EXTINF:-1, group-title="Moldova" tvg-logo="https://static.epg.best/md/PublikaTV.md.png", Publika
-http://livebeta.publika.md/LIVE/P/1500.m3u8
-
-#EXTINF:-1, group-title="Ukraine" tvg-logo="https://arhat.tv/Engine/Templates/img/favicon-png/favicon-128.png", Arhat TV
-http://arhat.tv/public/720p/index.m3u8
-#EXTINF:-1, group-title="Ukraine" tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png", NTK
-http://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1, group-title="Ukraine" tvg-logo="https://rudana.com.ua/sites/all/themes/rudana/logo.png", Rudana TV
-https://live.rudana.com.ua/hls/stream_FHD.m3u8
-#EXTINF:-1, group-title="Ukraine" tvg-logo="https://ternopil1.com/wp-content/uploads/2019/06/footer-logo.png", Ternopil 1
-http://ott.columbus.te.ua/ternopil1/index.m3u8
-#EXTINF:-1, group-title="Ukraine" tvg-logo="http://tv7plus.com/wp-content/uploads/2017/05/logo-2.png", TV7 Plus
-http://tv7plus.com/hls/tv7_site.m3u8
-#EXTINF:-1, group-title="Ukraine" tvg-logo="https://khersontv.com/wp-content/themes/hueman/img/logo.png", Kherson TV
-https://stream.smarthost.com.ua/hls/khersontv.m3u8
-#EXTINF:-1, group-title="Ukraine" tvg-logo="https://ztv.zp.ua/wp-content/themes/tv-z/img/logo.png", TV Z
-https://stream.ztv.zp.ua/hls/live.m3u8
-
-#EXTINF:-1, group-title="Kazakhstan" tvg-logo="https://mtrk.uz/modules/state/client/assets/image/0c354d80-4e4f-4194-85dd-1803c06e1b9b_thumb.png", Ozbekiston
-https://stream3.itv.uz/1001-1500k/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="Kazakhstan" tvg-logo="https://media.mediabay.uz/www_data/newlogos/channels/kinoteatr.218.png", UZTV
-https://stream4.itv.uz/1080-1500k/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="Kazakhstan" tvg-logo="https://kazakh-tv.kz/img/logo_default.png", Kazakh Tv
-https://kazakhtvuz.ultraiptv.com/live_uz/playlist3/index.m3u8
-#EXTINF:-1, group-title="Kazakhstan" tvg-logo="https://azon.uz/assets/main/img/azon-tv.png", Azon TV
-http://tv2.azon.uz/high/stream.m3u8
-#EXTINF:-1, group-title="Kazakhstan" tvg-logo="http://milliy.tv/assets/images/logo.png", Milliy
-http://milliy.tv/hls/index_480.m3u8
-
-
-#EXTINF:-1, group-title="Australia", ABC
-
-#EXTINF:-1, group-title="Australia", SBS
-
-#EXTINF:-1, group-title="Australia", Seven
-
-#EXTINF:-1, group-title="Australia", Channel 9
-
-#EXTINF:-1, group-title="Australia", TEN
-
-#EXTINF:-1, group-title="Australia", ONE
-
-#EXTINF:-1, group-title="Australia", ABC Kids
-
-#EXTINF:-1, group-title="Australia", ABC Me
-
-#EXTINF:-1, group-title="Australia", ABC News 24
-
-#EXTINF:-1, group-title="Australia", SBS2
-
-#EXTINF:-1, group-title="Australia", Food Network
-
-#EXTINF:-1, group-title="Australia", NITV
-
-#EXTINF:-1, group-title="Australia", 7TWO
-
-#EXTINF:-1, group-title="Australia", 7Mate
-
-#EXTINF:-1, group-title="Australia", 7Flix
-
-#EXTINF:-1, group-title="Australia", Racing.com
-
-#EXTINF:-1, group-title="Australia", 9Gem
-
-#EXTINF:-1, group-title="Australia", 9Go!
-
-#EXTINF:-1, group-title="Australia", 9Life
-
-
-#EXTINF:-1, group-title="Armenia" tvg-logo="https://arpinet.am/templates/arpinet/images/logo.png", Arpinet Nur
-http://timeshift.arpinet.am/228/index.m3u8
-#EXTINF:-1, group-title="Armenia" tvg-logo="http://artn.tv/theme_5b7f3ebdc0a68/assets/5ba5a4abe66dd.png", ARTN
-http://livestream.usatv.com/hls/master-ARTN-NET.m3u8
-#EXTINF:-1, group-title="Armenia" tvg-logo="https://songtv.am/images/logos/logo.png", SongTV
-https://songtvam.ru/hd/playlist.m3u8
-#EXTINF:-1, group-title="Armenia" tvg-logo="http://haytube.am/wp-content/uploads/2016/04/usarmenia-300x150.jpg", US Armenia
-http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-#EXTINF:-1, group-title="Armenia" tvg-logo="http://tvradio.am/wp-content/uploads/2019/06/Logo-Nor-Hayastan-TV-200x200.jpg", iNewArm
-http://livestream.usatv.com/hls/master-iNEWARM.m3u8
-#EXTINF:-1, group-title="Armenia"
-
-
-
-#EXTINF:-1, group-title="Canada", Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-
-
-#EXTINF:-1, group-title="Russia" tvg-logo="https://tvbrics.com/local/templates/aspro-digital/images/logo/Logo_ENG.png", TV Brics
-https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1, group-title="Russia" tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png", 3Angels
-http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1, group-title="Russia" tvg-logo="http://tk-union.tv/assets/components/union/u_logo.png", Phoenix
-http://dprtv.phoenix-dnr.ru/union
-#EXTINF:-1, group-title="Russia" tvg-logo="https://i.imgur.com/Fnpm8RO.png", Univer
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1, group-title="Russia" tvg-logo="http://wfc.tv/images/Logo-WF.png", World Fashion News Russia
-http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
-#EXTINF:-1, group-title="Russia" tvg-logo="http://vrt.tv/assets/vrt/img/logo/logo_30.png", VRT.TV
-http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
-#EXTINF:-1, group-title="Russia",
-
-#EXTINF:-1, group-title="Russia",
-
-#EXTINF:-1, group-title="Russia",
-#EXTINF:-1, group-title="Russia",
 
 
 #EXTINF:-1  group-title="Kids", Jimjam
@@ -883,6 +299,8 @@ http://stream.atr.ua/lale//live/index.m3u8
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1  group-title="Kids", Nickelodeon
 http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Kids", Nick Jr.
+https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1  group-title="Kids", Sat7Kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 #EXTINF:-1  group-title="Kids", Spacetoon Arabic
@@ -891,7 +309,6 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b850000.m3u8
 #EXTINF:-1  group-title="Kids", Toonie
 http://96.30.124.101:1935/psilive2a/AsianMovie.stream_360p/chunklist_w1575217654.m3u8
-
 
 
 
@@ -921,6 +338,9 @@ http://mantul.biz.id:8888/prem20/Premium123/135
 
 #EXTINF:-1 group-title="Movie Channel", Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1, group-title="Movie Channel", BTV World
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8  
+
 #EXTINF:-1 group-title="Movie Channel", CBC
 
 #EXTINF:-1 group-title="Movie Channel", CCM
@@ -952,6 +372,8 @@ http://210.210.155.66/h/h04/01.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
+#EXTINF:-1 group-title="Movie Channel", Colors HD
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8   
 #EXTINF:-1 group-title="Movie Channel", Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie Channel", Dove Channel
@@ -994,6 +416,8 @@ https://delivery.macan.live/stream/hits_movies/index.m3u8?token=gratisan
 https://streamidvo.multitvsolution.in/live/Housefullmovies-f/p4.m3u8
 #EXTINF:-1 group-title="Movie Channel", ifilm
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
+#EXTINF:-1 group-title="Movie Channel", Jalsha Movies
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8 
 #EXTINF:-1 group-title="Movie Channel", K+
 http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", Kix
@@ -1007,7 +431,7 @@ http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", Movie Max
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8	
 #EXTINF:-1 group-title="Movie Channel", Movies Now
-http://103.214.202.218:8081/live/moviesnow/chunks.m3u8 
+https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", Movie Plus
 
 #EXTINF:-1 group-title="Movie Channel", New Tv Super Movie
@@ -1015,7 +439,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
 #EXTINF:-1 group-title="Movie Channel", Popcorn Flix Action Movies
 https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/red_hbo.png", Red By HBO
 https://delivery.macan.live/stream/redhbo/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Reel PX Comedy
@@ -1039,9 +463,13 @@ http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Star Chinese Movies
 https://delivery.macan.live/stream/id_scm/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Star Gold
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8 
 #EXTINF:-1 group-title="Movie Channel", Star Movies HD
 http://103.214.202.218:8081/live/starmovies/chunks.m3u8
+#EXTINF:-1 group-title="Movie Channel", Star Plus HD
+https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 group-title="Movie Channel", Star World
+https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8  
 #EXTINF:-1 group-title="Movie Channel", The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
 #EXTINF:-1 group-title="Movie Channel"tvg-logo="https://macan.live/img/thrill.png", Thrill
@@ -1052,6 +480,8 @@ https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=gratisan
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Wow Cinema
 
+#EXTINF:-1 group-title="Movie Channel", Zee TV
+https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Action HD
@@ -1061,8 +491,9 @@ http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Cafe
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Cinema HD
-http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1 group-title="Movie Channel", Zee Cinema UK
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8 
+#EXTINF:-1 group-title="Movie Channel", Zee Classic
+https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8 
 
 
 
@@ -1071,7 +502,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 group-title="News", Africanews Congo
 
 #EXTINF:-1 group-title="News", Al Jazeera English Qatar
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8 
 #EXTINF:-1 group-title="News", Arirang TV Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="News", Astro Awani Malaysia
@@ -1079,7 +510,7 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/str
 #EXTINF:-1 group-title="News", BBC Parliment UK
 
 #EXTINF:-1 group-title="News", BBC World News UK
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8 
 #EXTINF:-1 group-title="News", Berita RTM Malaysia
 https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="News", Bernama News Channel Malaysia
@@ -1098,8 +529,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 group-title="News", CNN Philipines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1 group-title="News", CNN International USA
-http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
+#EXTINF:-1 group-title="News", CNN America
+https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
 #EXTINF:-1 group-title="News", DD India
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 group-title="News", DPRK Central TV North Korea
@@ -1109,7 +540,7 @@ http://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 group-title="News", ET Now India
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 group-title="News", Euronews Europe
-http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
 #EXTINF:-1 group-title="News", Fox News Channel USA
 http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="News", France 24
@@ -1127,7 +558,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 #EXTINF:-1 group-title="News", NBC USA
 http://161.0.157.51/pltv/88888888/224/3221227040/01.m3u8
 #EXTINF:-1 group-title="News", NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8   
 #EXTINF:-1 group-title="News", Parlimen Malaysia
 https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="News", Press TV Iran
@@ -1164,6 +595,8 @@ https://delivery.macan.live/stream/arirang/index.m3u8?token=gratisan
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Knowledge & Infotainment", BBC Lifestyle
+https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8  
 #EXTINF:-1 group-title="Knowledge & Infotainment", CCTV 4K
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", CCTV9
@@ -1200,6 +633,8 @@ https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/index.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Duronto TV
+https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8  
 #EXTINF:-1 group-title="Knowledge & Infotainment", E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fashion TV
@@ -1209,11 +644,13 @@ https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Forensic Files
 https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life 
-https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=gratisan
+https://edge01.iptv.digijadoo.net/live/fox_life/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", FYI HD
+https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Gems TV
 https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History
-https://delivery.macan.live/stream/history/index.m3u8?token=gratisan
+https://edge01.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History 2
@@ -1240,6 +677,8 @@ https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
 https://delivery.macan.live/stream/love_nature/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Knowledge & Infotainment", Love World USA
 http://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_4728_av-p.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Macau Lotus
+https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8   
 #EXTINF:-1 group-title="Knowledge & Infotainment", MBC Action
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nasa TV
@@ -1249,9 +688,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic Abu Dhabi
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Ocean TV
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Orange TV
@@ -1289,7 +728,7 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", This Is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/tlc.png", TLC
-https://delivery.macan.live/stream/tlc/index.m3u8?token=gratisan
+https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Tourism Travel
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", TV66 Israel
@@ -1372,6 +811,8 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 #EXTINF:-1 group-title="Entertainment", TvN
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Entertainment", VH1
+https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8
 
 
 
