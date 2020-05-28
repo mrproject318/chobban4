@@ -58,7 +58,7 @@ http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ria.png", Astro Ria
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_warna.png", Astro Warna
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m70290ab09fb91755596&ct=18078&tsum=40cd2f4a1d02c820fe6c44e2080c3e5f
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/hypp-inspirasi.png", Hypp Inspirasi
 http://mainpanel01.club:8080/dt6SU8zQDw/vnJxFk69h2/33256
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png", Hypp Pesona HD
