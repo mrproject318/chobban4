@@ -105,13 +105,13 @@ http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28681?token=HhVYAkpZQF8XBVRaBgJ
 #EXTINF:-1, group-title="Indonesia", Dunia Lain
 http://mantul.biz.id:8888/live/gocir/0905/246.ts
 #EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV
-http://mantul.biz.id:8888/live/gocir/0905/192.ts
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1, group-title="Indonesia", .IdKu
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/index.m3u8
 #EXTINF:-1, group-title="Indonesia", Indosiar
 http://mantul.biz.id:8888/live/gocir/0905/60.ts
 #EXTINF:-1, group-title="Indonesia", iNews
-https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1, group-title="Indonesia", INSERT
 http://mantul.biz.id:8888/live/gocir/0905/313.ts
 #EXTINF:-1, group-title="Indonesia", Jakarta Globe News
@@ -129,13 +129,13 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1, group-title="Indonesia", Net.TV
 https://stream.suryaiptv.net/streams/16_.m3u8
 #EXTINF:-1, group-title="Indonesia", Nusantara TV
 https://zet.pluginsandthemes.ro/http://wowza60.indostreamserver.com:1935/tv9nusantara/live/chunklist_w108337223.m3u8
 #EXTINF:-1 group-title="Indonesia", RCTI
-http://mantul.biz.id:8888/live/gocir/0905/190.ts
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="Indonesia", Radar Tasik Malaya
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8 
 #EXTINF:-1, group-title="Indonesia", SCTV
@@ -409,6 +409,8 @@ https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
 https://delivery.macan.live/stream/galaxy_premium/index.m3u8?token=gratisan
 #EXTINF:-1, group-title="Movie Channel", Gemini Movies
 
+#EXTINF:-1, group-title="Movie Channel", Hallmark
+http://live.highstream.club/live/Hallmark/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/145.m3u8 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
@@ -439,7 +441,10 @@ http://210.210.155.66/h/h08/01.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", Manorajan TV
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8
-#EXTINF:-1 group-title="Movie Channel", MGM Sci-Fi
+#EXTINF:-1 group-title="Movie Channel", MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+#EXTINF:-1 group-title="Movie Channel", MBC Action
+#EXTINF:-1 grouphttps://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8-title="Movie Channel", MGM Sci-Fi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
@@ -497,6 +502,11 @@ http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Action
 http://145.239.255.4:8080/M4M/mono.m3u8?token=test
+#EXTINF:-1 group-title="Movie Channel", Sony Movies Classic
+http://145.239.255.4:8080/en-TrueMovies2/mono.m3u8?token=test
+#EXTINF:-1 group-title="Movie Channel", Sony Pix
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
 #EXTINF:-1 group-title="Movie Channel", Star Chinese Movies
 https://delivery.macan.live/stream/id_scm/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel", Star Gold HD
