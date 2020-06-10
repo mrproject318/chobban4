@@ -54,9 +54,9 @@ https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_oasis.png", Astro Oasis
 http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=6ed99f164db0c90030ce10756604b757
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_prima.png", Astro Prima
-
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ria.png", Astro Ria
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_warna.png", Astro Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/hypp-inspirasi.png", Hypp Inspirasi
@@ -64,7 +64,7 @@ http://mainpanel01.club:8080/dt6SU8zQDw/vnJxFk69h2/33256
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png", Hypp Pesona HD
 
 #EXTINF:-1, group-title="Malaysia" https://www.tm.com.my/tv/assets/imgs/channels/hypp-sensasi.png"", Hypp Sensasi
-http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18580
+http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28664?token=HhVYAkpZQF8XAFoLAA4OBgMDAAFSClJUVlBcAVQHV1UABghSXQQHU1QTThtFQ0pVUlk6X1QaWVNdBA5XG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoGUgNYVBsSE1BVQF8XA1ULBwcaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQFCwIDFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQACgABFhg=
 
 
 #EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png", Channel 5
@@ -99,7 +99,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", Disney Jr Indonesia
 
-#EXTINF:-1, group-title="Indonesia", Dunia Anak
+#EXTINF:-1, group-title="Indonesia", Dunia Sinema
+http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28681?token=HhVYAkpZQF8XBVRaBgJaVgYEBgQBXlADUAIMAAIEAVFWBlECWwdVBAMTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoDUwRXUhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
 
 #EXTINF:-1, group-title="Indonesia", Dunia Lain
 http://mantul.biz.id:8888/live/gocir/0905/246.ts
@@ -247,6 +248,8 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 #EXTINF:-1, group-title="Korea", TBS
 http://203.162.235.41:16907
+#EXTINF:-1, group-title="Korea", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1, group-title="Picked Multination TV", Comedy Central
 https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
@@ -380,6 +383,8 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie Channel", Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 group-title="Movie Channel", Dunia Cinema
+http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28681?token=HhVYAkpZQF8XBVRaBgJaVgYEBgQBXlADUAIMAAIEAVFWBlECWwdVBAMTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoDUwRXUhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f 
 #EXTINF:-1 group-title="Movie Channel", FilmBox
 
 #EXTINF:-1 group-title="Movie Channel", Film4
@@ -393,9 +398,9 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies
-https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=gratisan
+http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28678?token=HhVYAkpZQF8XUwEJAlQLAgNXUQYHDABUAwIAW1UBAllWVgJVDVVbVAITThtFQ0pVUlk6X1QaWVNdBA9bG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoGUgVSUBsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
 #EXTINF:-1 group-title="Movie Channel", Fox Movies
-
+http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28676?token=HhVYAkpZQF8XBVsNBQEJBgdXVQcDAFpTVwcOUw5RUllVVVMACghRAQwTThtFQ0pVUlk6X1QaWVNdBA9VG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoGUw5ZVhsSE1BVQF8XA1MJDg4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQFAQACFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQGCAMFFhg=
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_movies_premium.png", Fox Movies Premium
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FX
@@ -542,7 +547,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 group-title="News", Al Jazeera English Qatar
 https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8 
 #EXTINF:-1 group-title="News", Arirang TV Korea
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="News", Astro Awani Malaysia
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="News", BBC Parliment UK
