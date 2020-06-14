@@ -104,7 +104,9 @@ http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28681?token=HhVYAkpZQF8XBVRaBgJ
 
 #EXTINF:-1, group-title="Indonesia", Dunia Lain
 http://mantul.biz.id:8888/live/gocir/0905/246.ts
-#EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV (1)
+https://dl.dropboxusercontent.com/s/n5z48vupb0mzj8b/gtvv.m3u8?dl=0 
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV (2)
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1, group-title="Indonesia", .IdKu
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/index.m3u8
@@ -128,8 +130,10 @@ http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1, group-title="Indonesia", MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1, group-title="Indonesia", MNC TV (1)
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1, group-title="Indonesia", MNC TV (2)
+https://dl.dropboxusercontent.com/s/mu7lnv0py20o1as/mncc.m3u8?dl=0
 #EXTINF:-1, group-title="Indonesia", Net.TV
 https://stream.suryaiptv.net/streams/16_.m3u8
 #EXTINF:-1, group-title="Indonesia", Nusantara TV
