@@ -374,7 +374,7 @@ http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", China Movies 6
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax
-https://delivery.macan.live/stream/cinemax/index.m3u8?token=gratisan
+http://136.243.177.164/CINEMAX/playlist.m3u8  
 #EXTINF:-1 group-title="Movie Channel", Cinema World
 http://210.210.155.66/h/h04/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", Citra Bioskop
@@ -398,11 +398,11 @@ https://delivery.macan.live/stream/flik/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28678?token=HhVYAkpZQF8XUwEJAlQLAgNXUQYHDABUAwIAW1UBAllWVgJVDVVbVAITThtFQ0pVUlk6X1QaWVNdBA9bG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoGUgVSUBsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1000000.m3u8 
 #EXTINF:-1 group-title="Movie Channel", Fox Movies
 http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28676?token=HhVYAkpZQF8XBVsNBQEJBgdXVQcDAFpTVwcOUw5RUllVVVMACghRAQwTThtFQ0pVUlk6X1QaWVNdBA9VG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoGUw5ZVhsSE1BVQF8XA1MJDg4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQFAQACFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQGCAMFFhg=
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_movies_premium.png", Fox Movies Premium
@@ -451,13 +451,13 @@ https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 #EXTINF:-1 grouphttps://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8-title="Movie Channel", MGM Sci-Fi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", MNX
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8 
 #EXTINF:-1 group-title="Movie Channel", MN+
 http://iptv.kitv.live:1935/live/Shari/MTV-P/147.m3u8
 #EXTINF:-1 group-title="Movie Channel", Movie Max
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8	
 #EXTINF:-1 group-title="Movie Channel", Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
 #EXTINF:-1 group-title="Movie Channel", Movie Plus
 
 #EXTINF:-1 group-title="Movie Channel", New Tv Super Movie
@@ -517,6 +517,8 @@ https://delivery.macan.live/stream/id_scm/index.m3u8?token=gratisan
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8 
 #EXTINF:-1 group-title="Movie Channel", Star Movies HD
 http://103.214.202.218:8081/live/starmovies/chunks.m3u8
+#EXTINF:-1 group-title="Movie Channel", Star Movies Select
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Star Plus HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", Star World
@@ -649,7 +651,7 @@ https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/animalplanet.png", Animal Planet
-https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=gratisan
+	http://43.230.123.21:8080/live/animale-planet.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png", Animal Planet Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Arabic Music
@@ -697,7 +699,7 @@ https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Cruise 1st TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoverychannel.png", Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
+http://43.231.22.238:8081/hdcrictv/ctg_discovery/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoveryasia.png", Discovery Asia
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel Brazil
@@ -784,8 +786,10 @@ https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nasa TV
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic
+#EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic 1
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic 2
+http://103.135.208.14/live/ibox/bd/61.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic Abu Dhabi
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People
