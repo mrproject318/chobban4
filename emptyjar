@@ -322,7 +322,7 @@ http://96.30.124.101:1935/psilive2a/AsianMovie.stream_360p/chunklist_w1575217654
 #EXTINF:-1 group-title="Movie Channel", &FlixHD
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", &PriveHD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", 24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:-1 group-title="Movie Channel", 2M Monde
