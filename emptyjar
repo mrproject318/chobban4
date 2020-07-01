@@ -322,7 +322,7 @@ http://96.30.124.101:1935/psilive2a/AsianMovie.stream_360p/chunklist_w1575217654
 #EXTINF:-1 group-title="Movie Channel", &FlixHD
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", &PriveHD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", 24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:-1 group-title="Movie Channel", 2M Monde
@@ -395,6 +395,8 @@ http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28681?token=HhVYAkpZQF8XBVRaBgJ
 http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 group-title="Movie Channel", Flik
 https://delivery.macan.live/stream/flik/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Movie Channel", Flimax
+https://playlive.goonj.pk/filmaxweb_480p/index.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies
@@ -737,7 +739,7 @@ https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life 
 https://edge01.iptv.digijadoo.net/live/fox_life/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", FYI HD
-https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Gems TV
 https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/hgtv.png", HGTV
@@ -745,7 +747,7 @@ https://delivery.macan.live/stream/hgtv/index.m3u8?token=gratisan
 #EXTINF:-1 group-title="Knowledge & Infotainment", History
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18
-https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History Lab
