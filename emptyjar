@@ -35,7 +35,7 @@ https://rtmlfd01.secureswiftcontent.com/37a9627f2d649693e68c48f99298840f/master.
 #EXTINF:-1, group-title="Malaysia", TV Selangor
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png", Bernama TV
-
+http://freeview.mywire.org:9090/streams/bnc.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro Boo
