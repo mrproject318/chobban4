@@ -61,7 +61,7 @@ http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_warna.png", Astro Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/hypp-inspirasi.png", Hypp Inspirasi
-http://mainpanel01.club:8080/dt6SU8zQDw/vnJxFk69h2/33256
+
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png", Hypp Pesona HD
 
 #EXTINF:-1, group-title="Malaysia" https://www.tm.com.my/tv/assets/imgs/channels/hypp-sensasi.png"", Hypp Sensasi
@@ -97,7 +97,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 #EXTINF:-1, group-title="Indonesia", Bioskop Indonesia
 
 #EXTINF:-1, group-title="Indonesia", Citra Drama
-https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
+
 #EXTINF:-1, group-title="Indonesia", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", CNN Indonesia
