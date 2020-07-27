@@ -725,7 +725,7 @@ http://103.135.208.14:80/live/ibox/bd/93.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Beach TV
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth (1)
-https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
+http://indtv.online/Sony_BBC_Earth_HD.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth (2)
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8  
 #EXTINF:-1 group-title="Knowledge & Infotainment", BBC Lifestyle
