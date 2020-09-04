@@ -449,7 +449,7 @@ https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
 #EXTINF:-1, group-title="Movie Channel", Gravitas
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO (1)
-http://136.243.177.164/HBO/playlist.m3u8
+https://watchindia.net:8443/live/30851/43306/2081.ts
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO (2)
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAAZUolL9kiSgoVhlwQ21zY2a/HBO.m3u8?dl=0
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO (3)
@@ -713,7 +713,7 @@ https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/animalplanet.png", Animal Planet
-http://103.135.208.14:80/live/ibox/bd/93.m3u8
+https://watchindia.net:8443/live/30851/43306/2039.ts
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png", Animal Planet Hindi
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Arabic Music
@@ -725,7 +725,7 @@ http://103.135.208.14:80/live/ibox/bd/93.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Beach TV
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth (1)
-http://indtv.online/Sony_BBC_Earth_HD.m3u8
+https://watchindia.net:8443/live/30851/43306/789.ts
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth (2)
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8  
 #EXTINF:-1 group-title="Knowledge & Infotainment", BBC Lifestyle
@@ -765,7 +765,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/inde
 #EXTINF:-1 group-title="Knowledge & Infotainment", Dil Se
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8 
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoverychannel.png", Discovery Channel
-http://live.highstream.club/live/DISCOVERY/playlist.m3u8
+https://watchindia.net:8443/live/30851/43306/841.ts
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoveryasia.png", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel Brazil
@@ -817,9 +817,9 @@ http://live.highstream.club/live/Hallmark/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/hgtv.png", HGTV
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", History
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+https://watchindia.net:8443/live/30851/43306/2038.ts
 #EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18 (1)
-http://103.135.208.14/live/ibox/bd/91.m3u8  
+https://watchindia.net:8443/live/30851/43306/791.ts 
 #EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18 (2)
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History 2
@@ -869,7 +869,7 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nasa TV
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic 1
-https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+https://watchindia.net:8443/live/30851/43306/790.ts
 #EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic 2
 http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic Abu Dhabi
@@ -879,7 +879,7 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People (2)
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild (1)
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+https://watchindia.net:8443/live/30851/43306/2047.ts
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild (2)
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", NewsMax
