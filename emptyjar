@@ -345,9 +345,9 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", AMC
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN 1
-http://210.210.155.66/h/h141/01.m3u8
+http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN 2
-http://34.101.225.209:8187/iptvfree/iptvfree/120
+
 #EXTINF:-1 group-title="Movie Channel", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", B4U Movies
@@ -437,7 +437,7 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies 2
 http://34.101.225.209:8187/iptvfree/iptvfree/110
 #EXTINF:-1 group-title="Movie Channel", Fox Movies
-http://34.101.225.209:8187/iptvfree/iptvfree/146
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_movies_premium.png", Fox Movies Premium
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FX
@@ -488,8 +488,17 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", Manorajan TV
 http://103.135.208.14/live/ibox/bd/12.m3u8
+#EXTINF:-1 group-title="Movie Channel", MBC 1 HD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:-1 group-title="Movie Channel", MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+#EXTINF:-1 group-title="Movie Channel", MBC 3 HD
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8 
+#EXTINF:-1 group-title="Movie Channel", MBC 4 HD
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8 
+#EXTINF:-1 group-title="Movie Channel", MBC 5 HD
+https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", MBC Action
 
 #EXTINF:-1 grouphttps://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8-title="Movie Channel", MGM Sci-Fi
@@ -521,7 +530,7 @@ http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_1800_av-p.m3u8
 #EXTINF:-1 group-title="Movie Channel", Raj TV
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/red_hbo.png", Red By HBO
-http://34.101.225.209:8187/iptvfree/iptvfree/387
+
 #EXTINF:-1 group-title="Movie Channel", Reel PX Comedy
 
 #EXTINF:-1 group-title="Movie Channel", Reel PX Family
@@ -551,7 +560,7 @@ http://103.214.202.218:8081/live/sony-40/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony One HD
 http://210.210.155.66/h/h143/02.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony Max
-http://103.135.208.14/live/ibox/bd/44.m3u8 
+http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Movie Channel", Sony Movies
 
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Action
@@ -559,7 +568,10 @@ http://103.135.208.14/live/ibox/bd/44.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Classic
 
 #EXTINF:-1 group-title="Movie Channel", Sony Pix
-http://103.205.133.19/hls/sonypix.m3u8
+
+#EXTINF:-1 group-title="Movie Channel", Sony SAB HD
+http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Star HD
 http://80.78.65.170:8383/StarHD
 #EXTINF:-1 group-title="Movie Channel", Star Gold HD
@@ -567,7 +579,7 @@ http://103.135.208.14/live/ibox/bd/40.m3u8
 #EXTINF:-1 group-title="Movie Channel", Star Movies HD
 
 #EXTINF:-1 group-title="Movie Channel", Star Movies Select
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Star Plus HD
 
 #EXTINF:-1 group-title="Movie Channel", Star World
@@ -583,26 +595,26 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:-1 group-title="Movie Channel", The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
 #EXTINF:-1 group-title="Movie Channel"tvg-logo="https://macan.live/img/thrill.png", Thrill
-https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Tollywood India
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", TNT
 http://live.highstream.club/live/TNT/playlist.m3u8 
 #EXTINF:-1 group-title="Movie Channel", TvN Movies
-http://34.101.225.209:8187/iptvfree/iptvfree/374  
+http://tvku.live:8888/live/Nayra/160190/927.m3u8 
 #EXTINF:-1 group-title="Movie Channel", UTV Movies
-http://103.135.208.14/live/ibox/bd/7.m3u8
+
 
 #EXTINF:-1 group-title="Movie Channel", Warner TV
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+http://tvku.live:8888/Nayra/160190/1533
 #EXTINF:-1 group-title="Movie Channel", Wow Cinema
 
 #EXTINF:-1 group-title="Movie Channel", Zee TV
-http://z5amshls.akamaized.net/apacsea/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Zee Aflam
 
 #EXTINF:-1 group-title="Movie Channel", Zee Action HD
-http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8	
+	
 #EXTINF:-1 group-title="Movie Channel", Zee Bollywood HD
 http://103.135.208.14/live/ibox/bd/48.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Cafe
@@ -611,7 +623,8 @@ http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8 
 #EXTINF:-1 group-title="Movie Channel", Zee Classic
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8 
-
+#EXTINF:-1 group-title="Movie Channel", ZQ Drama
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 
 
 #EXTINF:-1 group-title="News", ABC News Australia
@@ -713,23 +726,23 @@ https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/animalplanet.png", Animal Planet
-https://watchindia.net:8443/live/30851/43306/2039.ts
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png", Animal Planet Hindi
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Arabic Music
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Arirang
-
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Asian Food Channel
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Beach TV
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth (1)
-https://watchindia.net:8443/live/30851/43306/789.ts
+http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth (2)
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8  
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 group-title="Knowledge & Infotainment", BBC Lifestyle
-https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8  
+ 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Best Of WWE
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Blaze TV
@@ -738,6 +751,8 @@ https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/blue_ant_extreme.png", Blue Ant Extreme
 
+#EXTINF:-1 group-title="Knowledge & Infotainment", Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Buzzr TV
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", CCTV 4K
@@ -759,19 +774,21 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Court TV
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Create & Craft
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Cruise 1st TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8 
+
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoverychannel.png", Discovery Channel
-https://watchindia.net:8443/live/30851/43306/841.ts
+http://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8 
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoveryasia.png", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel Brazil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery History
+http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/si/DiscoveryScience.si.png", Discovery Science
-
+http://rstr0.teamnetwork.co/stream111/stream.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Turbo
 
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png", Discovery Channel India
@@ -791,7 +808,7 @@ http://playlive.goonj.pk/expressentweb_480p/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Filmax
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", FilmBox Arthouse
@@ -833,7 +850,7 @@ http://103.135.208.14/live/ibox/bd/49.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png", Investigation Discovery
-
+http://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Info Wars TV
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Japanet
@@ -841,7 +858,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 #EXTINF:-1 group-title="Knowledge & Infotainment", Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on 
 #EXTINF:-1 group-title="Knowledge & Infotainment", KBS World
-
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Law & Crime 
 https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/lifetime.png", Lifetime
@@ -957,7 +974,524 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Z Living USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="USA"  tvg-country="USA" tvg-url="" group-title="USA PREMIUM", HBO
+http://localdblagent.club:8080/live/1935/1935/1456.m3u8
+#EXTINF:0,HBO West
+http://localdblagent.club:8080/live/1935/1935/1458.m3u8
+#EXTINF:0,HBO 2
+http://localdblagent.club:8080/live/1935/1935/10237.m3u8
+#EXTINF:0,HBO 2 West
+http://localdblagent.club:8080/live/1935/1935/13857.m3u8
+#EXTINF:0,HBO Comedy
+http://localdblagent.club:8080/live/1935/1935/1457.m3u8
+#EXTINF:0,HBO Comedy West
+http://localdblagent.club:8080/live/1935/1935/13858.m3u8
+#EXTINF:0,HBO Signature
+http://localdblagent.club:8080/live/1935/1935/10236.m3u8
+#EXTINF:0,HBO Signature West
+http://localdblagent.club:8080/live/1935/1935/13859.m3u8
+#EXTINF:0,HBO Zone
+http://localdblagent.club:8080/live/1935/1935/1459.m3u8
+#EXTINF:0,Cinemax
+http://localdblagent.club:8080/live/1935/1935/1460.m3u8
+#EXTINF:0,Cinemax (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1461.m3u8
+#EXTINF:0,Cinemax 5 Star Max
+http://localdblagent.club:8080/live/1935/1935/13354.m3u8
+#EXTINF:0,Cinemax ActionMax
+http://localdblagent.club:8080/live/1935/1935/1462.m3u8
+#EXTINF:0,Cinemax MoreMax
+http://localdblagent.club:8080/live/1935/1935/10239.m3u8
+#EXTINF:0,Cinemax MovieMax
+http://localdblagent.club:8080/live/1935/1935/13851.m3u8
+#EXTINF:0,Cinemax OuterMax
+http://localdblagent.club:8080/live/1935/1935/2460.m3u8
+#EXTINF:0,Cinemax ThrillerMax
+http://localdblagent.club:8080/live/1935/1935/1463.m3u8
+#EXTINF:0,Showtime East
+http://localdblagent.club:8080/live/1935/1935/1465.m3u8
+#EXTINF:0,Showtime West
+http://localdblagent.club:8080/live/1935/1935/1468.m3u8
+#EXTINF:0,Showtime 2
+http://localdblagent.club:8080/live/1935/1935/1464.m3u8
+#EXTINF:0,Showtime Beyond
+http://localdblagent.club:8080/live/1935/1935/2611.m3u8
+#EXTINF:0,Showtime Beyond West
+http://localdblagent.club:8080/live/1935/1935/13861.m3u8
+#EXTINF:0,Showtime Extreme East
+http://localdblagent.club:8080/live/1935/1935/1466.m3u8
+#EXTINF:0,Showtime Extreme West
+http://localdblagent.club:8080/live/1935/1935/13862.m3u8
+#EXTINF:0,Showtime Next
+http://localdblagent.club:8080/live/1935/1935/2609.m3u8
+#EXTINF:0,Showtime Next West
+http://localdblagent.club:8080/live/1935/1935/13863.m3u8
+#EXTINF:0,Showtime Showcase East
+http://localdblagent.club:8080/live/1935/1935/1467.m3u8
+#EXTINF:0,Showtime Showcase West
+http://localdblagent.club:8080/live/1935/1935/13864.m3u8
+#EXTINF:0,Showtime Women
+http://localdblagent.club:8080/live/1935/1935/2607.m3u8
+#EXTINF:0,Showtime Women West
+http://localdblagent.club:8080/live/1935/1935/13865.m3u8
+#EXTINF:0,Starz
+http://localdblagent.club:8080/live/1935/1935/2458.m3u8
+#EXTINF:0,Starz West
+http://localdblagent.club:8080/live/1935/1935/2613.m3u8
+#EXTINF:0,Starz Cinema
+http://localdblagent.club:8080/live/1935/1935/2619.m3u8
+#EXTINF:0,Starz Cinema West
+http://localdblagent.club:8080/live/1935/1935/13866.m3u8
+#EXTINF:0,Starz Comedy
+http://localdblagent.club:8080/live/1935/1935/1469.m3u8
+#EXTINF:0,Starz Comedy West
+http://localdblagent.club:8080/live/1935/1935/13867.m3u8
+#EXTINF:0,Starz Encore
+http://localdblagent.club:8080/live/1935/1935/1471.m3u8
+#EXTINF:0,Starz Encore West
+http://localdblagent.club:8080/live/1935/1935/10240.m3u8
+#EXTINF:0,Starz Encore Action
+http://localdblagent.club:8080/live/1935/1935/2618.m3u8
+#EXTINF:0,Starz Encore Black
+http://localdblagent.club:8080/live/1935/1935/2617.m3u8
+#EXTINF:0,Starz Encore Black West
+http://localdblagent.club:8080/live/1935/1935/13869.m3u8
+#EXTINF:0,Starz Encore Classic
+http://localdblagent.club:8080/live/1935/1935/2616.m3u8
+#EXTINF:0,Starz Encore Classic West
+http://localdblagent.club:8080/live/1935/1935/13870.m3u8
+#EXTINF:0,Starz Encore Suspense
+http://localdblagent.club:8080/live/1935/1935/2614.m3u8
+#EXTINF:0,Starz Encore Suspense West
+http://localdblagent.club:8080/live/1935/1935/13871.m3u8
+#EXTINF:0,Starz Encore Westerns
+http://localdblagent.club:8080/live/1935/1935/2612.m3u8
+#EXTINF:0,Starz Encore Westerns West
+http://localdblagent.club:8080/live/1935/1935/13872.m3u8
+#EXTINF:0,Starz In Black
+http://localdblagent.club:8080/live/1935/1935/1472.m3u8
+#EXTINF:0,Starz in Black West
+http://localdblagent.club:8080/live/1935/1935/13873.m3u8
+#EXTINF:0,Movieplex
+http://localdblagent.club:8080/live/1935/1935/2597.m3u8
+#EXTINF:0,MoviePlex West
+http://localdblagent.club:8080/live/1935/1935/13875.m3u8
+#EXTINF:0,Retroplex
+http://localdblagent.club:8080/live/1935/1935/2596.m3u8
+#EXTINF:0,RetroPlex West
+http://localdblagent.club:8080/live/1935/1935/13876.m3u8
+#EXTINF:0,Indieplex
+http://localdblagent.club:8080/live/1935/1935/2598.m3u8
+#EXTINF:0,IndiePlex West
+http://localdblagent.club:8080/live/1935/1935/13874.m3u8
+#EXTINF:0,The Movie Channel
+http://localdblagent.club:8080/live/1935/1935/1473.m3u8
+#EXTINF:0,The Movie Channel Xtra
+http://localdblagent.club:8080/live/1935/1935/1474.m3u8
+#EXTINF:0,Epix
+http://localdblagent.club:8080/live/1935/1935/1475.m3u8
+#EXTINF:0,Epix 2
+http://localdblagent.club:8080/live/1935/1935/1476.m3u8
+#EXTINF:0,Epix Hits
+http://localdblagent.club:8080/live/1935/1935/1477.m3u8
+#EXTINF:0,HDNET MOVIES
+http://localdblagent.club:8080/live/1935/1935/10847.m3u8
+#EXTINF:0,MGM
+http://localdblagent.club:8080/live/1935/1935/1479.m3u8
+#EXTINF:0,Reelz
+http://localdblagent.club:8080/live/1935/1935/1592.m3u8
+#EXTINF:0,3ABN
+http://localdblagent.club:8080/live/1935/1935/10848.m3u8
+#EXTINF:0, A&E
+http://localdblagent.club:8080/live/1935/1935/1481.m3u8
+#EXTINF:0,ABC 3 Austin
+http://localdblagent.club:8080/live/1935/1935/12686.m3u8
+#EXTINF:0,ABC 7 Chicago
+http://localdblagent.club:8080/live/1935/1935/1482.m3u8
+#EXTINF:0,ABC 7 Los Angeles
+http://localdblagent.club:8080/live/1935/1935/1483.m3u8
+#EXTINF:0,ABC 7 New York
+http://localdblagent.club:8080/live/1935/1935/1484.m3u8
+#EXTINF:0,Accuweather
+http://localdblagent.club:8080/live/1935/1935/10241.m3u8
+#EXTINF:0,Adult Swim
+http://localdblagent.club:8080/live/1935/1935/10242.m3u8
+#EXTINF:0,AMC
+http://localdblagent.club:8080/live/1935/1935/1485.m3u8
+#EXTINF:0,American Heroes Channel
+http://localdblagent.club:8080/live/1935/1935/1486.m3u8
+#EXTINF:0,Animal Planet
+http://localdblagent.club:8080/live/1935/1935/1488.m3u8
+#EXTINF:0,Animal Planet (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1489.m3u8
+#EXTINF:0,Antenna
+http://localdblagent.club:8080/live/1935/1935/1490.m3u8
+#EXTINF:0,Aspire
+http://localdblagent.club:8080/live/1935/1935/1491.m3u8
+#EXTINF:0,AWE American Wealth Entertainment
+http://localdblagent.club:8080/live/1935/1935/3859.m3u8
+#EXTINF:0,AXS TV
+http://localdblagent.club:8080/live/1935/1935/1492.m3u8
+#EXTINF:0,BBC America
+http://localdblagent.club:8080/live/1935/1935/1493.m3u8
+#EXTINF:0,BBC World News
+http://localdblagent.club:8080/live/1935/1935/1494.m3u8
+#EXTINF:0,BET
+http://localdblagent.club:8080/live/1935/1935/1495.m3u8
+#EXTINF:0,BET (West)
+http://localdblagent.club:8080/live/1935/1935/10849.m3u8
+#EXTINF:0,BET Gospel
+http://localdblagent.club:8080/live/1935/1935/1496.m3u8
+#EXTINF:0,BET Her
+http://localdblagent.club:8080/live/1935/1935/1497.m3u8
+#EXTINF:0,BET Jams
+http://localdblagent.club:8080/live/1935/1935/1498.m3u8
+#EXTINF:0,BET Soul
+http://localdblagent.club:8080/live/1935/1935/1499.m3u8
+#EXTINF:0,Black News Channel (BNC)
+http://localdblagent.club:8080/live/1935/1935/13356.m3u8
+#EXTINF:0,Bounce TV
+http://localdblagent.club:8080/live/1935/1935/1500.m3u8
+#EXTINF:0,Bravo
+http://localdblagent.club:8080/live/1935/1935/1501.m3u8
+#EXTINF:0,Bravo Pacific
+http://localdblagent.club:8080/live/1935/1935/1502.m3u8
+#EXTINF:0,BLOOMBERG
+http://localdblagent.club:8080/live/1935/1935/10854.m3u8
+#EXTINF:0,Buzzr
+http://localdblagent.club:8080/live/1935/1935/9327.m3u8
+#EXTINF:0,CourtTV Mystery
+http://localdblagent.club:8080/live/1935/1935/13063.m3u8
+#EXTINF:0,C-SPAN
+http://localdblagent.club:8080/live/1935/1935/10855.m3u8
+#EXTINF:0,C-SPAN 2
+http://localdblagent.club:8080/live/1935/1935/10856.m3u8
+#EXTINF:0,Catholic TV
+http://localdblagent.club:8080/live/1935/1935/10858.m3u8
+#EXTINF:0,CBN
+http://localdblagent.club:8080/live/1935/1935/10859.m3u8
+#EXTINF:0,CBS NEWS
+http://localdblagent.club:8080/live/1935/1935/10860.m3u8
+#EXTINF:0,CBS 2 Chicago
+http://localdblagent.club:8080/live/1935/1935/1504.m3u8
+#EXTINF:0,CBS 2 Los Angeles
+http://localdblagent.club:8080/live/1935/1935/1505.m3u8
+#EXTINF:0,CBS 2 New York
+http://localdblagent.club:8080/live/1935/1935/1506.m3u8
+#EXTINF:0,Cheddar Business
+http://localdblagent.club:8080/live/1935/1935/1507.m3u8
+#EXTINF:0,Cheddar News
+http://localdblagent.club:8080/live/1935/1935/1508.m3u8
+#EXTINF:0,Cleo TV
+http://localdblagent.club:8080/live/1935/1935/1510.m3u8
+#EXTINF:0,CMT Country Music Television
+http://localdblagent.club:8080/live/1935/1935/3861.m3u8
+#EXTINF:0,CNBC
+http://localdblagent.club:8080/live/1935/1935/1511.m3u8
+#EXTINF:0,CNBC World
+http://localdblagent.club:8080/live/1935/1935/1512.m3u8
+#EXTINF:0,CNN
+http://localdblagent.club:8080/live/1935/1935/1513.m3u8
+#EXTINF:0,Comedy Central
+http://localdblagent.club:8080/live/1935/1935/1514.m3u8
+#EXTINF:0,Comedy TV
+http://localdblagent.club:8080/live/1935/1935/13358.m3u8
+#EXTINF:0,Comet
+http://localdblagent.club:8080/live/1935/1935/13359.m3u8
+#EXTINF:0,Cooking Channel
+http://localdblagent.club:8080/live/1935/1935/1516.m3u8
+#EXTINF:0,Cornerstone TV
+http://localdblagent.club:8080/live/1935/1935/10861.m3u8
+#EXTINF:0,Cowboy Channel
+http://localdblagent.club:8080/live/1935/1935/10880.m3u8
+#EXTINF:0,Cozi TV
+http://localdblagent.club:8080/live/1935/1935/10881.m3u8
+#EXTINF:0,CRIME & INVESTIGATION
+http://localdblagent.club:8080/live/1935/1935/10862.m3u8
+#EXTINF:0,CW
+http://localdblagent.club:8080/live/1935/1935/13062.m3u8
+#EXTINF:0,DayStar
+http://localdblagent.club:8080/live/1935/1935/1517.m3u8
+#EXTINF:0,Destination America
+http://localdblagent.club:8080/live/1935/1935/1518.m3u8
+#EXTINF:0,Discovery Channel
+http://localdblagent.club:8080/live/1935/1935/1519.m3u8
+#EXTINF:0,Discovery Channel (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1520.m3u8
+#EXTINF:0,Discovery ID (Investigation)
+http://localdblagent.club:8080/live/1935/1935/1557.m3u8
+#EXTINF:0,Discovery Life
+http://localdblagent.club:8080/live/1935/1935/1522.m3u8
+#EXTINF:0,Discovery Science
+http://localdblagent.club:8080/live/1935/1935/1523.m3u8
+#EXTINF:0,Divine Vision Network
+http://localdblagent.club:8080/live/1935/1935/10863.m3u8
+#EXTINF:0,Dog TV
+http://localdblagent.club:8080/live/1935/1935/10882.m3u8
+#EXTINF:0,DIY
+http://localdblagent.club:8080/live/1935/1935/1524.m3u8
+#EXTINF:0,E!
+http://localdblagent.club:8080/live/1935/1935/1525.m3u8
+#EXTINF:0,E! (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1526.m3u8
+#EXTINF:0,El Rey
+http://localdblagent.club:8080/live/1935/1935/1528.m3u8
+#EXTINF:0,ES.TV
+http://localdblagent.club:8080/live/1935/1935/13361.m3u8
+#EXTINF:0,Food Network
+http://localdblagent.club:8080/live/1935/1935/1529.m3u8
+#EXTINF:0,Food Network (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1530.m3u8
+#EXTINF:0,FOX 11 Los Angeles
+http://localdblagent.club:8080/live/1935/1935/1532.m3u8
+#EXTINF:0,FOX 32 Chicago
+http://localdblagent.club:8080/live/1935/1935/1533.m3u8
+#EXTINF:0,FOX 5 New York
+http://localdblagent.club:8080/live/1935/1935/1534.m3u8
+#EXTINF:0,Fox Business News
+http://localdblagent.club:8080/live/1935/1935/3864.m3u8
+#EXTINF:0,Fox News
+http://localdblagent.club:8080/live/1935/1935/1536.m3u8
+#EXTINF:0,Freeform
+http://localdblagent.club:8080/live/1935/1935/1538.m3u8
+#EXTINF:0,Freeform West
+http://localdblagent.club:8080/live/1935/1935/1539.m3u8
+#EXTINF:0,Fusion
+http://localdblagent.club:8080/live/1935/1935/1540.m3u8
+#EXTINF:0,FX
+http://localdblagent.club:8080/live/1935/1935/1541.m3u8
+#EXTINF:0,FX (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1542.m3u8
+#EXTINF:0,FXM
+http://localdblagent.club:8080/live/1935/1935/1543.m3u8
+#EXTINF:0,FXX
+http://localdblagent.club:8080/live/1935/1935/1544.m3u8
+#EXTINF:0,FXX (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1545.m3u8
+#EXTINF:0,fyi
+http://localdblagent.club:8080/live/1935/1935/13362.m3u8
+#EXTINF:0,Game Show Network
+http://localdblagent.club:8080/live/1935/1935/1546.m3u8
+#EXTINF:0,GEM SHOPPING NETWORK
+http://localdblagent.club:8080/live/1935/1935/10867.m3u8
+#EXTINF:0,Get TV
+http://localdblagent.club:8080/live/1935/1935/13065.m3u8
+#EXTINF:0,God's Learning Channel
+http://localdblagent.club:8080/live/1935/1935/10869.m3u8
+#EXTINF:0,Great American Country (GAC)
+http://localdblagent.club:8080/live/1935/1935/1548.m3u8
+#EXTINF:0,Grit
+http://localdblagent.club:8080/live/1935/1935/1549.m3u8
+#EXTINF:0,Hallmark Channel
+http://localdblagent.club:8080/live/1935/1935/1550.m3u8
+#EXTINF:0,Hallmark Drama
+http://localdblagent.club:8080/live/1935/1935/1551.m3u8
+#EXTINF:0,Hallmark Movies & Mysteries
+http://localdblagent.club:8080/live/1935/1935/1552.m3u8
+#EXTINF:0,Heroes & Icons
+http://localdblagent.club:8080/live/1935/1935/13066.m3u8
+#EXTINF:0,HGTV
+http://localdblagent.club:8080/live/1935/1935/1553.m3u8
+#EXTINF:0,History Channel
+http://localdblagent.club:8080/live/1935/1935/1554.m3u8
+#EXTINF:0,History Military
+http://localdblagent.club:8080/live/1935/1935/1568.m3u8
+#EXTINF:0,HLN
+http://localdblagent.club:8080/live/1935/1935/1555.m3u8
+#EXTINF:0,HSN
+http://localdblagent.club:8080/live/1935/1935/13363.m3u8
+#EXTINF:0,HSN 2
+http://localdblagent.club:8080/live/1935/1935/13364.m3u8
+#EXTINF:0,Hunt Channel
+http://localdblagent.club:8080/live/1935/1935/13365.m3u8
+#EXTINF:0,IFC
+http://localdblagent.club:8080/live/1935/1935/1556.m3u8
+#EXTINF:0,INSP
+http://localdblagent.club:8080/live/1935/1935/3860.m3u8
+#EXTINF:0,Inspiration TV
+http://localdblagent.club:8080/live/1935/1935/10870.m3u8
+#EXTINF:0,ION
+http://localdblagent.club:8080/live/1935/1935/1559.m3u8
+#EXTINF:0,Jewish Broadcasting Service
+http://localdblagent.club:8080/live/1935/1935/10871.m3u8
+#EXTINF:0,JUSTICE CENTRAL
+http://localdblagent.club:8080/live/1935/1935/10872.m3u8
+#EXTINF:0,KCAL 9  Los Angeles
+http://localdblagent.club:8080/live/1935/1935/12786.m3u8
+#EXTINF:0,KTLA
+http://localdblagent.club:8080/live/1935/1935/1560.m3u8
+#EXTINF:0,LAFF
+http://localdblagent.club:8080/live/1935/1935/10883.m3u8
+#EXTINF:0,Law and Crime
+http://localdblagent.club:8080/live/1935/1935/1562.m3u8
+#EXTINF:0,Lifetime
+http://localdblagent.club:8080/live/1935/1935/1563.m3u8
+#EXTINF:0,Lifetime Movie Network
+http://localdblagent.club:8080/live/1935/1935/1564.m3u8
+#EXTINF:0,Lifetime Real Women (LRW)
+http://localdblagent.club:8080/live/1935/1935/13366.m3u8
+#EXTINF:0,Light TV
+http://localdblagent.club:8080/live/1935/1935/10873.m3u8
+#EXTINF:0,Logo
+http://localdblagent.club:8080/live/1935/1935/1566.m3u8
+#EXTINF:0,MeTV
+http://localdblagent.club:8080/live/1935/1935/1567.m3u8
+#EXTINF:0,Motor Trend
+http://localdblagent.club:8080/live/1935/1935/1569.m3u8
+#EXTINF:0,MSNBC
+http://localdblagent.club:8080/live/1935/1935/1570.m3u8
+#EXTINF:0,MTV
+http://localdblagent.club:8080/live/1935/1935/1571.m3u8
+#EXTINF:0,MTV2
+http://localdblagent.club:8080/live/1935/1935/3862.m3u8
+#EXTINF:0,MTV Classic
+http://localdblagent.club:8080/live/1935/1935/10884.m3u8
+#EXTINF:0,MTV LIVE
+http://localdblagent.club:8080/live/1935/1935/10885.m3u8
+#EXTINF:0,MTVU
+http://localdblagent.club:8080/live/1935/1935/10886.m3u8
+#EXTINF:0,My50 Chicago
+http://localdblagent.club:8080/live/1935/1935/1573.m3u8
+#EXTINF:0,My9 New York
+http://localdblagent.club:8080/live/1935/1935/1574.m3u8
+#EXTINF:0,National Geographic
+http://localdblagent.club:8080/live/1935/1935/1578.m3u8
+#EXTINF:0,National Geographic (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1575.m3u8
+#EXTINF:0,Nat Geo WILD
+http://localdblagent.club:8080/live/1935/1935/1577.m3u8
+#EXTINF:0,NBC 4 Los Angeles
+http://localdblagent.club:8080/live/1935/1935/1579.m3u8
+#EXTINF:0,NBC 4 New York
+http://localdblagent.club:8080/live/1935/1935/1580.m3u8
+#EXTINF:0,NBC 5 Chicago
+http://localdblagent.club:8080/live/1935/1935/1581.m3u8
+#EXTINF:0,NECN (New England Cable News)
+http://localdblagent.club:8080/live/1935/1935/1739.m3u8
+#EXTINF:0,News 12 Brooklyn
+http://localdblagent.club:8080/live/1935/1935/2602.m3u8
+#EXTINF:0,News 12 Long Island
+http://localdblagent.club:8080/live/1935/1935/2601.m3u8
+#EXTINF:0,News 12 New Jersey
+http://localdblagent.club:8080/live/1935/1935/2600.m3u8
+#EXTINF:0,NewsMax
+http://localdblagent.club:8080/live/1935/1935/13068.m3u8
+#EXTINF:0,Newsy
+http://localdblagent.club:8080/live/1935/1935/13368.m3u8
+#EXTINF:0,OAN One American News
+http://localdblagent.club:8080/live/1935/1935/3863.m3u8
+#EXTINF:0,Outdoor Channel
+http://localdblagent.club:8080/live/1935/1935/1582.m3u8
+#EXTINF:0,Outside TV
+http://localdblagent.club:8080/live/1935/1935/1583.m3u8
+#EXTINF:0,Ovation
+http://localdblagent.club:8080/live/1935/1935/1584.m3u8
+#EXTINF:0,OWN
+http://localdblagent.club:8080/live/1935/1935/1585.m3u8
+#EXTINF:0,Oxygen
+http://localdblagent.club:8080/live/1935/1935/1586.m3u8
+#EXTINF:0,Oxygen (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1587.m3u8
+#EXTINF:0,Paramount Network
+http://localdblagent.club:8080/live/1935/1935/2620.m3u8
+#EXTINF:0,People TV
+http://localdblagent.club:8080/live/1935/1935/13369.m3u8
+#EXTINF:0,Pixl
+http://localdblagent.club:8080/live/1935/1935/10891.m3u8
+#EXTINF:0,PIX 11
+http://localdblagent.club:8080/live/1935/1935/1588.m3u8
+#EXTINF:0,POP
+http://localdblagent.club:8080/live/1935/1935/1590.m3u8
+#EXTINF:0,Popstar TV
+http://localdblagent.club:8080/live/1935/1935/13370.m3u8
+#EXTINF:0,Pursuit channel
+http://localdblagent.club:8080/live/1935/1935/2593.m3u8
+#EXTINF:0,QVC
+http://localdblagent.club:8080/live/1935/1935/1591.m3u8
+#EXTINF:0,Red Bull TV
+http://localdblagent.club:8080/live/1935/1935/13371.m3u8
+#EXTINF:0,Revolt
+http://localdblagent.club:8080/live/1935/1935/2621.m3u8
+#EXTINF:0,RFD TV
+http://localdblagent.club:8080/live/1935/1935/2457.m3u8
+#EXTINF:0,Ride TV
+http://localdblagent.club:8080/live/1935/1935/2594.m3u8
+#EXTINF:0,Smithsonian Channel
+http://localdblagent.club:8080/live/1935/1935/1593.m3u8
+#EXTINF:0,Sony Movie Channel
+http://localdblagent.club:8080/live/1935/1935/1594.m3u8
+#EXTINF:0,Sportsman Channel
+http://localdblagent.club:8080/live/1935/1935/1595.m3u8
+#EXTINF:0,Start TV
+http://localdblagent.club:8080/live/1935/1935/1596.m3u8
+#EXTINF:0,Sundance
+http://localdblagent.club:8080/live/1935/1935/1597.m3u8
+#EXTINF:0,Syfy
+http://localdblagent.club:8080/live/1935/1935/1599.m3u8
+#EXTINF:0,SYFY (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1600.m3u8
+#EXTINF:0,Tastemade
+http://localdblagent.club:8080/live/1935/1935/2595.m3u8
+#EXTINF:0,TBN TV
+http://localdblagent.club:8080/live/1935/1935/13372.m3u8
+#EXTINF:0,TBS
+http://localdblagent.club:8080/live/1935/1935/1601.m3u8
+#EXTINF:0,TCM Turner Classic Movies
+http://localdblagent.club:8080/live/1935/1935/1612.m3u8
+#EXTINF:0,TMZ
+http://localdblagent.club:8080/live/1935/1935/13374.m3u8
+#EXTINF:0,The Film Detective
+http://localdblagent.club:8080/live/1935/1935/13373.m3u8
+#EXTINF:0,The Word Network
+http://localdblagent.club:8080/live/1935/1935/10878.m3u8
+#EXTINF:0,TLC
+http://localdblagent.club:8080/live/1935/1935/1604.m3u8
+#EXTINF:0,TLC West
+http://localdblagent.club:8080/live/1935/1935/10935.m3u8
+#EXTINF:0,TNT East
+http://localdblagent.club:8080/live/1935/1935/1607.m3u8
+#EXTINF:0,TNT (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1606.m3u8
+#EXTINF:0,Travel Channel
+http://localdblagent.club:8080/live/1935/1935/1608.m3u8
+#EXTINF:0,Travel Channel (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1609.m3u8
+#EXTINF:0,truTV
+http://localdblagent.club:8080/live/1935/1935/1610.m3u8
+#EXTINF:0,TRUTV (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1611.m3u8
+#EXTINF:0,TV Land
+http://localdblagent.club:8080/live/1935/1935/1613.m3u8
+#EXTINF:0,TV ONE
+http://localdblagent.club:8080/live/1935/1935/1614.m3u8
+#EXTINF:0,UFC Fight Network
+http://localdblagent.club:8080/live/1935/1935/1615.m3u8
+#EXTINF:0,UP TV
+http://localdblagent.club:8080/live/1935/1935/1616.m3u8
+#EXTINF:0,USA Network
+http://localdblagent.club:8080/live/1935/1935/1617.m3u8
+#EXTINF:0,USA Network (Pacific)
+http://localdblagent.club:8080/live/1935/1935/1618.m3u8
+#EXTINF:0,VH1 East
+http://localdblagent.club:8080/live/1935/1935/1620.m3u8
+#EXTINF:0,VH1 West
+http://localdblagent.club:8080/live/1935/1935/10936.m3u8
+#EXTINF:0,VICELAND
+http://localdblagent.club:8080/live/1935/1935/10937.m3u8
+#EXTINF:0,WE TV
+http://localdblagent.club:8080/live/1935/1935/1621.m3u8
+#EXTINF:0,The Weather Channel
+http://localdblagent.club:8080/live/1935/1935/1603.m3u8
+#EXTINF:0,WeatherNation
+http://localdblagent.club:8080/live/1935/1935/10892.m3u8
+#EXTINF:0,WGN AMERICA
+http://localdblagent.club:8080/live/1935/1935/10938.m3u8
+#EXTINF:0,WGN Chicago
+http://localdblagent.club:8080/live/1935/1935/1622.m3u8
+#EXTINF:0,World Fishing Network
+http://localdblagent.club:8080/live/1935/1935/1623.m3u8
+#EXTINF:0,Z Classic
+http://localdblagent.club:8080/live/1935/1935/13376.m3u8
 
 
 
