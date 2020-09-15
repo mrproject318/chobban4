@@ -25,7 +25,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/FJ9sZJy.png", Naura 
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/awani.png", Astro Awani
-http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10320.m3u8
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10320
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/bes.png", Saluran Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="Malaysia", Parlimen Malaysia
