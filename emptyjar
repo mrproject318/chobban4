@@ -345,7 +345,7 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", AMC
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN 1
-http://136.243.177.164/AXN/playlist.m3u8
+http://zalogitv.tech:25461/live/monyetkere/bukanpejabat/131.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN 2
 
 #EXTINF:-1 group-title="Movie Channel", B4U Kadak
