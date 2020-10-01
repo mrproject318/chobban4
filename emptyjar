@@ -2148,22 +2148,22 @@ http://astro1.rastream.com/amp-arena
 
 #EXTM3U
 
-#EXTINF:1, group-title="Mixed",UNTV
+#EXTINF:1,UNTV, group-title="Mixed"
 https://www.untvweb.com/live-stream/untvweb.m3u8
 
-#EXTINF:1, group-title="Mixed",ANC*
+#EXTINF:1,ANC*, group-title="Mixed"
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
 
-#EXTINF:1, group-title="Mixed",TVshop
+#EXTINF:1,TVshop, group-title="Mixed"
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
-#EXTINF:4, group-title="Mixed",PTV
+#EXTINF:4,PTV, group-title="Mixed"
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
-#EXTINF:5, group-title="Mixed",TV5
+#EXTINF:5,TV5, group-title="Mixed"
 http://103.11.112.28:1935/live3/smil:tv5.smil/chunklist_w297371497_b428000.m3u8
 
-#EXTINF:6, group-title="Mixed",One Sports
+#EXTINF:6,One Sports, group-title="Mixed"
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
 
 #EXTINF:7,BEAM TV group-title="Mixed"
