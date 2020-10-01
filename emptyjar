@@ -2151,10 +2151,10 @@ http://astro1.rastream.com/amp-arena
 #EXTINF:1, group-title="Mixed" , UNTV
 https://www.untvweb.com/live-stream/untvweb.m3u8
 
-#EXTINF:2,ANC*
+#EXTINF:1,ANC*
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
 
-#EXTINF:3,TVshop
+#EXTINF:1,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:4,PTV
