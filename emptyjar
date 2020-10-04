@@ -332,20 +332,18 @@ http://96.30.124.101:1935/psilive2a/AsianMovie.stream_360p/chunklist_w1575217654
 
 #EXTINF:-1 group-title="Movie Channel", &FlixHD (1)
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Movie Channel", &FlixHD (2)
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", &PriveHD
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", 24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", 2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 group-title="Movie Channel", American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", AMC
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN 1
-http://zalogitv.tech:25461/live/monyetkere/bukanpejabat/131.m3u8
+
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN 2
 
 #EXTINF:-1 group-title="Movie Channel", B4U Kadak
@@ -357,9 +355,9 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1 group-title="Movie Channel", Bioskop Indonesia
 
 #EXTINF:-1, group-title="Movie Channel", BlueAnt Entertainment
-http://34.101.225.209:8187/iptvfree/iptvfree/139
+
 #EXTINF:-1, group-title="Movie Channel", BlueAnt Extreme
-http://34.101.225.209:8187/iptvfree/iptvfree/136
+
 #EXTINF:-1 group-title="Movie Channel", Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1, group-title="Movie Channel", BTV World
@@ -367,7 +365,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 #EXTINF:-1 group-title="Movie Channel", CBC
 
 #EXTINF:-1 group-title="Movie Channel", CCM
-https://delivery.macan.tv/stream/ccm/playlist.m3u8?token=macangratisan
+
 #EXTINF:-1 group-title="Movie Channel", CCTV 6
 
 #EXTINF:-1 group-title="Movie Channel", Celestial Movies
@@ -375,7 +373,7 @@ https://delivery.macan.tv/stream/ccm/playlist.m3u8?token=macangratisan
 #EXTINF:-1 group-title="Movie Channel", Celestial Classic Movies
 
 #EXTINF:-1 group-title="Movie Channel", CHC
-http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", China Movies 1
 
 #EXTINF:-1 group-title="Movie Channel", China Movies 2
@@ -389,75 +387,65 @@ http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 #EXTINF:-1 group-title="Movie Channel", China Movies 6
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax (1)
-http://136.243.177.164/CINEMAX/playlist.m3u8  
+
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax (2)
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACgT7hQtBpukLw0OfCIgthNa/Cinemax.m3u8?dl=0
+
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax By HBO
-http://34.101.225.209:8187/iptvfree/iptvfree/386 
+
 #EXTINF:-1 group-title="Movie Channel", Cinema World
-http://210.210.155.66/h/h04/01.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Citra Bioskop
 
 #EXTINF:-1 group-title="Movie Channel", ConTV
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Colors HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", Colors Cineplex
-http://107.152.234.10:8080/indian/hindi-COLORSCINEPLEXHD/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Disney Channel
 
 #EXTINF:-1 group-title="Movie Channel", Diva
-http://103.135.208.14/live/ibox/bd/114.m3u8
-#EXTINF:-1 group-title="Movie Channel", Dove Channel
 
+#EXTINF:-1 group-title="Movie Channel", Distro Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
 #EXTINF:-1 group-title="Movie Channel", Dunia Cinema
-http://portal.geniptv.com:8080/live/12hmg20021522/HeBv1XyEQr/18595.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", FilmBox
 
 #EXTINF:-1 group-title="Movie Channel", Film4
-http://178.132.3.162:88/Film_4/video.m3u8?token=test
+
 #EXTINF:-1 group-title="Movie Channel", Flik
 
 #EXTINF:-1 group-title="Movie Channel", Flimax
-https://playlive.goonj.pk/filmaxweb_480p/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Flimrise Movie
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox (1)
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox (2)
-http://34.101.225.209:8187/iptvfree/iptvfree/114
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies 1
-https://delivery.macan.tv/stream/id_foxactionmovies/playlist.m3u8?token=g4xyZ&v=20200807
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies 2
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8  
+
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox 
+
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies
+
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
-http://34.101.225.209:8187/iptvfree/iptvfree/122  
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies 1
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1000000.m3u8 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies 2
-http://34.101.225.209:8187/iptvfree/iptvfree/110
+
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 group-title="Movie Channel", Fox Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_movies_premium.png", Fox Movies Premium
-https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FX
-https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8 
+
 #EXTINF:-1, group-title="Movie Channel", Galaxy Premium
 
 #EXTINF:-1, group-title="Movie Channel", Gemini Movies
 
 #EXTINF:-1, group-title="Movie Channel", Gravitas
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO (1)
-https://watchindia.net:8443/live/30851/43306/2081.ts
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO (2)
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAAZUolL9kiSgoVhlwQ21zY2a/HBO.m3u8?dl=0
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO (3)
-http://34.101.225.209:8187/iptvfree/iptvfree/391
+
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO 
+
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Hits
-http://34.101.225.209:8187/iptvfree/iptvfree/386 
+
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Zone
@@ -469,40 +457,40 @@ http://34.101.225.209:8187/iptvfree/iptvfree/386
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/HousefullMoviesLogo.jpg",Housefull Movies
 
 #EXTINF:-1 group-title="Movie Channel", ifilm
-http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Jalsha Movies
 
 #EXTINF:-1 group-title="Movie Channel", Jaya Max
 
 #EXTINF:-1 group-title="Movie Channel", K+ 1
-http://210.210.155.35/uq2663/h/h08/index2.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", K+ 2
-http://34.101.225.209:8187/iptvfree/iptvfree/389 
+
 #EXTINF:-1 group-title="Movie Channel", Kix
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Lotus Macau
-http://103.135.208.14/live/ibox/bd/69.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", Maha Movie
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Makkal
-https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Manorajan TV
-http://103.135.208.14/live/ibox/bd/12.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", MBC 1 HD
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", MBC 3 HD
-https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", MBC 4 HD
-https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", MBC 5 HD
-https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8 
+
 
 #EXTINF:-1 group-title="Movie Channel", MBC Action
 
 #EXTINF:-1 grouphttps://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8-title="Movie Channel", MGM Sci-Fi
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", MNX
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 group-title="Movie Channel", MN+
@@ -515,22 +503,22 @@ https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", New Tv Super Movie
 
-#EXTINF:-1 group-title="Movie Channel", Ox Film
-http://51.158.103.244/hls/stream.m3u8
+#EXTINF:-1 group-title="Movie Channel", Phoenix Movies
+https://www.fanmingming.cn/hls/fhdy.m3u8
 #EXTINF:-1 group-title="Movie Channel", Popcorn Flix Action Movies
-https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Pop
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Rai Premium
-http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_1800_av-p.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Raj Digital TV
 
 #EXTINF:-1 group-title="Movie Channel", Raj TV
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/red_hbo.png", Red By HBO
-http://fdtvapps.xyz/channel/red.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Reel PX Comedy
 
 #EXTINF:-1 group-title="Movie Channel", Reel PX Family
@@ -538,9 +526,9 @@ http://fdtvapps.xyz/channel/red.m3u8
 #EXTINF:-1 group-title="Movie Channel", Reel PX Vintage
 
 #EXTINF:-1 group-title="Movie Channel", Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8  
 #EXTINF:-1 group-title="Movie Channel", Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/sinema_indonesia.png", Sinema Indonesia
 
 #EXTINF:-1 group-title="Movie Channel", Sky Cinema Action
@@ -556,11 +544,11 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 #EXTINF:-1 group-title="Movie Channel", Sky Movies Premiere
 
 #EXTINF:-1 group-title="Movie Channel", Sony
-http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Sony One HD
-http://210.210.155.66/h/h143/02.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Sony Max
-http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", Sony Movies
 
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Action
@@ -570,12 +558,11 @@ http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony Pix
 
 #EXTINF:-1 group-title="Movie Channel", Sony SAB HD
-http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", Star HD
-http://80.78.65.170:8383/StarHD
+
 #EXTINF:-1 group-title="Movie Channel", Star Gold HD
-http://103.135.208.14/live/ibox/bd/40.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Star Movies HD
 
 #EXTINF:-1 group-title="Movie Channel", Star Movies Select
@@ -591,22 +578,21 @@ http://103.135.208.14/live/ibox/bd/40.m3u8
 #EXTINF:-1 group-title="Movie Channel", TCM
 
 #EXTINF:-1 group-title="Movie Channel", Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", The Film Detective
-https://distro.akamaized.net/indexfd_1280x720.m3u8
+
 #EXTINF:-1 group-title="Movie Channel"tvg-logo="https://macan.live/img/thrill.png", Thrill
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/index2.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Tollywood India
-http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", TNT
-http://live.highstream.club/live/TNT/playlist.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", TvN Movies
-http://tvku.live:8888/live/Nayra/160190/927.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", UTV Movies
 
-
 #EXTINF:-1 group-title="Movie Channel", Warner TV
-http://tvku.live:8888/Nayra/160190/1533
+
 #EXTINF:-1 group-title="Movie Channel", Wow Cinema
 
 #EXTINF:-1 group-title="Movie Channel", Zee TV
@@ -616,15 +602,17 @@ http://tvku.live:8888/Nayra/160190/1533
 #EXTINF:-1 group-title="Movie Channel", Zee Action HD
 	
 #EXTINF:-1 group-title="Movie Channel", Zee Bollywood HD
-http://103.135.208.14/live/ibox/bd/48.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Zee Cafe
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Cinema HD
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", Zee Classic
-https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8 
+
 #EXTINF:-1 group-title="Movie Channel", ZQ Drama
-http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+
+
+
 
 
 #EXTINF:-1 group-title="News", ABC News Australia
