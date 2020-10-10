@@ -407,7 +407,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 #EXTINF:-1 group-title="Movie Channel", Diva
 
 #EXTINF:-1 group-title="Movie Channel", Distro Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Dunia Cinema
 
 #EXTINF:-1 group-title="Movie Channel", FilmBox
@@ -427,9 +427,9 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8 
+ 
 #EXTINF:-1 group-title="Movie Channel", Fox Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8 
+ 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_movies_premium.png", Fox Movies Premium
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FX
@@ -499,8 +499,8 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 	
 #EXTINF:-1 group-title="Movie Channel", Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
-#EXTINF:-1 group-title="Movie Channel", Movie Plus
-
+#EXTINF:-1 group-title="Movie Channel", MovieMix
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", New Tv Super Movie
 
 #EXTINF:-1 group-title="Movie Channel", Phoenix Movies
@@ -527,8 +527,8 @@ https://www.fanmingming.cn/hls/fhdy.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8  
-#EXTINF:-1 group-title="Movie Channel", Screamfest
-
+#EXTINF:-1 group-title="Movie Channel", Runtime
+https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/sinema_indonesia.png", Sinema Indonesia
 
 #EXTINF:-1 group-title="Movie Channel", Sky Cinema Action
