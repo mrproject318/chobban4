@@ -6878,15 +6878,15 @@ https://www.googleapis.com/drive/v3/files/1130zWl2kPSacGNfAZ5nzjpyCi8gxTbOm?alt=
 http://srv29.nf21.net/files/15-2019-10-09-5800651e161619b8165734c584181e76.mp4
 
 
+#EXTM3U group-title="NEWAY"
 
-
-#EXTINF:-1,Astro AEC HD group-title="NEWAY"
+#EXTINF:-1,Astro AEC HD
 http://tvku.live:8888/donal/donal/4257
-#EXTINF:-1,MY AFC HD group-title="NEWAY"
+#EXTINF:-1,MY AFC HD
 http://tvku.live:8888/donal/donal/4258
-#EXTINF:-1,MY Animal Planet HD group-title="NEWAY"
+#EXTINF:-1,MY Animal Planet HD
 http://tvku.live:8888/donal/donal/4259
-#EXTINF:-1,MY Aniplus HD group-title="NEWAY"
+#EXTINF:-1,MY Aniplus HD
 http://tvku.live:8888/donal/donal/4260
 #EXTINF:-1,Astro AOD 350
 http://tvku.live:8888/donal/donal/4261
@@ -7258,6 +7258,6 @@ http://tvku.live:8888/donal/donal/728
 http://tvku.live:8888/donal/donal/29594
 #EXTINF:-1,Zhejiang International
 http://tvku.live:8888/donal/donal/29595
-#EXTINF:-1,Shenzhen International group-title="NEWAY"
+#EXTINF:-1,Shenzhen International
 http://tvku.live:8888/donal/donal/29596
 
