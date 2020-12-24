@@ -93,7 +93,7 @@ http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 #EXTINF:-1, group-title="Indonesia", ArekTV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8 
 #EXTINF:-1, group-title="Indonesia", Berita Satu World
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1, group-title="Indonesia", Bioskop Indonesia
 
 #EXTINF:-1, group-title="Indonesia", Citra Drama
@@ -333,7 +333,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", &FlixHD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", &PriveHD
-
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8 
 #EXTINF:-1 group-title="Movie Channel", 24/7 Retro TV
 
 #EXTINF:-1 group-title="Movie Channel", 2M Monde
@@ -343,7 +343,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", AMC
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN 
-http://210.210.155.66/h/h141/01.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", B4U Kadak
 
 #EXTINF:-1 group-title="Movie Channel", B4U Movies
@@ -437,13 +437,13 @@ http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1, group-title="Movie Channel", Gemini Movies
 
 #EXTINF:-1, group-title="Movie Channel", Gem
-http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO 
-http://156.146.43.241:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO HD
+http://45.182.127.235:8000/play/a0b6
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Hits
-http://210.210.155.66/h/h37/01.m3u8
+
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Zone
@@ -461,10 +461,9 @@ http://210.210.155.66/h/h37/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", Jaya Max
 
 #EXTINF:-1 group-title="Movie Channel", K+ 1
-http://210.210.155.66/h/h08/01.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", Kix
-http://210.210.155.66/h/h07/01.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Lotus Macau
 
 #EXTINF:-1 group-title="Movie Channel", Maha Movie
@@ -543,7 +542,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony
 
 #EXTINF:-1 group-title="Movie Channel", Sony One HD
-http://210.210.155.66/h/h143/01.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Sony Max
 
 #EXTINF:-1 group-title="Movie Channel", Sony Movies
@@ -553,7 +552,7 @@ http://210.210.155.66/h/h143/01.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Classic
 
 #EXTINF:-1 group-title="Movie Channel", Sony Pix
-http://156.146.43.241:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1 group-title="Movie Channel", Sony SAB HD
 
 #EXTINF:-1 group-title="Movie Channel", Star HD
@@ -563,11 +562,11 @@ http://156.146.43.241:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token
 #EXTINF:-1 group-title="Movie Channel", Star Movies HD
 
 #EXTINF:-1 group-title="Movie Channel", Star Movies Select
-http://89.187.169.204:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
+
 #EXTINF:-1 group-title="Movie Channel", Star Plus HD
 
 #EXTINF:-1 group-title="Movie Channel", Star World
-http://156.146.43.241:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1 group-title="Movie Channel", Starz
 
 #EXTINF:-1 group-title="Movie Channel", Syfy
@@ -589,7 +588,7 @@ http://156.146.43.241:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/tracks-v1a1/mono.m3u8?t
 #EXTINF:-1 group-title="Movie Channel", UTV Movies
 
 #EXTINF:-1 group-title="Movie Channel", Warner TV
-http://156.146.43.241:2200/R-EX/HINDI_WARNER_BROS-in/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1 group-title="Movie Channel", Wow Cinema
 
 #EXTINF:-1 group-title="Movie Channel", Zee TV
@@ -601,7 +600,7 @@ http://156.146.43.241:2200/R-EX/HINDI_WARNER_BROS-in/tracks-v1a1/mono.m3u8?token
 #EXTINF:-1 group-title="Movie Channel", Zee Bollywood HD
 
 #EXTINF:-1 group-title="Movie Channel", Zee Cafe
-
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Cinema HD
 
 #EXTINF:-1 group-title="Movie Channel", Zee Classic
@@ -698,7 +697,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1 group-title="Knowledge & Infotainment", Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/afc.png", AFC
-
+http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", AKC
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Al Jazeera Documentary
@@ -766,7 +765,7 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoverychannel.png", Discovery Channel
 http://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8 
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoveryasia.png", Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel Brazil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery History
@@ -949,6 +948,116 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 http://live-ng-01.more.tv/hls/Viasat_History_HD/index_1.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Warner TV
 
+#EXTINF:-1 group-title="Knowledge & Infotainment", WWE
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Z Living USA
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="HBO.ca" tvg-name="**HBO 1 CANADA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="HBO // LIVE MOVIES",**HBO 1 CANADA HD
+http://qqtv.nl:8080/malissa/malissa/21084
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="**HBO 2 CANADA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo2_lam.png" group-title="HBO // LIVE MOVIES",**HBO 2 CANADA HD
+http://qqtv.nl:8080/malissa/malissa/5002
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="**HBO ZONE WEST HD US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png" group-title="HBO // LIVE MOVIES",**HBO ZONE WEST HD US
+http://qqtv.nl:8080/malissa/malissa/275730
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="**HBO 2 US HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo2_lam.png" group-title="HBO // LIVE MOVIES",**HBO 2 US HD
+http://qqtv.nl:8080/malissa/malissa/20904
+#EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="**HBO EAST USA" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="HBO // LIVE MOVIES",**HBO EAST USA
+http://qqtv.nl:8080/malissa/malissa/148633
+#EXTINF:-1 tvg-id="" tvg-name="**HBO WEST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="HBO // LIVE MOVIES",**HBO WEST HD
+http://qqtv.nl:8080/malissa/malissa/148634
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="**HBO FAMILY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_family_asia.png" group-title="HBO // LIVE MOVIES",**HBO FAMILY HD
+http://qqtv.nl:8080/malissa/malissa/7855
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="**HBO COMEDY US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_comedy_east.png" group-title="HBO // LIVE MOVIES",**HBO COMEDY US
+http://qqtv.nl:8080/malissa/malissa/7885
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="**HBO ZONE EAST HD US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png" group-title="HBO // LIVE MOVIES",**HBO ZONE EAST HD US
+http://qqtv.nl:8080/malissa/malissa/7883 
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="**HBO SIGNATURE US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_signature_br.png" group-title="HBO // LIVE MOVIES",**HBO SIGNATURE US
+http://qqtv.nl:8080/malissa/malissa/7854
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="**STARZ EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_east.png" group-title="HBO // LIVE MOVIES",**STARZ EAST HD
+http://qqtv.nl:8080/malissa/malissa/20888
+#EXTINF:-1 tvg-id="StarzWest.us" tvg-name="**STARZ WEST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_east.png" group-title="HBO // LIVE MOVIES",**STARZ WEST HD
+http://qqtv.nl:8080/malissa/malissa/20872
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="**STARZ EDGE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_edge_east.png" group-title="HBO // LIVE MOVIES",**STARZ EDGE HD
+http://qqtv.nl:8080/malissa/malissa/15442
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="**STARZ in BLACK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_black_east.png" group-title="HBO // LIVE MOVIES",**STARZ in BLACK HD
+http://qqtv.nl:8080/malissa/malissa/20893
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="**STARZ CINEMA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_cinema_east.png" group-title="HBO // LIVE MOVIES",**STARZ CINEMA HD
+http://qqtv.nl:8080/malissa/malissa/7876
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="**STARZ COMEDY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_comedy_east.png" group-title="HBO // LIVE MOVIES",**STARZ COMEDY HD
+http://qqtv.nl:8080/malissa/malissa/20889
+#EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="**STARZ KIDS & FAMILY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_kids_family_east.png" group-title="HBO // LIVE MOVIES",**STARZ KIDS & FAMILY HD
+http://qqtv.nl:8080/malissa/malissa/20873
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="**STARZ ENCORE HD" tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/images/promo/promo_xtra_premiums.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE HD
+http://qqtv.nl:8080/malissa/malissa/20892
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="**STARZ BLACK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_in_black_east.png" group-title="HBO // LIVE MOVIES",**STARZ BLACK HD
+http://qqtv.nl:8080/malissa/malissa/20870
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="**STARZ ENCORE ACTION HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_action_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE ACTION HD
+http://qqtv.nl:8080/malissa/malissa/150516
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="**STARZ ENCORE FAMILY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_family_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE FAMILY HD
+http://qqtv.nl:8080/malissa/malissa/20890
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="**STARZ ENCORE SUSPENSE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_suspense_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE SUSPENSE HD
+http://qqtv.nl:8080/malissa/malissa/20900
+#EXTINF:-1 tvg-id="StarzEncoreClassics.us" tvg-name="**STARZ ENCORE CLASSIC HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_classic_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE CLASSIC HD
+http://qqtv.nl:8080/malissa/malissa/20887
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="**STARZ ENCORE WESTERNS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_westerns_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE WESTERNS HD
+http://qqtv.nl:8080/malissa/malissa/20886
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="**CINEMAX MOREMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/more_max_west.png" group-title="HBO // LIVE MOVIES",**CINEMAX MOREMAX HD
+http://qqtv.nl:8080/malissa/malissa/20907
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="**CINEMAX EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/cinemax_east.png" group-title="HBO // LIVE MOVIES",**CINEMAX EAST HD
+http://qqtv.nl:8080/malissa/malissa/20906
+#EXTINF:-1 tvg-id="OuterMax.us" tvg-name="**CINEMAX OUTERMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/outer_max_us.png" group-title="HBO // LIVE MOVIES",**CINEMAX OUTERMAX HD
+http://qqtv.nl:8080/malissa/malissa/20905
+#EXTINF:-1 tvg-id="MOVIEplex.us" tvg-name="**CINEMAX MOVIEMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/movie_max_us.png" group-title="HBO // LIVE MOVIES",**CINEMAX MOVIEMAX HD
+http://qqtv.nl:8080/malissa/malissa/20897
+#EXTINF:-1 tvg-id="5StarMax.us" tvg-name="**CINEMAX 5 STARMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/5_star_max_us.png" group-title="HBO // LIVE MOVIES",**CINEMAX 5 STARMAX HD
+http://qqtv.nl:8080/malissa/malissa/7892
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="**CINEMAX ACTIONMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/action_max_west.png" group-title="HBO // LIVE MOVIES",**CINEMAX ACTIONMAX HD
+http://qqtv.nl:8080/malissa/malissa/20898
+#EXTINF:-1 tvg-id="INDIEplex.us" tvg-name="**INDIEPLEX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_indieplex.png" group-title="HBO // LIVE MOVIES",**INDIEPLEX HD
+http://qqtv.nl:8080/malissa/malissa/67141
+#EXTINF:-1 tvg-id="MOVIEplex.us" tvg-name="**MOVIEPLEX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_movieplex.png" group-title="HBO // LIVE MOVIES",**MOVIEPLEX HD
+http://qqtv.nl:8080/malissa/malissa/30427
+#EXTINF:-1 tvg-id="RETROplex.us" tvg-name="**RETRO PLEX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_retroplex.png" group-title="HBO // LIVE MOVIES",**RETRO PLEX HD
+http://qqtv.nl:8080/malissa/malissa/20899
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="**CRAVE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="HBO // LIVE MOVIES",**CRAVE 1
+http://qqtv.nl:8080/malissa/malissa/21036
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="**CRAVE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/The_Movie_Network_Logo.svg/120px-The_Movie_Network_Logo.svg.png" group-title="HBO // LIVE MOVIES",**CRAVE 2
+http://qqtv.nl:8080/malissa/malissa/21035
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="**CRAVE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="HBO // LIVE MOVIES",**CRAVE 3
+http://qqtv.nl:8080/malissa/malissa/21034
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="**CRAVE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="HBO // LIVE MOVIES",**CRAVE 4
+http://qqtv.nl:8080/malissa/malissa/21033
+#EXTINF:-1 tvg-id="SuperEcran.ca" tvg-name="**SUPER ECRAN 1" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran1.png" group-title="HBO // LIVE MOVIES",**SUPER ECRAN 1
+http://qqtv.nl:8080/malissa/malissa/4970
+#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="**SUPER ECRAN 2" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran2.png" group-title="HBO // LIVE MOVIES",**SUPER ECRAN 2
+http://qqtv.nl:8080/malissa/malissa/4969
+#EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="**SUPER ECRAN 3" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran3.png" group-title="HBO // LIVE MOVIES",**SUPER ECRAN 3
+http://qqtv.nl:8080/malissa/malissa/21044
+#EXTINF:-1 tvg-id="SuperEcran4.ca" tvg-name="**SUPER ECRAN 4" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran4.png" group-title="HBO // LIVE MOVIES",**SUPER ECRAN 4
+http://qqtv.nl:8080/malissa/malissa/21043
+#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="**CANADA SHOWCASE" tvg-logo="http://glmtv.pw/logo/prestige/Canada/showcase_ca.png" group-title="HBO // LIVE MOVIES",**CANADA SHOWCASE
+http://qqtv.nl:8080/malissa/malissa/94402
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="**SHOWTIME HD" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime.png" group-title="HBO // LIVE MOVIES",**SHOWTIME HD
+http://qqtv.nl:8080/malissa/malissa/67138
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="**SHOWTIME 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/250px-Showtime.svg.png" group-title="HBO // LIVE MOVIES",**SHOWTIME 2 HD
+http://qqtv.nl:8080/malissa/malissa/20894
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="**SHOWTIME NEXT HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/showtime_next_east.png" group-title="HBO // LIVE MOVIES",**SHOWTIME NEXT HD
+http://qqtv.nl:8080/malissa/malissa/393657
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="**SHOWTIME WEST HD" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime.png" group-title="HBO // LIVE MOVIES",**SHOWTIME WEST HD
+http://qqtv.nl:8080/malissa/malissa/67140
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="**SHOWTIME EXTREME HD" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime.png" group-title="HBO // LIVE MOVIES",**SHOWTIME EXTREME HD
+http://qqtv.nl:8080/malissa/malissa/67139
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="**SHOWTIME SHOWCASE HD" tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/images/promo/promo_xtra_premiums.png" group-title="HBO // LIVE MOVIES",**SHOWTIME SHOWCASE HD
+http://qqtv.nl:8080/malissa/malissa/20874
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="**SONY MOVIE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/sony-movies-us-uk.png" group-title="HBO // LIVE MOVIES",**SONY MOVIE HD
+http://qqtv.nl:8080/malissa/malissa/20896
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="**LIFETIME MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/200px-Lifetime_logo17.svg.png" group-title="HBO // LIVE MOVIES",**LIFETIME MOVIES HD
+http://qqtv.nl:8080/malissa/malissa/21074
 
