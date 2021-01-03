@@ -868,7 +868,7 @@ https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nasa TV
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic
-http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
+http:
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People (1)
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild
