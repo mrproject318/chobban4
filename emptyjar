@@ -345,7 +345,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", B4U Movies
 
 #EXTINF:-1, group-title="Movie Channel", BFlix Movies
-
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Bioskop Indonesia
 
 #EXTINF:-1, group-title="Movie Channel", BlueAnt Entertainment
@@ -378,8 +378,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", China Movies 5
 
-#EXTINF:-1 group-title="Movie Channel", China Movies 6
-
+#EXTINF:-1 group-title="Movie Channel", Colours Infinity
+https://load.airtelxstream.in/colorsinfinity/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax (1)
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax (2)
@@ -469,6 +469,7 @@ http://45.182.127.235:8000/play/a0b6
 #EXTINF:-1 group-title="Movie Channel", Manorajan TV
 
 #EXTINF:-1 group-title="Movie Channel", MBC 1 HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", MBC 2 HD
 
@@ -548,7 +549,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Classic
 
 #EXTINF:-1 group-title="Movie Channel", Sony Pix
-
+http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony SAB HD
 
 #EXTINF:-1 group-title="Movie Channel", Star HD
@@ -596,7 +597,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Bollywood HD
 
 #EXTINF:-1 group-title="Movie Channel", Zee Cafe
-https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Zee Cinema HD
 
 #EXTINF:-1 group-title="Movie Channel", Zee Classic
