@@ -412,7 +412,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Flik
 
 #EXTINF:-1 group-title="Movie Channel", Flimax
-http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
+
 #EXTINF:-1 group-title="Movie Channel", Flim World
 
 
@@ -462,7 +462,7 @@ https://live1.presstv.com/live/ifilmen.m3u8
 #EXTINF:-1 group-title="Movie Channel", K+ 1
 
 #EXTINF:-1 group-title="Movie Channel", Kix
-
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8  
 #EXTINF:-1 group-title="Movie Channel", Lotus Macau
 
 #EXTINF:-1 group-title="Movie Channel", Maha Movie
@@ -695,19 +695,19 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1 group-title="Knowledge & Infotainment", 5 Minutes Craft
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Adult Swim
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/afc.png", AFC
-http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", AKC
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Al Jazeera Documentary
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", American Classic Network
-https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", America's Funniest Videos
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/animalplanet.png", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png", Animal Planet Hindi
@@ -720,24 +720,22 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Beach TV
 
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth (1)
-https://m3u-editor.com/serve/amarnettv/116861213
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth (2)
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth 
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", BBC Lifestyle
  
 #EXTINF:-1 group-title="Knowledge & Infotainment", Best Of WWE
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Blaze TV
-https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/blue_ant_entertainment.png", Blue Ant Entertainment
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/blue_ant_extreme.png", Blue Ant Extreme
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8 
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Buzzr TV
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", CCTV 4K
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", CCTV9
@@ -745,15 +743,15 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Cheddar
-https://live.chdrstatic.com/cheddar/primary/5.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/crime_investigation.png", Crime Investigation 
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Citizen Television
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Classic Arts
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", CMC
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8 
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Court TV
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Create & Craft
@@ -769,9 +767,9 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel Brazil
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery History
-http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
+
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/si/DiscoveryScience.si.png", Discovery Science
-http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Turbo
 
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png", Discovery Channel India
@@ -779,31 +777,31 @@ http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Docubox
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/index.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Duronto TV
-https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8  
+ 
 #EXTINF:-1 group-title="Knowledge & Infotainment", E!
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Entertainment Now
-https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Express Entertainment
-http://playlive.goonj.pk/expressentweb_480p/index.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fashion TV
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8 
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Filmax
-http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", FilmBox Arthouse
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", FilmBox Plus
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fitness TV
-https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Forensic Files
-https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life 1
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life 2
@@ -819,43 +817,42 @@ https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", History
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18 (1)
- 
-#EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18 (2)
+
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", History 2
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", History Lab
-http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w16597501200.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Hum Masala
-http://103.135.208.14/live/ibox/bd/49.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png", Investigation Discovery
-http://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8 
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Info Wars TV
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Japanet
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on 
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Law & Crime 
-https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/lifetime.png", Lifetime
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", LivingFoodz
-http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Love Nature
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Love World USA
-http://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_4728_av-p.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Macau Lotus
-https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8   
+ 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Made In Hollywood TV
-https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", MBC Action
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", MTV
@@ -869,35 +866,33 @@ https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nasa TV
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic
-http:
-#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People (1)
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild (2)
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", NewsMax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Ocean TV
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor Channel
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor America
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Parliament TV New Zealand
-lihttp://i.mjh.nz/nz/tv.18.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", QVC Extra
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", RadioM20
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Real People
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Retro Music TV
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8 
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", RT Documentary
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", Safe TV
@@ -915,21 +910,21 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 #EXTINF:-1 group-title="Knowledge & Infotainment", Sony TV
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Star World
-http://103.135.208.14/live/ibox/bd/66.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Steelbird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", The Action Channel
-https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", The Asylum TV
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", The Xcorps TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", This Is Bulgaria
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/tlc.png", TLC
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Tourism Travel
@@ -939,17 +934,17 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", TvN
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Tv Edukasi
-http://118.98.221.131:80/live/tvedukasi.smil/chunklist_b980000.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", UN TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 #EXTINF:-1 group-title="Knowledge & Infotainment", US House Channel
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Viasat History
-http://live-ng-01.more.tv/hls/Viasat_History_HD/index_1.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Warner TV
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", WWE
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
+
 #EXTINF:-1 group-title="Knowledge & Infotainment", Z Living USA
 
 
@@ -962,478 +957,1353 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1, group-title="Sukan", Astro Supersport
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOsingapur
-http://fdtvapps.xyz/channel/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOf
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOFams
-https://kusnadipepenk.github.io/campeign/hbofam.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOsign
-https://kusnadipepenk.github.io/campeign/hbosi.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOhits
-https://kusnadipepenk.github.io/campeign/hbihit.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",reds
-https://kusnadipepenk.github.io/campeign/hbored.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Cinemas
-https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",================================
-https://google.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOtes
-http://me.zichannels.my.id/ch/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMILYtes
-http://me.zichannels.my.id/ch/family.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",MAXtes
-http://me.zichannels.my.id/ch/max.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Hitstes
-http://me.zichannels.my.id/ch/hits.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",SIGNaturetes
-http://me.zichannels.my.id/ch/sighd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",REDtes
-http://me.zichannels.my.id/ch/red.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMtest
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMILY
-http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=11&c=2&d=FAMILY
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBO
-http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=HBO
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HIts
-http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=HBO
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Cinema
-http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=MAX
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Red
-http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=RED
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",SIgNature
-http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=SIG
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Horee HipHIp
-http://185.238.0.145:1313/c/ku/see/i.php?a=hiphip-horee&b=geo_7052&c=480p
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Horeee
-http://185.238.0.145:1313/c/ku/see/i.php?a=horee&b=geo_6397&c=480p
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",ZOOMMOO
-http://185.238.0.145:1313/c/ku/see/i.php?a=zoomoo&b=geo_6533&c=480p
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",CitraBioskop
-http://185.238.0.145:1313/c/ku/see/i.php?a=citrabioskop&b=geo_6684&c=480p
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",SMITHSONIAN CH
-http://185.238.0.145:1313/c/ku/see/i.php?a=smithsonian&b=geo_6550&c=480p
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",LOVE NATURE
-http://185.238.0.145:1313/c/ku/see/i.php?a=love-nature&b=geo_6635&c=480p
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Champion3
-http://185.238.0.145:1313/c/ku/see/i.php?a=championtv3&b=geo_6786&c=480p
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Drakor
-http://wz.insantv.net/monitor/ch105.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",SinemaIndonesiaX
-http://wz.insantv.net/monitor/ch106.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DrakorPlus
-http://wz.insantv.net/monitor/ch107.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",RRINet
-http://wz.insantv.net/monitor/ch110.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",TVP
-http://wz.insantv.net/monitor/ch111.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",KTV
-http://wz.insantv.net/monitor/ch112.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Kplus
-http://185.238.0.145:1313/c/a/k+-sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",KompasTV
-http://wz.insantv.net/monitor/ch113.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",CintabollY
-http://wz.insantv.net/monitor/ch114.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",TVIn
-http://wz.insantv.net/monitor/ch115.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",NTV
-http://wz.insantv.net/monitor/ch116.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FTV
-http://wz.insantv.net/monitor/ch120.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",LapakMusik
-http://wz.insantv.net/monitor/ch122.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",MyTV
-http://wz.insantv.net/monitor/ch123.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",M Channel
-http://wz.insantv.net/monitor/ch137.m3u8
+http://iptvmedia.live:8080/test-c86a9a/df1f/4625
+#EXTINF:-1,UK: 5 Select HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4631
+#EXTINF:-1,UK: 5 Spike HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4635
+#EXTINF:-1,UK: 5 STAR +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/165908
+#EXTINF:-1,UK: 5 STAR HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4633
+#EXTINF:-1,UK: 5 USA +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/165903
+#EXTINF:-1,UK: 5 USA HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1579
+#EXTINF:-1,UK: 3E HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11683
+#EXTINF:-1,UK: 3E Ireland
+http://iptvmedia.live:8080/test-c86a9a/df1f/246502
+#EXTINF:-1,UK: 4Music HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4749
+#EXTINF:-1,UK 4Music HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/37252
+#EXTINF:-1,UK: 5a
+http://iptvmedia.live:8080/test-c86a9a/df1f/56969
+#EXTINF:-1,UK: ABC News
+http://iptvmedia.live:8080/test-c86a9a/df1f/28004
+#EXTINF:-1,UK: ABP News HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/17122
+#EXTINF:-1,UK: Afro Music Channel
+http://iptvmedia.live:8080/test-c86a9a/df1f/165937
+#EXTINF:-1,UK Afro Music Channel
+http://iptvmedia.live:8080/test-c86a9a/df1f/221478
+#EXTINF:-1,UK: Ahlebait TV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/267719
+#EXTINF:-1,UK: Ahlulbayt TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/166005
+#EXTINF:-1,UK: Akaal Channel
+http://iptvmedia.live:8080/test-c86a9a/df1f/173151
+#EXTINF:-1,UK: Al Jazeera HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/24077
+#EXTINF:-1,UK: Alibi FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1131
+#EXTINF:-1,UK: Aljazeera News HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/158466
+#EXTINF:-1,UK: AMC HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4669
+#EXTINF:-1,UK: ANIMAL PLANET FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1130
+#EXTINF:-1,UK ANIMAL PLANET FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220108
+#EXTINF:-1,UK: Aplus TV Europe
+http://iptvmedia.live:8080/test-c86a9a/df1f/199251
+#EXTINF:-1,UK: Arise News
+http://iptvmedia.live:8080/test-c86a9a/df1f/146108
+#EXTINF:-1,UK: Ary News
+http://iptvmedia.live:8080/test-c86a9a/df1f/48815
+#EXTINF:-1,UK: At The Races FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/731
+#EXTINF:-1,UK: ATLANTIC HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/158463
+#EXTINF:-1,UK: Baby Nursery Rhymes
+http://iptvmedia.live:8080/test-c86a9a/df1f/29764
+#EXTINF:-1,UK: BABY TV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1129
+#EXTINF:-1,UK BABY TV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/50905
+#EXTINF:-1,UK: BBC 1 (SCOTLAND)
+http://iptvmedia.live:8080/test-c86a9a/df1f/11661
+#EXTINF:-1,UK: BBC 1 Cambridge
+http://iptvmedia.live:8080/test-c86a9a/df1f/157270
+#EXTINF:-1,UK: BBC 1 Channel Islands
+http://iptvmedia.live:8080/test-c86a9a/df1f/35003
+#EXTINF:-1,UK: BBC 1 East
+http://iptvmedia.live:8080/test-c86a9a/df1f/157268
+#EXTINF:-1,UK: BBC 1 East Midlands
+http://iptvmedia.live:8080/test-c86a9a/df1f/197210
+#EXTINF:-1,UK: BBC 1 East Yorkshire
+http://iptvmedia.live:8080/test-c86a9a/df1f/197211
+#EXTINF:-1,UK: BBC 1 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/697
+#EXTINF:-1,UK: BBC 1 London
+http://iptvmedia.live:8080/test-c86a9a/df1f/166647
+#EXTINF:-1,UK: BBC 1 North East
+http://iptvmedia.live:8080/test-c86a9a/df1f/157267
+#EXTINF:-1,UK: BBC 1 North West
+http://iptvmedia.live:8080/test-c86a9a/df1f/157261
+#EXTINF:-1,UK: BBC 1 NORTHERN IRELAND
+http://iptvmedia.live:8080/test-c86a9a/df1f/48579
+#EXTINF:-1,UK: BBC 1 Oxford
+http://iptvmedia.live:8080/test-c86a9a/df1f/35000
+#EXTINF:-1,UK: BBC 1 SCOTTLAND HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/202089
+#EXTINF:-1,UK: BBC 1 South
+http://iptvmedia.live:8080/test-c86a9a/df1f/157266
+#EXTINF:-1,UK: BBC 1 South East
+http://iptvmedia.live:8080/test-c86a9a/df1f/157265
+#EXTINF:-1,UK: BBC 1 South West
+http://iptvmedia.live:8080/test-c86a9a/df1f/157263
+#EXTINF:-1,UK: BBC 1 Wales HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/65018
+#EXTINF:-1,UK: BBC 1 West
+http://iptvmedia.live:8080/test-c86a9a/df1f/147348
+#EXTINF:-1,UK: BBC 1 Yorks
+http://iptvmedia.live:8080/test-c86a9a/df1f/63137
+#EXTINF:-1,UK: BBC 2 (Wales)
+http://iptvmedia.live:8080/test-c86a9a/df1f/65550
+#EXTINF:-1,UK: BBC 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/71163
+#EXTINF:-1,UK: BBC 2 Ireland
+http://iptvmedia.live:8080/test-c86a9a/df1f/165900
+#EXTINF:-1,UK: BBC 2 Northen Ireland
+http://iptvmedia.live:8080/test-c86a9a/df1f/201330
+#EXTINF:-1,UK: BBC 2 Northern Ireland
+http://iptvmedia.live:8080/test-c86a9a/df1f/65531
+#EXTINF:-1,UK: BBC 2 Scotland
+http://iptvmedia.live:8080/test-c86a9a/df1f/65532
+#EXTINF:-1,UK: BBC 3 Cbbc HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/74392
+#EXTINF:-1,UK: BBC 3 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/695
+#EXTINF:-1,UK: BBC 4 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/732
+#EXTINF:-1,UK: BBC ALBA
+http://iptvmedia.live:8080/test-c86a9a/df1f/11663
+#EXTINF:-1,UK: BBC CBBC HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/267199
+#EXTINF:-1,UK: BBC CBEEBIES HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/61253
+#EXTINF:-1,UK BBC CBEEBIES HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220707
+#EXTINF:-1,UK: BBC EARTH
+http://iptvmedia.live:8080/test-c86a9a/df1f/174446
+#EXTINF:-1,UK: BBC Entertainement
+http://iptvmedia.live:8080/test-c86a9a/df1f/27793
+#EXTINF:-1,UK: BBC Entertainment
+http://iptvmedia.live:8080/test-c86a9a/df1f/202046
+#EXTINF:-1,UK: BBC First HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11586
+#EXTINF:-1,UK BBC First HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220274
+#EXTINF:-1,UK: BBC News FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/696
+#EXTINF:-1,UK: BBC PARLIAMANT HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/201140
+#EXTINF:-1,UK: BBC Parliament
+http://iptvmedia.live:8080/test-c86a9a/df1f/201117
+#EXTINF:-1,UK: BBC Parliment HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4766
+#EXTINF:-1,UK: BBC Scotland HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/12470
+#EXTINF:-1,UK: BBC Wales
+http://iptvmedia.live:8080/test-c86a9a/df1f/74379
+#EXTINF:-1,UK: BBC World News HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/9759
+#EXTINF:-1,UK: Bet
+http://iptvmedia.live:8080/test-c86a9a/df1f/9760
+#EXTINF:-1,UK: Blaze HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4642
+#EXTINF:-1,UK: BLOOMBERG HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1610
+#EXTINF:-1,UK: Bloomberg News
+http://iptvmedia.live:8080/test-c86a9a/df1f/95242
+#EXTINF:-1,UK: Boomerang +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/48877
+#EXTINF:-1,UK: Boomerang HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1125
+#EXTINF:-1,UK: Box Hits HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4742
+#EXTINF:-1,UK: BOX NATION FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4719
+#EXTINF:-1,UK: BOX OFFICE
+http://iptvmedia.live:8080/test-c86a9a/df1f/201212
+#EXTINF:-1,UK: Box Office 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/18164
+#EXTINF:-1,UK: Box Office 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/18165
+#EXTINF:-1,UK: Box Office 3 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/18163
+#EXTINF:-1,UK: Box Office 4 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/18166
+#EXTINF:-1,UK: BOX OFFICE 5 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/18167
+#EXTINF:-1,UK: Box Office 6 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/18168
+#EXTINF:-1,UK: BOX OFFICE 7
+http://iptvmedia.live:8080/test-c86a9a/df1f/18169
+#EXTINF:-1,UK: BOX OFFICE 8
+http://iptvmedia.live:8080/test-c86a9a/df1f/18171
+#EXTINF:-1,UK: BOX OFFICE 9
+http://iptvmedia.live:8080/test-c86a9a/df1f/18170
+#EXTINF:-1,UK: BOX OFFICE 10
+http://iptvmedia.live:8080/test-c86a9a/df1f/57394
+#EXTINF:-1,UK: Box Upfront
+http://iptvmedia.live:8080/test-c86a9a/df1f/157278
+#EXTINF:-1,UK: British Muslim TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/33447
+#EXTINF:-1,UK: BT ESPN HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/44110
+#EXTINF:-1,UK BT ESPN HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221707
+#EXTINF:-1,UK: BT Sport 1 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/15131
+#EXTINF:-1,UK BT Sport 1 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220720
+#EXTINF:-1,UK: BT Sport 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/15132
+#EXTINF:-1,UK BT Sport 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/28345
+#EXTINF:-1,UK: BT Sport 3 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/15130
+#EXTINF:-1,UK BT Sport 3 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220719
+#EXTINF:-1,UK: BT Sport 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/270
+#EXTINF:-1,UK BT Sport 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/28340
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/273
+#EXTINF:-1,UK BT Sport 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/28344
+#EXTINF:-1,UK: BT Sport 3 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/271
+#EXTINF:-1,UK BT Sport 3 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/28348
+#EXTINF:-1,UK: BT Sport ESPN FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/15128
+#EXTINF:-1,UK BT Sport ESPN FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220718
+#EXTINF:-1,UK: BT Sport EXtra 1 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/225215
+#EXTINF:-1,UK: BT Sport EXtra 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/193636
+#EXTINF:-1,UK BT Sport eXtra 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220729
+#EXTINF:-1,UK: BT Sport EXtra 3 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/193635
+#EXTINF:-1,UK: BT Sport EXtra 5 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/202045
+#EXTINF:-1,UK BT Sport eXtra 5 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220730
+#EXTINF:-1,UK: BT Sport EXtra FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/193633
+#EXTINF:-1,UK BT Sport eXtra FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220727
+#EXTINF:-1,UK: BT Sport X4 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/192711
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1124
+#EXTINF:-1,UK BT Sport ESPN HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/28349
+#EXTINF:-1,UK: BT Sport europe HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/32220
+#EXTINF:-1,UK: BT Sport EXtra 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/7435
+#EXTINF:-1,UK BT Sport eXtra 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220715
+#EXTINF:-1,UK: BT Sport EXtra 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/48713
+#EXTINF:-1,UK BT Sport eXtra 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220724
+#EXTINF:-1,UK: BT Sport Extra 3 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/7436
+#EXTINF:-1,UK BT Sport Extra 3 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220716
+#EXTINF:-1,UK: BT Sport EXtra 4 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/47961
+#EXTINF:-1,UK BT Sport eXtra 4 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220723
+#EXTINF:-1,UK: BT Sport EXtra 5 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/7438
+#EXTINF:-1,UK BT Sport eXtra 5 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220717
+#EXTINF:-1,UK: BT Sport Mosaic 2
+http://iptvmedia.live:8080/test-c86a9a/df1f/85305
+#EXTINF:-1,UK BT Sport Mosaic 2
+http://iptvmedia.live:8080/test-c86a9a/df1f/220725
+#EXTINF:-1,UK: CAPITAL TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/23115
+#EXTINF:-1,UK: Cartoon Network FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/720
+#EXTINF:-1,UK Cartoon Network FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/50920
+#EXTINF:-1,UK: Cartoonito FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1546
+#EXTINF:-1,UK Cartoonito HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/50919
+#EXTINF:-1,UK: CBBC FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4754
+#EXTINF:-1,UK: CBBC FOUR HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/264905
+#EXTINF:-1,UK: CBeebies FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4753
+#EXTINF:-1,UK CBeebies FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220705
+#EXTINF:-1,UK: CBS ACTION HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/10617
+#EXTINF:-1,UK: CBS Drama HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1123
+#EXTINF:-1,UK: CBS Justice HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1122
+#EXTINF:-1,UK: CBS Reality +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/4647
+#EXTINF:-1,UK: CBS REALITY 1
+http://iptvmedia.live:8080/test-c86a9a/df1f/202086
+#EXTINF:-1,UK: CBS Reality HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1121
+#EXTINF:-1,UK: CBSN News HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11582
+#EXTINF:-1,UK: CGTN Documentary
+http://iptvmedia.live:8080/test-c86a9a/df1f/4819
+#EXTINF:-1,UK: CGTN HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/157252
+#EXTINF:-1,UK: CGTN News
+http://iptvmedia.live:8080/test-c86a9a/df1f/4818
+#EXTINF:-1,UK: Challange HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/12502
+#EXTINF:-1,UK: Challenge HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4641
+#EXTINF:-1,UK: Channel 4 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1120
+#EXTINF:-1,UK: Channel 5 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1119
+#EXTINF:-1,UK: Channel AKA
+http://iptvmedia.live:8080/test-c86a9a/df1f/65074
+#EXTINF:-1,UK: Chelsea FC
+http://iptvmedia.live:8080/test-c86a9a/df1f/74348
+#EXTINF:-1,UK: Chelsea TV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/77283
+#EXTINF:-1,UK: CHSTV
+http://iptvmedia.live:8080/test-c86a9a/df1f/157282
+#EXTINF:-1,UK: CITV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1548
+#EXTINF:-1,UK: Club MTV
+http://iptvmedia.live:8080/test-c86a9a/df1f/17054
+#EXTINF:-1,UK: Clubland
+http://iptvmedia.live:8080/test-c86a9a/df1f/144752
+#EXTINF:-1,UK: CNA
+http://iptvmedia.live:8080/test-c86a9a/df1f/60298
+#EXTINF:-1,UK: CNBC Europe
+http://iptvmedia.live:8080/test-c86a9a/df1f/171945
+#EXTINF:-1,UK: CNBC HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11562
+#EXTINF:-1,UK: CNBC News HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165914
+#EXTINF:-1,UK: CNN HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1547
+#EXTINF:-1,UK: CNN International
+http://iptvmedia.live:8080/test-c86a9a/df1f/168911
+#EXTINF:-1,UK: CNN News HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/120435
+#EXTINF:-1,UK: CNN US HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/148004
+#EXTINF:-1,UK: Comedy Central Extra HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4656
+#EXTINF:-1,UK: Comedy Central FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1118
+#EXTINF:-1,UK: Comedy Extra
+http://iptvmedia.live:8080/test-c86a9a/df1f/74391
+#EXTINF:-1,UK: Comedy Xtra
+http://iptvmedia.live:8080/test-c86a9a/df1f/148002
+#EXTINF:-1,UK: Court TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/201130
+#EXTINF:-1,UK: Create & Craft
+http://iptvmedia.live:8080/test-c86a9a/df1f/48610
+#EXTINF:-1,UK: Crime
+http://iptvmedia.live:8080/test-c86a9a/df1f/227100
+#EXTINF:-1,UK: Crime+ Investigation FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1549
+#EXTINF:-1,UK Crime+ Investigation FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220011
+#EXTINF:-1,UK: Cruise 1st TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/166648
+#EXTINF:-1,UK: CW HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/264540
+#EXTINF:-1,UK: Darama
+http://iptvmedia.live:8080/test-c86a9a/df1f/60355
+#EXTINF:-1,UK: Dave FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/733
+#EXTINF:-1,UK: Dave Ja Vu
+http://iptvmedia.live:8080/test-c86a9a/df1f/17031
+#EXTINF:-1,UK: Destination America
+http://iptvmedia.live:8080/test-c86a9a/df1f/36962
+#EXTINF:-1,UK: Discovery Channel FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/708
+#EXTINF:-1,UK Discovery Channel FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220370
+#EXTINF:-1,UK: Discovery H&H +1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/158589
+#EXTINF:-1,UK Discovery H&H +1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220550
+#EXTINF:-1,UK: Discovery H&H HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4829
+#EXTINF:-1,UK Discovery H&H HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220408
+#EXTINF:-1,UK: Discovery History +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/169973
+#EXTINF:-1,UK: Discovery History FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/694
+#EXTINF:-1,UK Discovery History FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220369
+#EXTINF:-1,UK: Discovery Science +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/169974
+#EXTINF:-1,UK: Discovery Science FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/713
+#EXTINF:-1,UK Discovery Science FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220371
+#EXTINF:-1,UK: Discovery Shed FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1550
+#EXTINF:-1,UK Discovery Shed FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220379
+#EXTINF:-1,UK: Discovery Turbo FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1114
+#EXTINF:-1,UK Discovery Turbo FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220375
+#EXTINF:-1,UK: Disney Channel +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/266972
+#EXTINF:-1,UK: Disney Channel FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1113
+#EXTINF:-1,UK Disney Channel FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221211
+#EXTINF:-1,UK: Disney Junior FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1112
+#EXTINF:-1,UK Disney Junior HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/50898
+#EXTINF:-1,UK: Disney XD +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/266973
+#EXTINF:-1,UK: Disney XD FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1111
+#EXTINF:-1,UK Disney XD FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221210
+#EXTINF:-1,UK: Disney XD HD US
+http://iptvmedia.live:8080/test-c86a9a/df1f/267207
+#EXTINF:-1,UK: Disney+
+http://iptvmedia.live:8080/test-c86a9a/df1f/260431
+#EXTINF:-1,UK: DMAX +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/4671
+#EXTINF:-1,UK: DMAX HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1604
+#EXTINF:-1,UK DMAX HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221316
+#EXTINF:-1,UK: Drama Channel
+http://iptvmedia.live:8080/test-c86a9a/df1f/4638
+#EXTINF:-1,UK: Duck TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/144753
+#EXTINF:-1,UK: DW
+http://iptvmedia.live:8080/test-c86a9a/df1f/19276
+#EXTINF:-1,UK: DW English
+http://iptvmedia.live:8080/test-c86a9a/df1f/148005
+#EXTINF:-1,UK: E! FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1542
+#EXTINF:-1,UK E! FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221814
+#EXTINF:-1,UK: E4 +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/145745
+#EXTINF:-1,UK: E4 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1110
+#EXTINF:-1,UK: Eden +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/266974
+#EXTINF:-1,UK: Eden HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1109
+#EXTINF:-1,UK: EDGE Sport HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/54012
+#EXTINF:-1,UK: EIR SPORTS 1 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/78689
+#EXTINF:-1,UK: EIR SPORTS 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4725
+#EXTINF:-1,UK: EIR SPORTS 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165915
+#EXTINF:-1,UK: ELEVEN SPORTS 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/147354
+#EXTINF:-1,UK: ELEVEN SPORTS 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/48406
+#EXTINF:-1,UK: ELEVEN SPORTS HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/23514
+#EXTINF:-1,UK: ESPN HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/44557
+#EXTINF:-1,UK ESPN HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221708
+#EXTINF:-1,UK: euronews FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1554
+#EXTINF:-1,UK: EUROSPORT 1 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/692
+#EXTINF:-1,UK EUROSPORT 1 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220283
+#EXTINF:-1,UK: EUROSPORT 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1555
+#EXTINF:-1,UK EUROSPORT 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220291
+#EXTINF:-1,UK: EUROSPORT HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165752
+#EXTINF:-1,UK: EWTN Catholic
+http://iptvmedia.live:8080/test-c86a9a/df1f/157283
+#EXTINF:-1,UK: Fame TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/267844
+#EXTINF:-1,UK: FC Liverpool TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/28015
+#EXTINF:-1,UK: FC Manchester United
+http://iptvmedia.live:8080/test-c86a9a/df1f/157394
+#EXTINF:-1,UK: FIGHT BOX FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11485
+#EXTINF:-1,UK FIGHT BOX FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220631
+#EXTINF:-1,UK: FIGHT Channel
+http://iptvmedia.live:8080/test-c86a9a/df1f/33572
+#EXTINF:-1,UK: FIGHT Channel World
+http://iptvmedia.live:8080/test-c86a9a/df1f/157398
+#EXTINF:-1,UK: FIGHT Network FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/266987
+#EXTINF:-1,UK: FIGHT Sport
+http://iptvmedia.live:8080/test-c86a9a/df1f/157399
+#EXTINF:-1,UK: Film 4 +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/165919
+#EXTINF:-1,UK: FILM 4 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1541
+#EXTINF:-1,UK: Fine Living
+http://iptvmedia.live:8080/test-c86a9a/df1f/12515
+#EXTINF:-1,UK: Fine Living Network
+http://iptvmedia.live:8080/test-c86a9a/df1f/4824
+#EXTINF:-1,UK: FOOD
+http://iptvmedia.live:8080/test-c86a9a/df1f/227101
+#EXTINF:-1,UK: FOOD NETWORK +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/4659
+#EXTINF:-1,UK: Food Network FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4658
+#EXTINF:-1,UK: FOX News
+http://iptvmedia.live:8080/test-c86a9a/df1f/266975
+#EXTINF:-1,UK: France 24 English
+http://iptvmedia.live:8080/test-c86a9a/df1f/173226
+#EXTINF:-1,UK: France 24 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11560
+#EXTINF:-1,UK: Free Sports HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/37876
+#EXTINF:-1,UK: FUEL TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/227102
+#EXTINF:-1,UK: Geo News
+http://iptvmedia.live:8080/test-c86a9a/df1f/17095
+#EXTINF:-1,UK: GINX eSports TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/192866
+#EXTINF:-1,UK: GOD TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/22338
+#EXTINF:-1,UK: GOLD FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1108
+#EXTINF:-1,UK: Gold Plus 1
+http://iptvmedia.live:8080/test-c86a9a/df1f/145790
+#EXTINF:-1,UK: Good Food HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11450
+#EXTINF:-1,UK: Good News TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/201133
+#EXTINF:-1,UK: H&h
+http://iptvmedia.live:8080/test-c86a9a/df1f/163129
+#EXTINF:-1,UK: H2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1601
+#EXTINF:-1,UK: HBO Comedy HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/151864
+#EXTINF:-1,UK: Hidayat TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/165994
+#EXTINF:-1,UK: Hillsong Channel
+http://iptvmedia.live:8080/test-c86a9a/df1f/63165
+#EXTINF:-1,UK: History +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/48848
+#EXTINF:-1,UK: History Channel 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/192857
+#EXTINF:-1,UK History Channel 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220951
+#EXTINF:-1,UK: History Channel FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1107
+#EXTINF:-1,UK History Channel FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220879
+#EXTINF:-1,UK: Hochanda
+http://iptvmedia.live:8080/test-c86a9a/df1f/157284
+#EXTINF:-1,UK: Home & Health
+http://iptvmedia.live:8080/test-c86a9a/df1f/173193
+#EXTINF:-1,UK: Home +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/266976
+#EXTINF:-1,UK: Home HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1600
+#EXTINF:-1,UK: Horror Channel FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/736
+#EXTINF:-1,UK: Horse & Country HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11492
+#EXTINF:-1,UK: HUM EUROPE
+http://iptvmedia.live:8080/test-c86a9a/df1f/121303
+#EXTINF:-1,UK: Hum News
+http://iptvmedia.live:8080/test-c86a9a/df1f/48826
+#EXTINF:-1,UK: iConcerts HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/17059
+#EXTINF:-1,UK: Info Corona Virus
+http://iptvmedia.live:8080/test-c86a9a/df1f/122206
+#EXTINF:-1,UK: Investigation Discovery HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/734
+#EXTINF:-1,UK Investigation Discovery HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220372
+#EXTINF:-1,UK: IQRA United Kingdon
+http://iptvmedia.live:8080/test-c86a9a/df1f/165982
+#EXTINF:-1,UK: Islam TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/166650
+#EXTINF:-1,UK: itv +1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165901
+#EXTINF:-1,UK: itv 1 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/689
+#EXTINF:-1,UK: itv 2 +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/145744
+#EXTINF:-1,UK: itv 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/690
+#EXTINF:-1,UK: itv 3 +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/145787
+#EXTINF:-1,UK: itv 3 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/703
+#EXTINF:-1,UK: itv 4 +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/267227
+#EXTINF:-1,UK: itv 4 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/691
+#EXTINF:-1,UK: itv BE FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1560
+#EXTINF:-1,UK: itv City HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/264538
+#EXTINF:-1,UK: itv Encore
+http://iptvmedia.live:8080/test-c86a9a/df1f/4807
+#EXTINF:-1,UK: itv FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/5878
+#EXTINF:-1,UK: itv London
+http://iptvmedia.live:8080/test-c86a9a/df1f/166652
+#EXTINF:-1,UK: Jewellery Maker
+http://iptvmedia.live:8080/test-c86a9a/df1f/166001
+#EXTINF:-1,UK: Kanshi TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/166018
+#EXTINF:-1,UK: Kerrang! TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/62714
+#EXTINF:-1,UK: Khalsa TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/267175
+#EXTINF:-1,UK: Kicc TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/7550
+#EXTINF:-1,UK: Kids TV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/267723
+#EXTINF:-1,UK: Kids Zone
+http://iptvmedia.live:8080/test-c86a9a/df1f/267228
+#EXTINF:-1,UK: Kiss Music TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/157279
+#EXTINF:-1,UK Kiss Music TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/221467
+#EXTINF:-1,UK: Kiss TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/4746
+#EXTINF:-1,UK: KIX
+http://iptvmedia.live:8080/test-c86a9a/df1f/17491
+#EXTINF:-1,UK: LA Muscle TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/166022
+#EXTINF:-1,UK: LaLiga TV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/201211
+#EXTINF:-1,UK: LaLiga TV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/187336
+#EXTINF:-1,UK: LCBN
+http://iptvmedia.live:8080/test-c86a9a/df1f/166026
+#EXTINF:-1,UK: LFC TV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4721
+#EXTINF:-1,UK: Lifetime HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4667
+#EXTINF:-1,UK: Liverpool FC FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/72700
+#EXTINF:-1,UK: Liverpool TV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/170002
+#EXTINF:-1,UK: Living
+http://iptvmedia.live:8080/test-c86a9a/df1f/74432
+#EXTINF:-1,UK: Logo TV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/263677
+#EXTINF:-1,UK: London Live HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11459
+#EXTINF:-1,UK: Love Nature FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/78665
+#EXTINF:-1,UK: Madani Channel
+http://iptvmedia.live:8080/test-c86a9a/df1f/166722
+#EXTINF:-1,UK: Magic HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4745
+#EXTINF:-1,UK: Makkah Live HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/267721
+#EXTINF:-1,UK: Medina Live HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/231503
+#EXTINF:-1,UK: More4 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/738
+#EXTINF:-1,UK: Motor sport TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/74359
+#EXTINF:-1,UK: Motor Trend
+http://iptvmedia.live:8080/test-c86a9a/df1f/194860
+#EXTINF:-1,UK: MOTORS TV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11712
+#EXTINF:-1,UK: Movie Drama HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/712
+#EXTINF:-1,UK: Movies 4 Men
+http://iptvmedia.live:8080/test-c86a9a/df1f/11713
+#EXTINF:-1,UK: Movies 24
+http://iptvmedia.live:8080/test-c86a9a/df1f/74386
+#EXTINF:-1,UK: Movies4Men
+http://iptvmedia.live:8080/test-c86a9a/df1f/196393
+#EXTINF:-1,UK: MSNBC TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/74431
+#EXTINF:-1,UK: MTA 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/266990
+#EXTINF:-1,UK: MTV 24 Music
+http://iptvmedia.live:8080/test-c86a9a/df1f/157275
+#EXTINF:-1,UK MTV 24 Music
+http://iptvmedia.live:8080/test-c86a9a/df1f/221466
+#EXTINF:-1,UK: MTV 90s
+http://iptvmedia.live:8080/test-c86a9a/df1f/91052
+#EXTINF:-1,UK: MTV Base HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4733
+#EXTINF:-1,UK MTV Base HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220681
+#EXTINF:-1,UK: MTV Classic HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4735
+#EXTINF:-1,UK MTV Classic HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220213
+#EXTINF:-1,UK: MTV Dance HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11715
+#EXTINF:-1,UK MTV Dance HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220641
+#EXTINF:-1,UK: MTV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4728
+#EXTINF:-1,UK: MTV Hits FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4736
+#EXTINF:-1,UK MTV Hits FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220732
+#EXTINF:-1,UK: MTV Live FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/21860
+#EXTINF:-1,UK MTV Live FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220747
+#EXTINF:-1,UK: MTV Music +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/200237
+#EXTINF:-1,UK: MTV Music FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4731
+#EXTINF:-1,UK MTV Music FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220263
+#EXTINF:-1,UK: MTV OMG HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4737
+#EXTINF:-1,UK: MTV ONE
+http://iptvmedia.live:8080/test-c86a9a/df1f/264543
+#EXTINF:-1,UK: MTV Rocks HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4738
+#EXTINF:-1,UK MTV Rocks HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220756
+#EXTINF:-1,UK: Music Box
+http://iptvmedia.live:8080/test-c86a9a/df1f/171944
+#EXTINF:-1,UK Music Box
+http://iptvmedia.live:8080/test-c86a9a/df1f/221484
+#EXTINF:-1,UK: MUTV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1102
+#EXTINF:-1,UK: NAT GEO FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1101
+#EXTINF:-1,UK NAT GEO FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220774
+#EXTINF:-1,UK: NAT GEO People
+http://iptvmedia.live:8080/test-c86a9a/df1f/36973
+#EXTINF:-1,UK NAT GEO People
+http://iptvmedia.live:8080/test-c86a9a/df1f/220824
+#EXTINF:-1,UK: NAT GEO Wild FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/724
+#EXTINF:-1,UK NAT GEO Wild FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220770
+#EXTINF:-1,UK: Nautical Channel
+http://iptvmedia.live:8080/test-c86a9a/df1f/267229
+#EXTINF:-1,UK: NBA
+http://iptvmedia.live:8080/test-c86a9a/df1f/182451
+#EXTINF:-1,UK: News Max
+http://iptvmedia.live:8080/test-c86a9a/df1f/65063
+#EXTINF:-1,UK: NHK World News HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165913
+#EXTINF:-1,UK: NHK World TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/198805
+#EXTINF:-1,UK: Nick Junior +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/171946
+#EXTINF:-1,UK: Nick Junior 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165930
+#EXTINF:-1,UK Nick Junior 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221190
+#EXTINF:-1,UK: Nick Junior FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1098
+#EXTINF:-1,UK Nick Junior FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221130
+#EXTINF:-1,UK: Nick Junior Peppa FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/48766
+#EXTINF:-1,UK Nick Junior Peppa FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221164
+#EXTINF:-1,UK: Nick Junior TOO HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4759
+#EXTINF:-1,UK Nick Junior TOO HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221138
+#EXTINF:-1,UK: NICKELEDION JR
+http://iptvmedia.live:8080/test-c86a9a/df1f/32459
+#EXTINF:-1,UK NICKELEDION JR
+http://iptvmedia.live:8080/test-c86a9a/df1f/221587
+#EXTINF:-1,UK: nickelodeon FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1099
+#EXTINF:-1,UK nickelodeon FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221553
+#EXTINF:-1,UK: nicktoons FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/740
+#EXTINF:-1,UK nicktoons FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221551
+#EXTINF:-1,UK: Nollywood
+http://iptvmedia.live:8080/test-c86a9a/df1f/171940
+#EXTINF:-1,UK: Noor TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/165369
+#EXTINF:-1,UK: Now 80s
+http://iptvmedia.live:8080/test-c86a9a/df1f/144754
+#EXTINF:-1,UK: NTV
+http://iptvmedia.live:8080/test-c86a9a/df1f/11552
+#EXTINF:-1,UK: Outside TV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/266986
+#EXTINF:-1,UK: Paigham TV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/267722
+#EXTINF:-1,UK: PARAMOUNT
+http://iptvmedia.live:8080/test-c86a9a/df1f/200948
+#EXTINF:-1,UK: Paramount Network HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4637
+#EXTINF:-1,UK: PBS America
+http://iptvmedia.live:8080/test-c86a9a/df1f/11720
+#EXTINF:-1,UK: PBS Kids
+http://iptvmedia.live:8080/test-c86a9a/df1f/263657
+#EXTINF:-1,UK: Pepa HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/266420
+#EXTINF:-1,UK: Peppa
+http://iptvmedia.live:8080/test-c86a9a/df1f/263684
+#EXTINF:-1,UK: Pick HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1578
+#EXTINF:-1,UK: PoP +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/165932
+#EXTINF:-1,UK: POP 1
+http://iptvmedia.live:8080/test-c86a9a/df1f/151125
+#EXTINF:-1,UK: POP Channel
+http://iptvmedia.live:8080/test-c86a9a/df1f/1599
+#EXTINF:-1,UK: POP MAX 1
+http://iptvmedia.live:8080/test-c86a9a/df1f/264541
+#EXTINF:-1,UK: Pop Max HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1598
+#EXTINF:-1,UK: POP Max+1
+http://iptvmedia.live:8080/test-c86a9a/df1f/11525
+#EXTINF:-1,UK: Premier Sport 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4722
+#EXTINF:-1,UK: PREMIER SPORTS 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4723
+#EXTINF:-1,UK: PREMIER SPORTS FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1097
+#EXTINF:-1,UK: Premium Sport 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1552
+#EXTINF:-1,UK: Prime TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/199253
+#EXTINF:-1,UK: QUEST +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/165904
+#EXTINF:-1,UK: Quest FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1096
+#EXTINF:-1,UK: Quest Red +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/201131
+#EXTINF:-1,UK: Quest Red HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1577
+#EXTINF:-1,UK: QVC
+http://iptvmedia.live:8080/test-c86a9a/df1f/48643
+#EXTINF:-1,UK: QVC Beauty
+http://iptvmedia.live:8080/test-c86a9a/df1f/48644
+#EXTINF:-1,UK: QVC Extra
+http://iptvmedia.live:8080/test-c86a9a/df1f/48645
+#EXTINF:-1,UK: QVC Style
+http://iptvmedia.live:8080/test-c86a9a/df1f/48646
+#EXTINF:-1,UK: QVC UK +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/166009
+#EXTINF:-1,UK: Racing FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/741
+#EXTINF:-1,UK: Rap Music HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/196388
+#EXTINF:-1,UK Rap Music HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221511
+#EXTINF:-1,UK: Real Lives HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/742
+#EXTINF:-1,UK: Really FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1095
+#EXTINF:-1,UK: RealMadrid
+http://iptvmedia.live:8080/test-c86a9a/df1f/192747
+#EXTINF:-1,UK: red bull HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/85429
+#EXTINF:-1,UK: Revelation
+http://iptvmedia.live:8080/test-c86a9a/df1f/157285
+#EXTINF:-1,UK: RHYMES
+http://iptvmedia.live:8080/test-c86a9a/df1f/195562
+#EXTINF:-1,UK: Rishtey
+http://iptvmedia.live:8080/test-c86a9a/df1f/25906
+#EXTINF:-1,UK: Rishtey Cineplex
+http://iptvmedia.live:8080/test-c86a9a/df1f/174174
+#EXTINF:-1,UK: ROK
+http://iptvmedia.live:8080/test-c86a9a/df1f/171943
+#EXTINF:-1,UK: RT
+http://iptvmedia.live:8080/test-c86a9a/df1f/174177
+#EXTINF:-1,UK: RT AMERICA HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/264539
+#EXTINF:-1,UK: RT NEWS
+http://iptvmedia.live:8080/test-c86a9a/df1f/48883
+#EXTINF:-1,UK: RT News Now
+http://iptvmedia.live:8080/test-c86a9a/df1f/63186
+#EXTINF:-1,UK: RTE 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/688
+#EXTINF:-1,UK: RTE News FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4774
+#EXTINF:-1,UK: RTE NEWS NOW
+http://iptvmedia.live:8080/test-c86a9a/df1f/200995
+#EXTINF:-1,UK: RTE ONE HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/687
+#EXTINF:-1,UK: RTÉ JR HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1545
+#EXTINF:-1,UK: RUSSIA TODAY NEWS
+http://iptvmedia.live:8080/test-c86a9a/df1f/196390
+#EXTINF:-1,UK: S Arts
+http://iptvmedia.live:8080/test-c86a9a/df1f/171942
+#EXTINF:-1,UK: S Sports Arena HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/61918
+#EXTINF:-1,UK: S4C FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4775
+#EXTINF:-1,UK: Sab TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/61805
+#EXTINF:-1,UK: Safeer TV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/267720
+#EXTINF:-1,UK: Sangat
+http://iptvmedia.live:8080/test-c86a9a/df1f/173166
+#EXTINF:-1,UK: SET Max
+http://iptvmedia.live:8080/test-c86a9a/df1f/174175
+#EXTINF:-1,UK: Setanta Sports
+http://iptvmedia.live:8080/test-c86a9a/df1f/70109
+#EXTINF:-1,UK: Showcase
+http://iptvmedia.live:8080/test-c86a9a/df1f/157271
+#EXTINF:-1,UK: SIS RACING HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/85434
+#EXTINF:-1,UK: Sky 1 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1080
+#EXTINF:-1,UK: Sky 2 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1074
+#EXTINF:-1,UK: Sky Action & Adventure HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/48407
+#EXTINF:-1,UK: Sky Action HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4836
+#EXTINF:-1,UK: Sky Arts 1
+http://iptvmedia.live:8080/test-c86a9a/df1f/4822
+#EXTINF:-1,UK: Sky Arts FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1094
+#EXTINF:-1,UK: Sky Atlantic FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1093
+#EXTINF:-1,UK: SKY CIMEMA ACTION
+http://iptvmedia.live:8080/test-c86a9a/df1f/15937
+#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/266977
+#EXTINF:-1,UK: Sky Cinema ACTION FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1092
+#EXTINF:-1,UK: Sky Cinema Atlantic
+http://iptvmedia.live:8080/test-c86a9a/df1f/157404
+#EXTINF:-1,UK: Sky Cinema Cinemaeats HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/196387
+#EXTINF:-1,UK: Sky Cinema Comedy FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1091
+#EXTINF:-1,UK: Sky Cinema Crime
+http://iptvmedia.live:8080/test-c86a9a/df1f/84900
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4697
+#EXTINF:-1,UK: Sky Cinema Disney FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1090
+#EXTINF:-1,UK Sky Cinema Disney FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221209
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://iptvmedia.live:8080/test-c86a9a/df1f/10614
+#EXTINF:-1,UK: Sky Cinema Drama FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1089
+#EXTINF:-1,UK: Sky Cinema Family FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/727
+#EXTINF:-1,UK: Sky Cinema Grates
+http://iptvmedia.live:8080/test-c86a9a/df1f/173114
+#EXTINF:-1,UK: Sky Cinema Great FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1087
+#EXTINF:-1,UK: Sky Cinema Hits HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1086
+#EXTINF:-1,UK: Sky Cinema MODERN GREATS HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/148197
+#EXTINF:-1,UK: Sky Cinema Modern HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/158464
+#EXTINF:-1,UK: Sky Cinema Premiere FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1085
+#EXTINF:-1,UK: Sky Cinema sci-fi
+http://iptvmedia.live:8080/test-c86a9a/df1f/79413
+#EXTINF:-1,UK: Sky Cinema sci-fi & Horror FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/725
+#EXTINF:-1,UK: Sky Cinema Select FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/726
+#EXTINF:-1,UK: Sky Cinema Showcase HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/17041
+#EXTINF:-1,UK: Sky Cinema Si-Fi Horror
+http://iptvmedia.live:8080/test-c86a9a/df1f/201205
+#EXTINF:-1,UK: Sky Cinema Superhero FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/85443
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1082
+#EXTINF:-1,UK: Sky Cinema Witness
+http://iptvmedia.live:8080/test-c86a9a/df1f/36950
+#EXTINF:-1,UK: Sky Cinemaeats
+http://iptvmedia.live:8080/test-c86a9a/df1f/122201
+#EXTINF:-1,UK: Sky Comedy FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4837
+#EXTINF:-1,UK: Sky Crime FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/15155
+#EXTINF:-1,UK: Sky Crime Thriller
+http://iptvmedia.live:8080/test-c86a9a/df1f/174449
+#EXTINF:-1,UK: Sky Discovery Science
+http://iptvmedia.live:8080/test-c86a9a/df1f/74428
+#EXTINF:-1,UK Sky Discovery Science
+http://iptvmedia.live:8080/test-c86a9a/df1f/220505
+#EXTINF:-1,UK: SKY Disney HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/67091
+#EXTINF:-1,UK SKY Disney HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221272
+#EXTINF:-1,UK: Sky DOCUMENTARIES FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/187346
+#EXTINF:-1,UK: SKY DRAMA HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/12526
+#EXTINF:-1,UK: Sky Drama Movies
+http://iptvmedia.live:8080/test-c86a9a/df1f/10613
+#EXTINF:-1,UK: Sky Drama Romance
+http://iptvmedia.live:8080/test-c86a9a/df1f/28021
+#EXTINF:-1,UK: Sky Family HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/7984
+#EXTINF:-1,UK: Sky Good Food
+http://iptvmedia.live:8080/test-c86a9a/df1f/158467
+#EXTINF:-1,UK: SKY GREATS HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/32229
+#EXTINF:-1,UK: Sky History HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/187342
+#EXTINF:-1,UK: Sky Hits HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/38895
+#EXTINF:-1,UK: Sky Living HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/715
+#EXTINF:-1,UK: Sky Modern Greats HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/48415
+#EXTINF:-1,UK: Sky MUTV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/201206
+#EXTINF:-1,UK: Sky NATURE HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/187344
+#EXTINF:-1,UK: Sky News FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1081
+#EXTINF:-1,UK: SKY PRE ORDER 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/187615
+#EXTINF:-1,UK: SKY PRE ORDER KIDS HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/187616
+#EXTINF:-1,UK: Sky Premier
+http://iptvmedia.live:8080/test-c86a9a/df1f/32228
+#EXTINF:-1,UK: Sky sci-fi & Horror
+http://iptvmedia.live:8080/test-c86a9a/df1f/171941
+#EXTINF:-1,UK: SKY SELECT FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/737
+#EXTINF:-1,UK: Sky Show Case
+http://iptvmedia.live:8080/test-c86a9a/df1f/36616
+#EXTINF:-1,UK: SKY SP ARENA HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/81124
+#EXTINF:-1,UK: SKY SP FOOTBALL HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/192624
+#EXTINF:-1,UK: Sky Sports
+http://iptvmedia.live:8080/test-c86a9a/df1f/44147
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/192868
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/47984
+#EXTINF:-1,UK: Sky Sports Action FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/268
+#EXTINF:-1,UK: Sky Sports ACTIVE FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/264933
+#EXTINF:-1,UK: Sky Sports Arena FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/267
+#EXTINF:-1,UK Sky Sports Arena FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220157
+#EXTINF:-1,UK: Sky Sports Cricket FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/145801
+#EXTINF:-1,UK Sky Sports Cricket FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220168
+#EXTINF:-1,UK: Sky Sports F1 FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/266548
+#EXTINF:-1,UK: Sky Sports Football FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/145799
+#EXTINF:-1,UK Sky Sports Football FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220167
+#EXTINF:-1,UK: Sky Sports Golf FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/745
+#EXTINF:-1,UK Sky Sports Golf FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220160
+#EXTINF:-1,UK: Sky Sports Main Event FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/698
+#EXTINF:-1,UK Sky Sports Main Event HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/37180
+#EXTINF:-1,UK: Sky Sports Mix FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/266549
+#EXTINF:-1,UK: Sky Sports News FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/145795
+#EXTINF:-1,UK Sky Sports News FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220164
+#EXTINF:-1,UK: Sky Sports Premier League FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/145796
+#EXTINF:-1,UK Sky Sports Premier League FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220165
+#EXTINF:-1,UK: Sky Sports Racing FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/145802
+#EXTINF:-1,UK Sky Sports Racing FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220169
+#EXTINF:-1,UK: Sky Sports Action HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/700
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/743
+#EXTINF:-1,UK Sky Sports Arena HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/37175
+#EXTINF:-1,UK: Sky Sports Box Office HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/151119
+#EXTINF:-1,UK Sky Sports Box Office HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220170
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/269
+#EXTINF:-1,UK Sky Sports Cricket HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220159
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/265
+#EXTINF:-1,UK Sky Sports F1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/37177
+#EXTINF:-1,UK: Sky Sports Football HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/266
+#EXTINF:-1,UK Sky Sports Football HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/37178
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/264
+#EXTINF:-1,UK Sky Sports Golf HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/37179
+#EXTINF:-1,UK: Sky Sports MAIN EVENT HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/169975
+#EXTINF:-1,UK Sky Sports Main Event HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220171
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/261
+#EXTINF:-1,UK Sky Sports Mix HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/37181
+#EXTINF:-1,UK: Sky Sports News HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/260
+#EXTINF:-1,UK Sky Sports News HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220155
+#EXTINF:-1,UK: Sky Sports NFL HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/260361
+#EXTINF:-1,UK: Sky Sports Premier Langue HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/263
+#EXTINF:-1,UK Sky Sports Premier Langue HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220156
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/71055
+#EXTINF:-1,UK Sky Sports Premier League HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220163
+#EXTINF:-1,UK: Sky Sports Racing HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1605
+#EXTINF:-1,UK Sky Sports Racing HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/37182
+#EXTINF:-1,UK: Sky Store 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165921
+#EXTINF:-1,UK: Sky Store 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165922
+#EXTINF:-1,UK: SKY Store 3 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165929
+#EXTINF:-1,UK: SKY Store 4 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165926
+#EXTINF:-1,UK: SKY Store 5 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165927
+#EXTINF:-1,UK: Sky Store Pre Order 1
+http://iptvmedia.live:8080/test-c86a9a/df1f/192861
+#EXTINF:-1,UK: Sky Store Pre Order Kids
+http://iptvmedia.live:8080/test-c86a9a/df1f/192863
+#EXTINF:-1,UK: Sky Thriller
+http://iptvmedia.live:8080/test-c86a9a/df1f/267197
+#EXTINF:-1,UK: Sky Witness FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11738
+#EXTINF:-1,UK: Sky1 +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/74375
+#EXTINF:-1,UK: SKYS PORTS FOOTBALL
+http://iptvmedia.live:8080/test-c86a9a/df1f/158511
+#EXTINF:-1,UK: Smithsonian FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/266984
+#EXTINF:-1,UK: SOCCER PLUS
+http://iptvmedia.live:8080/test-c86a9a/df1f/227104
+#EXTINF:-1,UK: SonLife
+http://iptvmedia.live:8080/test-c86a9a/df1f/157287
+#EXTINF:-1,UK: Spike HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/48659
+#EXTINF:-1,UK: SPORTS ACTION
+http://iptvmedia.live:8080/test-c86a9a/df1f/158510
+#EXTINF:-1,UK: Spotlight TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/157288
+#EXTINF:-1,UK: Star Bharat
+http://iptvmedia.live:8080/test-c86a9a/df1f/70816
+#EXTINF:-1,UK: Star Gold
+http://iptvmedia.live:8080/test-c86a9a/df1f/65410
+#EXTINF:-1,UK: Star Jalsha
+http://iptvmedia.live:8080/test-c86a9a/df1f/65409
+#EXTINF:-1,UK: Star Plus FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/16091
+#EXTINF:-1,UK: STAR SPOR SELECT 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/267495
+#EXTINF:-1,UK: STAR SPOR SELECT 2 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/163131
+#EXTINF:-1,UK: Starz TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/4743
+#EXTINF:-1,UK: STV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/192776
+#EXTINF:-1,UK: SYFY +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/74393
+#EXTINF:-1,UK: SYFY FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1068
+#EXTINF:-1,UK: Talking Pictures HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4710
+#EXTINF:-1,UK: TBN
+http://iptvmedia.live:8080/test-c86a9a/df1f/157286
+#EXTINF:-1,UK: TCM FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4711
+#EXTINF:-1,UK: TCM Movies HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/173184
+#EXTINF:-1,UK: TG4 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11572
+#EXTINF:-1,UK: The Box
+http://iptvmedia.live:8080/test-c86a9a/df1f/4740
+#EXTINF:-1,UK: The Races
+http://iptvmedia.live:8080/test-c86a9a/df1f/65547
+#EXTINF:-1,UK: Tiny Pop +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/9805
+#EXTINF:-1,UK: TINY POP 1
+http://iptvmedia.live:8080/test-c86a9a/df1f/264542
+#EXTINF:-1,UK: Tiny Pop HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4755
+#EXTINF:-1,UK: TLC FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1067
+#EXTINF:-1,UK: TLC IRELAND
+http://iptvmedia.live:8080/test-c86a9a/df1f/74401
+#EXTINF:-1,UK: Tom & Jerry
+http://iptvmedia.live:8080/test-c86a9a/df1f/63231
+#EXTINF:-1,UK: TRACE URBAN
+http://iptvmedia.live:8080/test-c86a9a/df1f/174178
+#EXTINF:-1,UK: Travel Channel FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1066
+#EXTINF:-1,UK Travel Channel FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221046
+#EXTINF:-1,UK: Travel XP HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/157273
+#EXTINF:-1,UK Travel XP HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221074
+#EXTINF:-1,UK: TRT World HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165912
+#EXTINF:-1,UK: Tru TV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/21534
+#EXTINF:-1,UK: True Ent
+http://iptvmedia.live:8080/test-c86a9a/df1f/65405
+#EXTINF:-1,UK: True Entertainment
+http://iptvmedia.live:8080/test-c86a9a/df1f/4644
+#EXTINF:-1,UK: True Movies +1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/148200
+#EXTINF:-1,UK: True Movies 1
+http://iptvmedia.live:8080/test-c86a9a/df1f/4820
+#EXTINF:-1,UK: True Movies 2
+http://iptvmedia.live:8080/test-c86a9a/df1f/7994
+#EXTINF:-1,UK: True Movies HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/182454
+#EXTINF:-1,UK: TV 3 Ireland
+http://iptvmedia.live:8080/test-c86a9a/df1f/182532
+#EXTINF:-1,UK: TV 5
+http://iptvmedia.live:8080/test-c86a9a/df1f/65404
+#EXTINF:-1,UK: TV One HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/121145
+#EXTINF:-1,UK: TV3
+http://iptvmedia.live:8080/test-c86a9a/df1f/7995
+#EXTINF:-1,UK: TV3 +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/266983
+#EXTINF:-1,UK: TV3 IR HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/198178
+#EXTINF:-1,UK: TVC News
+http://iptvmedia.live:8080/test-c86a9a/df1f/165911
+#EXTINF:-1,UK: TVP 3 Łódź
+http://iptvmedia.live:8080/test-c86a9a/df1f/122190
+#EXTINF:-1,UK: TWO
+http://iptvmedia.live:8080/test-c86a9a/df1f/225238
+#EXTINF:-1,UK: UFC FIGHT night Pass HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11487
+#EXTINF:-1,UK: UFC FIGHT Pass HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/165917
+#EXTINF:-1,UK UFC FIGHT Pass HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/220258
+#EXTINF:-1,UK: UFC NIGHT PASS
+http://iptvmedia.live:8080/test-c86a9a/df1f/197670
+#EXTINF:-1,UK: Universal Channel +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/267206
+#EXTINF:-1,UK: Universal Channel HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4649
+#EXTINF:-1,UK: UTV FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/16105
+#EXTINF:-1,UK: UTV Ireland
+http://iptvmedia.live:8080/test-c86a9a/df1f/11571
+#EXTINF:-1,UK: V2BEAT TV
+http://iptvmedia.live:8080/test-c86a9a/df1f/165366
+#EXTINF:-1,UK: VENUS
+http://iptvmedia.live:8080/test-c86a9a/df1f/174179
+#EXTINF:-1,UK: VH1
+http://iptvmedia.live:8080/test-c86a9a/df1f/4730
+#EXTINF:-1,UK VH1
+http://iptvmedia.live:8080/test-c86a9a/df1f/221762
+#EXTINF:-1,UK: VH1 Classic HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4832
+#EXTINF:-1,UK VH1 Classic HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/221763
+#EXTINF:-1,UK: VH1 Classis
+http://iptvmedia.live:8080/test-c86a9a/df1f/199063
+#EXTINF:-1,UK VH1 Classis
+http://iptvmedia.live:8080/test-c86a9a/df1f/221793
+#EXTINF:-1,UK: Viceland HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11452
+#EXTINF:-1,UK: Virgin Media 1 HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/122200
+#EXTINF:-1,UK: Virgin Media Three HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/17171
+#EXTINF:-1,UK: Virgin Media Two
+http://iptvmedia.live:8080/test-c86a9a/df1f/85441
+#EXTINF:-1,UK: Virgin Sport Ireland
+http://iptvmedia.live:8080/test-c86a9a/df1f/67830
+#EXTINF:-1,UK: Virgin Two
+http://iptvmedia.live:8080/test-c86a9a/df1f/146670
+#EXTINF:-1,UK: VIVA
+http://iptvmedia.live:8080/test-c86a9a/df1f/11745
+#EXTINF:-1,UK: W 1
+http://iptvmedia.live:8080/test-c86a9a/df1f/11746
+#EXTINF:-1,UK: W HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11448
+#EXTINF:-1,UK: Watch FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/4639
+#EXTINF:-1,UK: WWE Channel HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/11484
+#EXTINF:-1,UK: WWE Network FHD
+http://iptvmedia.live:8080/test-c86a9a/df1f/22953
+#EXTINF:-1,UK: WWE PPV
+http://iptvmedia.live:8080/test-c86a9a/df1f/192859
+#EXTINF:-1,UK: WWE Superslam
+http://iptvmedia.live:8080/test-c86a9a/df1f/201119
+#EXTINF:-1,UK: YESTERDAY +1
+http://iptvmedia.live:8080/test-c86a9a/df1f/163398
+#EXTINF:-1,UK: Yesterday HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/1065
+#EXTINF:-1,UK: Zee Cinema
+http://iptvmedia.live:8080/test-c86a9a/df1f/76882
+#EXTINF:-1,UK: Zee Punjabi
+http://iptvmedia.live:8080/test-c86a9a/df1f/76877
+#EXTINF:-1,UK: Zee TV HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/197423
+#EXTINF:-1,UK: Zing HD
+http://iptvmedia.live:8080/test-c86a9a/df1f/173160
 
-#EXTM3U
-#EXTINF:-1 group-title="TTTT",5 USA
-http://194.76.186.38:7002/play/a006
-#EXTINF:-1 group-title="TTTT" group-title="TTTT",5SELECT
-http://194.76.186.38:7002/play/a009
-#EXTINF:-1 group-title="TTTT",5STAR
-http://194.76.186.38:7002/play/a008
-#EXTINF:-1 group-title="TTTT" group-title="TTTT",5STAR+1
-http://194.76.186.38:7002/play/a00a
-#EXTINF:-1 group-title="TTTT",5USA+1
-http://194.76.186.38:7002/play/a007
-#EXTINF:-1 group-title="TTTT",92 News
-http://194.76.186.38:7002/play/a056
-#EXTINF:-1 group-title="TTTT",A1TV
-http://194.76.186.38:7002/play/a04s
-#EXTINF:-1 group-title="TTTT",AAJ TAK
-http://194.76.186.38:7002/play/a06r
-#EXTINF:-1 group-title="TTTT",ARY Digital
-http://194.76.186.38:7002/play/a01m
-#EXTINF:-1 group-title="TTTT",ATN
-http://194.76.186.38:7002/play/a04u
-#EXTINF:-1 group-title="TTTT",Ahlebait TV
-http://194.76.186.38:7002/play/a04w
-#EXTINF:-1 group-title="TTTT",Ahlulbayt TV
-http://194.76.186.38:7002/play/a011
-#EXTINF:-1 group-title="TTTT",Akaal Channel
-http://194.76.186.38:7002/play/a02f
-#EXTINF:-1 group-title="TTTT",Al Jazeera Eng
-http://194.76.186.38:7002/play/a019
-#EXTINF:-1 group-title="TTTT",Animal Planet
-http://194.76.186.38:7002/play/a07r
-#EXTINF:-1 group-title="TTTT",Arise News
-http://194.76.186.38:7002/play/a01b
-#EXTINF:-1 group-title="TTTT",B4U Movies
-http://194.76.186.38:7002/play/a04r
-#EXTINF:-1 group-title="TTTT",B4U Music
-http://194.76.186.38:7002/play/a04m
-#EXTINF:-1 group-title="TTTT",BET:BlackEntTv
-http://194.76.186.38:7002/play/a01y
-#EXTINF:-1 group-title="TTTT",BLAZE
-http://194.76.186.38:7002/play/a016
-#EXTINF:-1 group-title="TTTT",Best Direct
-http://194.76.186.38:7002/play/a06j
-#EXTINF:-1 group-title="TTTT",Birmingham TV
-http://194.76.186.38:7002/play/a053
-#EXTINF:-1 group-title="TTTT",Boomerang
-http://194.76.186.38:7002/play/a02k
-#EXTINF:-1 group-title="TTTT",BoxNation
-http://194.76.186.38:7002/play/a00w
-#EXTINF:-1 group-title="TTTT",Bristol TV
-http://194.76.186.38:7002/play/a05a
-#EXTINF:-1 group-title="TTTT",Brit Asia TV
-http://194.76.186.38:7002/play/a01l
-#EXTINF:-1 group-title="TTTT",CBS Drama
-http://194.76.186.38:7002/play/a03h
-#EXTINF:-1 group-title="TTTT",CBS Justice
-http://194.76.186.38:7002/play/a03i
-#EXTINF:-1 group-title="TTTT",CBS Reality
-http://194.76.186.38:7002/play/a03p
-#EXTINF:-1 group-title="TTTT",CGTN
-http://194.76.186.38:7002/play/a04l
-#EXTINF:-1 group-title="TTTT",CHSTV
-http://194.76.186.38:7002/play/a04v
-#EXTINF:-1 group-title="TTTT",CNBC
-http://194.76.186.38:7002/play/a04e
-#EXTINF:-1 group-title="TTTT",CNN
-http://194.76.186.38:7002/play/a00z
-#EXTINF:-1 group-title="TTTT",Capital
-http://194.76.186.38:7002/play/a05l
-#EXTINF:-1 group-title="TTTT",Capital XTRA
-http://194.76.186.38:7002/play/a05j
-#EXTINF:-1 group-title="TTTT",Cardiff TV
-http://194.76.186.38:7002/play/a05b
-#EXTINF:-1 group-title="TTTT",Cartoon Netwrk
-http://194.76.186.38:7002/play/a02i
-#EXTINF:-1 group-title="TTTT",Cartoonito
-http://194.76.186.38:7002/play/a02l
-#EXTINF:-1 group-title="TTTT",Celebration TV
-http://194.76.186.38:7002/play/a06b
-#EXTINF:-1 group-title="TTTT",Challenge
-http://194.76.186.38:7002/play/a07a
-#EXTINF:-1 group-title="TTTT",Channel 44
-http://194.76.186.38:7002/play/a059
-#EXTINF:-1 group-title="TTTT",Channel 5
-http://194.76.186.38:7002/play/a005
-#EXTINF:-1 group-title="TTTT",Channel 5 HD
-http://194.76.186.38:7002/play/a00d
-#EXTINF:-1 group-title="TTTT",Channel 7
-http://194.76.186.38:7002/play/a01f
-#EXTINF:-1 group-title="TTTT",Channels 24
-http://194.76.186.38:7002/play/a06a
-#EXTINF:-1 group-title="TTTT",Citv
-http://194.76.186.38:7002/play/a083
-#EXTINF:-1 group-title="TTTT",Classic FM
-http://194.76.186.38:7002/play/a05o
-#EXTINF:-1 group-title="TTTT",Clubland TV
-http://194.76.186.38:7002/play/a05w
-#EXTINF:-1 group-title="TTTT",ComedyCentral
-http://194.76.186.38:7002/play/a028
-#EXTINF:-1 group-title="TTTT",ComedyXtra
-http://194.76.186.38:7002/play/a023
-#EXTINF:-1 group-title="TTTT",Court TV
-http://194.76.186.38:7002/play/a06o
-#EXTINF:-1 group-title="TTTT",DMAX
-http://194.76.186.38:7002/play/a07p
-#EXTINF:-1 group-title="TTTT",Dave
-http://194.76.186.38:7002/play/a07l
-#EXTINF:-1 group-title="TTTT",Dave
-http://194.76.186.38:7002/play/a07g
-#EXTINF:-1 group-title="TTTT",Dave ja vu
-http://194.76.186.38:7002/play/a07m
-#EXTINF:-1 group-title="TTTT",Desi Radio
-http://194.76.186.38:7002/play/a05f
-#EXTINF:-1 group-title="TTTT",Disc.History
-http://194.76.186.38:7002/play/a07t
-#EXTINF:-1 group-title="TTTT",Disc.Science
-http://194.76.186.38:7002/play/a07s
-#EXTINF:-1 group-title="TTTT",Disc.Turbo
-http://194.76.186.38:7002/play/a07u
-#EXTINF:-1 group-title="TTTT",Discovery
-http://194.76.186.38:7002/play/a07q
-#EXTINF:-1 group-title="TTTT",Discovery Shed
-http://194.76.186.38:7002/play/a00p
-#EXTINF:-1 group-title="TTTT",Drama
-http://194.76.186.38:7002/play/a07k
-#EXTINF:-1 group-title="TTTT",Drama
-http://194.76.186.38:7002/play/a07j
-#EXTINF:-1 group-title="TTTT",Dunamis TV
-http://194.76.186.38:7002/play/a06g
-#EXTINF:-1 group-title="TTTT",Dunya News
-http://194.76.186.38:7002/play/a01o
-#EXTINF:-1 group-title="TTTT",EWTN Catholic
-http://194.76.186.38:7002/play/a02w
-#EXTINF:-1 group-title="TTTT",EWTN Catholic
-http://194.76.186.38:7002/play/a02v
-#EXTINF:-1 group-title="TTTT",Eden
-http://194.76.186.38:7002/play/a07d
-#EXTINF:-1 group-title="TTTT",Faith UK
-http://194.76.186.38:7002/play/a01j
-#EXTINF:-1 group-title="TTTT",Food Network
-http://194.76.186.38:7002/play/a07o
-#EXTINF:-1 group-title="TTTT",Forces TV
-http://194.76.186.38:7002/play/a07b
-#EXTINF:-1 group-title="TTTT",GEO News
-http://194.76.186.38:7002/play/a01c
-#EXTINF:-1 group-title="TTTT",GEO TV
-http://194.76.186.38:7002/play/a06v
-#EXTINF:-1 group-title="TTTT",GOD Channel
-http://194.76.186.38:7002/play/a06k
-#EXTINF:-1 group-title="TTTT",GOLD
-http://194.76.186.38:7002/play/a07e
-#EXTINF:-1 group-title="TTTT",Gems TV
-http://194.76.186.38:7002/play/a01d
-#EXTINF:-1 group-title="TTTT",Gold
-http://194.76.186.38:7002/play/a05m
-#EXTINF:-1 group-title="TTTT",Good News TV
-http://194.76.186.38:7002/play/a05s
-#EXTINF:-1 group-title="TTTT",HGTV
-http://194.76.186.38:7002/play/a039
-#EXTINF:-1 group-title="TTTT",Heart 90s
-http://194.76.186.38:7002/play/a069
-#EXTINF:-1 group-title="TTTT",Heart Dance
-http://194.76.186.38:7002/play/a063
-#EXTINF:-1 group-title="TTTT",Hi-Impact TV
-http://194.76.186.38:7002/play/a058
-#EXTINF:-1 group-title="TTTT",Hidayat TV
-http://194.76.186.38:7002/play/a04h
-#EXTINF:-1 group-title="TTTT",High Street TV 1
-http://194.76.186.38:7002/play/a06t
-#EXTINF:-1 group-title="TTTT",High Street TV 2
-http://194.76.186.38:7002/play/a05r
-#EXTINF:-1 group-title="TTTT",High Street TV 3
-http://194.76.186.38:7002/play/a01k
-#EXTINF:-1 group-title="TTTT",High Street TV 4
-http://194.76.186.38:7002/play/a05t
-#EXTINF:-1 group-title="TTTT",High Street TV 5
-http://194.76.186.38:7002/play/a06h
-#EXTINF:-1 group-title="TTTT",Hillsong
-http://194.76.186.38:7002/play/a015
-#EXTINF:-1 group-title="TTTT",Hits Radio
-http://194.76.186.38:7002/play/a064
-#EXTINF:-1 group-title="TTTT",Hochanda
-http://194.76.186.38:7002/play/a05i
-#EXTINF:-1 group-title="TTTT",Home & Health
-http://194.76.186.38:7002/play/a00l
-#EXTINF:-1 group-title="TTTT",ID
-http://194.76.186.38:7002/play/a00h
-#EXTINF:-1 group-title="TTTT",IQRA BANGLA
-http://194.76.186.38:7002/play/a01s
-#EXTINF:-1 group-title="TTTT",IQRA TV
-http://194.76.186.38:7002/play/a01t
-#EXTINF:-1 group-title="TTTT",Inspiration TV
-http://194.76.186.38:7002/play/a018
-#EXTINF:-1 group-title="TTTT",Islam Ch Urdu
-http://194.76.186.38:7002/play/a02p
-#EXTINF:-1 group-title="TTTT",Islam Channel
-http://194.76.186.38:7002/play/a01e
-#EXTINF:-1 group-title="TTTT",Islam TV
-http://194.76.186.38:7002/play/a01r
-#EXTINF:-1 group-title="TTTT",JML Direct
-http://194.76.186.38:7002/play/a06q
-#EXTINF:-1 group-title="TTTT",Jazz FM
-http://194.76.186.38:7002/play/a067
-#EXTINF:-1 group-title="TTTT",JewelleryMaker
-http://194.76.186.38:7002/play/a00y
-#EXTINF:-1 group-title="TTTT",KICC TV
-http://194.76.186.38:7002/play/a050
-#EXTINF:-1 group-title="TTTT",KTV
-http://194.76.186.38:7002/play/a04f
-#EXTINF:-1 group-title="TTTT",Khushkhabri
-http://194.76.186.38:7002/play/a05n
-#EXTINF:-1 group-title="TTTT",LBC News
-http://194.76.186.38:7002/play/a061
-#EXTINF:-1 group-title="TTTT",Leeds TV
-http://194.76.186.38:7002/play/a05c
-#EXTINF:-1 group-title="TTTT",Live 360
-http://194.76.186.38:7002/play/a06d
-#EXTINF:-1 group-title="TTTT",Liverpool TV
-http://194.76.186.38:7002/play/a054
-#EXTINF:-1 group-title="TTTT",London Live
-http://194.76.186.38:7002/play/a04o
-#EXTINF:-1 group-title="TTTT",MATV National
-http://194.76.186.38:7002/play/a01p
-#EXTINF:-1 group-title="TTTT",MTV HITS
-http://194.76.186.38:7002/play/a029
-#EXTINF:-1 group-title="TTTT",MTV MUSIC
-http://194.76.186.38:7002/play/a02a
-#EXTINF:-1 group-title="TTTT",Madani Chnl
-http://194.76.186.38:7002/play/a04j
-#EXTINF:-1 group-title="TTTT",NDTV 24x7
-http://194.76.186.38:7002/play/a05y
-#EXTINF:-1 group-title="TTTT",NOW 80s
-http://194.76.186.38:7002/play/a05x
-#EXTINF:-1 group-title="TTTT",NOW XMAS
-http://194.76.186.38:7002/play/a00x
-#EXTINF:-1 group-title="TTTT",New Vision TV
-http://194.76.186.38:7002/play/a01q
-#EXTINF:-1 group-title="TTTT",Newstalk
-http://194.76.186.38:7002/play/a02e
-#EXTINF:-1 group-title="TTTT",Nick Jr.
-http://194.76.186.38:7002/play/a024
-#EXTINF:-1 group-title="TTTT",NickJrPAWPatrol
-http://194.76.186.38:7002/play/a00f
-#EXTINF:-1 group-title="TTTT",Nickelodeon
-http://194.76.186.38:7002/play/a02g
-#EXTINF:-1 group-title="TTTT",Nicktoons
-http://194.76.186.38:7002/play/a01z
-#EXTINF:-1 group-title="TTTT",Noor TV
-http://194.76.186.38:7002/play/a05v
-#EXTINF:-1 group-title="TTTT",PBS America
-http://194.76.186.38:7002/play/a03c
-#EXTINF:-1 group-title="TTTT",PCNE Chinese
-http://194.76.186.38:7002/play/a02o
-#EXTINF:-1 group-title="TTTT",POP
-http://194.76.186.38:7002/play/a032
-#EXTINF:-1 group-title="TTTT",POP Max
-http://194.76.186.38:7002/play/a033
-#EXTINF:-1 group-title="TTTT",PTV Global
-http://194.76.186.38:7002/play/a06c
-#EXTINF:-1 group-title="TTTT",Paramount
-http://194.76.186.38:7002/play/a00e
-#EXTINF:-1 group-title="TTTT",Planet Rock
-http://194.76.186.38:7002/play/a05p
-#EXTINF:-1 group-title="TTTT",QUEST
-http://194.76.186.38:7002/play/a07v
-#EXTINF:-1 group-title="TTTT",Quest Red
-http://194.76.186.38:7002/play/a07w
-#EXTINF:-1 group-title="TTTT",ROK
-http://194.76.186.38:7002/play/a06s
-#EXTINF:-1 group-title="TTTT",RT
-http://194.76.186.38:7002/play/a06l
-#EXTINF:-1 group-title="TTTT",Radio X
-http://194.76.186.38:7002/play/a05k
-#EXTINF:-1 group-title="TTTT",Really
-http://194.76.186.38:7002/play/a03b
-#EXTINF:-1 group-title="TTTT",Really
-http://194.76.186.38:7002/play/a03a
-#EXTINF:-1 group-title="TTTT",Republic Bharat
-http://194.76.186.38:7002/play/a06p
-#EXTINF:-1 group-title="TTTT",S4C
-http://194.76.186.38:7002/play/a03t
-#EXTINF:-1 group-title="TTTT",SONY MAX 2
-http://194.76.186.38:7002/play/a06m
-#EXTINF:-1 group-title="TTTT",SONY SAB
-http://194.76.186.38:7002/play/a06i
-#EXTINF:-1 group-title="TTTT",SONY TV
-http://194.76.186.38:7002/play/a06f
-#EXTINF:-1 group-title="TTTT",Sangat
-http://194.76.186.38:7002/play/a04n
-#EXTINF:-1 group-title="TTTT",Sanskar
-http://194.76.186.38:7002/play/a01n
-#EXTINF:-1 group-title="TTTT",Scala Radio
-http://194.76.186.38:7002/play/a068
-#EXTINF:-1 group-title="TTTT",Showcase
-http://194.76.186.38:7002/play/a055
-#EXTINF:-1 group-title="TTTT",Sikh Channel
-http://194.76.186.38:7002/play/a013
-#EXTINF:-1 group-title="TTTT",Smithsonian
-http://194.76.186.38:7002/play/a02s
-#EXTINF:-1 group-title="TTTT",Smooth
-http://194.76.186.38:7002/play/a062
-#EXTINF:-1 group-title="TTTT",Sony Action
-http://194.76.186.38:7002/play/a02y
-#EXTINF:-1 group-title="TTTT",Sony Channel
-http://194.76.186.38:7002/play/a034
-#EXTINF:-1 group-title="TTTT",Sony Christmas
-http://194.76.186.38:7002/play/a030
-#EXTINF:-1 group-title="TTTT",Sony Movies
-http://194.76.186.38:7002/play/a02z
-#EXTINF:-1 group-title="TTTT",Spotlight TV
-http://194.76.186.38:7002/play/a012
-#EXTINF:-1 group-title="TTTT",Studio 66 3
-http://194.76.186.38:7002/play/a01i
-#EXTINF:-1 group-title="TTTT",TBN UK
-http://194.76.186.38:7002/play/a02r
-#EXTINF:-1 group-title="TTTT",TCM Movies
-http://194.76.186.38:7002/play/a02j
-#EXTINF:-1 group-title="TTTT",TJC
-http://194.76.186.38:7002/play/a05q
-#EXTINF:-1 group-title="TTTT",TLC
-http://194.76.186.38:7002/play/a07x
-#EXTINF:-1 group-title="TTTT",TLC HD
-http://194.76.186.38:7002/play/a03f
-#EXTINF:-1 group-title="TTTT",TRT World
-http://194.76.186.38:7002/play/a04d
-#EXTINF:-1 group-title="TTTT",TV Warehouse
-http://194.76.186.38:7002/play/a06u
-#EXTINF:-1 group-title="TTTT",TVC News
-http://194.76.186.38:7002/play/a04q
-#EXTINF:-1 group-title="TTTT",TWR
-http://194.76.186.38:7002/play/a066
-#EXTINF:-1 group-title="TTTT",TalkingPictures
-http://194.76.186.38:7002/play/a04y
-#EXTINF:-1 group-title="TTTT",Thane
-http://194.76.186.38:7002/play/a01g
-#EXTINF:-1 group-title="TTTT",Tiny Pop
-http://194.76.186.38:7002/play/a031
-#EXTINF:-1 group-title="TTTT",Together
-http://194.76.186.38:7002/play/a079
-#EXTINF:-1 group-title="TTTT",Trace Vault
-http://194.76.186.38:7002/play/a038
-#EXTINF:-1 group-title="TTTT",Trace Xmas
-http://194.76.186.38:7002/play/a03l
-#EXTINF:-1 group-title="TTTT",Travelxp
-http://194.76.186.38:7002/play/a06n
-#EXTINF:-1 group-title="TTTT",Tyne & Wear TV
-http://194.76.186.38:7002/play/a05d
-#EXTINF:-1 group-title="TTTT",UCB Ireland
-http://194.76.186.38:7002/play/a060
-#EXTINF:-1 group-title="TTTT",Venus TV
-http://194.76.186.38:7002/play/a04g
-#EXTINF:-1 group-title="TTTT",Virgin Radio
-http://194.76.186.38:7002/play/a065
-#EXTINF:-1 group-title="TTTT",Vox Africa
-http://194.76.186.38:7002/play/a04k
-#EXTINF:-1 group-title="TTTT",W
-http://194.76.186.38:7002/play/a017
-#EXTINF:-1 group-title="TTTT",W
-http://194.76.186.38:7002/play/a07h
-#EXTINF:-1 group-title="TTTT",WRN Europe
-http://194.76.186.38:7002/play/a05e
-#EXTINF:-1 group-title="TTTT",Word Network
-http://194.76.186.38:7002/play/a052
-#EXTINF:-1 group-title="TTTT",Xpanded TV
-http://194.76.186.38:7002/play/a051
-#EXTINF:-1 group-title="TTTT",Xpanded TV2
-http://194.76.186.38:7002/play/a04x
-#EXTINF:-1 group-title="TTTT",YANGA!
-http://194.76.186.38:7002/play/a05u
-#EXTINF:-1 group-title="TTTT",YESTERDAY
-http://194.76.186.38:7002/play/a07f
-#EXTINF:-1 group-title="TTTT",Zee TV
-http://194.76.186.38:7002/play/a02n
-#EXTINF:-1 group-title="TTTT",horror channel
-http://194.76.186.38:7002/play/a03j
-#EXTINF:-1 group-title="TTTT",iON TV
-http://194.76.186.38:7002/play/a057
-#EXTINF:-1 group-title="TTTT",mta-muslim tv
-http://194.76.186.38:7002/play/a02q
-#EXTINF:-1 group-title="TTTT",mytv
-http://194.76.186.38:7002/play/a05z
-#EXTINF:-1 group-title="TTTT",revelation
-http://194.76.186.38:7002/play/a02t
-#EXTINF:0 tvg-id="ext" group-title="TTTT",USEESPORT 1s
-https://vcdnjt.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
