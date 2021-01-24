@@ -947,12 +947,22 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 
 #EXTINF:-1 group-title="Knowledge & Infotainment", Z Living USA
 
+#EXTINF:-1,group-title="Agama"  Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
+#EXTINF:-1,group-title="Agama" Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+#EXTINF:-1,group-title="Agama" Muadz TV
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
+#EXTINF:-1,group-title="Agama" Ashiil TV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+#EXTINF:-1,group-title="Agama" Salam TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+#EXTINF:-1,group-title="Agama" NAURA
+http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71023.m3u8.ts
+#EXTINF:-1, group-title="Agama" ASTRO OASIS
+http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71021.m3u8.ts
 
 
-
-#EXTINF:-1, group-title="Agama", Makkah TV
-
-#EXTINF:-1, group-title="Agama", Madinah TV 
 
 #EXTINF:-1, group-title="Sukan", Astro Supersport
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
