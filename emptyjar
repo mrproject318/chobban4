@@ -256,74 +256,135 @@ http://203.162.235.41:16907
 #EXTINF:-1, group-title="Korea", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,group-title="China",CCTV-1综合
+http://39.135.34.132:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-2财经
+http://39.135.34.132:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-3综艺
+http://39.135.34.132:8080/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-4中文国际
+http://39.135.34.132:8080/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-5体育
+http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-6电影
+http://39.135.34.132:8080/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-7国防军事
+http://39.135.34.132:8080/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-8电视剧
+http://39.135.34.132:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-9纪录
+http://39.135.34.132:8080/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-10科教 - OFFLINE
+http://39.135.34.132:8080/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-10科教[移动]
+http://112.17.40.145:80/PLTV/88888888/224/3221226472/1.m3u8
+#EXTINF:-1,group-title="China",CCTV-11戏曲
+http://39.135.34.132:8080/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-12社会与法
+http://39.135.34.132:8080/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-13新闻
+http://39.135.34.132:8080/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-14少儿
+http://39.135.34.132:8080/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-15音乐 - OFFLINE
+http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV-17农业农村 - OFFLINE
+http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="China",CCTV 4K[移动] - OFFLINE
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+
+#EXTINF:-1,group-title="India", Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+#EXTINF:-1,group-title="India", Aajtak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1,group-title="India", ABP News
+https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
+#EXTINF:-1,group-title="India", Zee News
+https://zmcl-live.akamaized.net/zeenewsclean_mbr/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="India", News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1,group-title="India", Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,group-title="India", DD News
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,group-title="India", Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
+#EXTINF:-1,group-title="India", India today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1,group-title="India", CNN News 18
+https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+#EXTINF:-1,group-title="India", Colors HD
+http://182.176.93.225:8000/play/a00c
+#EXTINF:-1,group-title="India",TV9 Marathi
+http://vidnetcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
+#EXTINF:-1,group-title="India",News 18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1,group-title="India", And Pictures HD
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1,group-title="India", Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1,group-title="India", Bollywood TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,group-title="India", Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:-1,group-title="India", B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1,group-title="India", Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,group-title="India", BFlix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1,group-title="India",Discovery Hindi
+http://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8?@IPTVSolution
+#EXTINF:-1,group-title="India", History TV18 HD Hindi
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/36b54c70a610354.m3u8
+#EXTINF:-1,group-title="India", ANIMAL PLANET Hindi
+http://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+#EXTINF:-1,group-title="India", Sony BBC Earth HD
+http://182.176.93.225:8000/play/a02j
+#EXTINF:-1,group-title="India", 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,group-title="India", Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1,group-title="India", Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1,group-title="India",HBO Hits
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
+#EXTINF:-1,group-title="India", Star Movies HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
+#EXTINF:-1,group-title="India",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1, group-title="Picked Multination TV", Comedy Central
-https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
+#EXTINF:-1,group-title="Variety Package",Fuji TV
+http://203.162.235.41:16904
+#EXTINF:-1,group-title="Variety Package", Nippon TV
+http://203.162.235.41:16905
+#EXTINF:-1,group-title="Variety Package",THAI PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1,group-title="Variety Package",AMC
+http://185.128.240.12:8098/amc
+#EXTINF:-1,group-title="Variety Package",Diva
+http://185.128.240.12:8098/diva
+#EXTINF:-1,group-title="Variety Package",Film Cafe
+http://185.128.240.12:8098/filmcafe
+#EXTINF:-1,group-title="Variety Package",ARCADIA WORLD
+http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
+#EXTINF:-1,group-title="Variety Package",CBS Reality
+http://188.24.35.175:8000/play/a01t/index.m3u8
+#EXTINF:-1,group-title="Variety Package",Fishing & Hunting
+http://185.128.240.12:8990/fh
 
 
-
-
-#EXTINF:-1  group-title="Kids", Jimjam
-#EXTINF:-1  group-title="Kids", Jimjam
-#EXTINF:-1  group-title="Kids", Jimjam
-#EXTINF:-1  group-title="Kids", Jimjam
-#EXTINF:-1  group-title="Kids", Jimjam
-
-#EXTINF:-1  group-title="Kids", 3ABN Kidz
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1  group-title="Kids", Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
-#EXTINF:-1  group-title="Kids", Animax
-https://delivery.macan.live/stream/id_animax/index.m3u8?token=gratisan
-#EXTINF:-1  group-title="Kids", Baby First
-
-#EXTINF:-1  group-title="Kids", Boing
-
-#EXTINF:-1  group-title="Kids", Boomerang
-
-#EXTINF:-1  group-title="Kids", Cartoon Network Arabic
-
-#EXTINF:-1  group-title="Kids", Cbeebies
-
-#EXTINF:-1  group-title="Kids" tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png", Discovery Kids Hindi
-
-#EXTINF:-1  group-title="Kids", Disney Channel
-
-#EXTINF:-1  group-title="Kids", Duck TV
-8
-#EXTINF:-1  group-title="Kids", Fan TV
-
-#EXTINF:-1  group-title="Kids", Gem Kidz
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:-1  group-title="Kids", Hodhod
-http://51.158.184.234/hls/stream.m3u8
-#EXTINF:-1  group-title="Kids", Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1  group-title="Kids", Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Kids", KWTV Kids
-https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
-#EXTINF:-1  group-title="Kids", Lale
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1  group-title="Kids", Max Pop
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
-#EXTINF:-1  group-title="Kids", Miaomi TV
-
-#EXTINF:-1  group-title="Kids", Nickelodeon
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1  group-title="Kids", Nick Jr.
-
-#EXTINF:-1  group-title="Kids", Sat7Kids
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-#EXTINF:-1  group-title="Kids", Spacetoon Arabic
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1  group-title="Kids", Taha TV
-
-#EXTINF:-1  group-title="Kids", Toonie
-
-
+#EXTINF:-1,group-title="Kidz", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1,group-title="Kidz",CBeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1,group-title="Kidz",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1,group-title="Kidz",Astro Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1,group-title="Kidz",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 
 
 #EXTINF:-1 group-title="Movie Channel", &FlixHD
@@ -338,8 +399,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", AMC
 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN 
-
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN Mexico
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 #EXTINF:-1 group-title="Movie Channel", B4U Kadak
 
 #EXTINF:-1 group-title="Movie Channel", B4U Movies
@@ -428,8 +489,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_movies_premium.png", Fox Movies Premium
 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FX
-
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FXM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
 #EXTINF:-1, group-title="Movie Channel", Galaxy Premium
 
 #EXTINF:-1, group-title="Movie Channel", Gemini Movies
@@ -464,20 +525,19 @@ https://live1.presstv.com/live/ifilmen.m3u8
 #EXTINF:-1 group-title="Movie Channel", Kix
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8  
 #EXTINF:-1 group-title="Movie Channel", Lotus Macau
-
+http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Maha Movie
 
 #EXTINF:-1 group-title="Movie Channel", Makkal
 
 #EXTINF:-1 group-title="Movie Channel", Manorajan TV
 
-#EXTINF:-1 group-title="Movie Channel", MBC 1 HD
+#EXTINF:-1 group-title="Movie Channel", MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-
+#EXTINF:-1 group-title="Movie Channel", MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 #EXTINF:-1 group-title="Movie Channel", MBC 2 HD
-
-#EXTINF:-1 group-title="Movie Channel", MBC 3 HD
-
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 group-title="Movie Channel", MBC 4 HD
 
 #EXTINF:-1 group-title="Movie Channel", MBC 5 HD
@@ -493,7 +553,7 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", Movie Max
 	
-#EXTINF:-1 group-title="Movie Channel", Movies Now
+#EXTINF:-1 group-title="Movie Channel", Movies Now (OFFLINE)
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", MovieMix
 
@@ -513,7 +573,7 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", Raj TV
 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/red_hbo.png", Red By HBO
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/red_hbo.png", Red By HBO - OFFLINE
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Reel PX Comedy
 
@@ -521,7 +581,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", Reel PX Vintage
 
-#EXTINF:-1 group-title="Movie Channel", Romedy Now
+#EXTINF:-1 group-title="Movie Channel", Romedy Now - OFFLINE
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8  
 #EXTINF:-1 group-title="Movie Channel", Runtime
 
@@ -570,7 +630,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", Starz
 
 #EXTINF:-1 group-title="Movie Channel", Syfy
-
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
 #EXTINF:-1 group-title="Movie Channel", TCM
 
 #EXTINF:-1 group-title="Movie Channel", Tamil TV
@@ -626,9 +686,11 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/str
 https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 group-title="News", Berita RTM Malaysia
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1,  group-title="News", Berita Satu Indonesia
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="News", Bernama News Channel Malaysia
 
-#EXTINF:-1 group-title="News", Bloomberg
+#EXTINF:-1 group-title="News", Bloomberg USA
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="News", CBN News USA
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
@@ -663,7 +725,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 group-title="News", i24 News Israel
 
 #EXTINF:-1 group-title="News", Jakarta Globe News Indonesia
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
 #EXTINF:-1 group-title="News", Kompas TV Indonesia
 
 #EXTINF:-1 group-title="News", LSTV India Parliament
@@ -740,9 +802,34 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71023.m3u8.ts
 #EXTINF:-1, group-title="Agama", ASTRO OASIS
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71021.m3u8.ts
-
+#EXTINF:-1,group-title="Agama", Iqraa TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 
 
 #EXTINF:-1, group-title="Sukan", Astro Supersport
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1, group-title="Sukan",Sony Six
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2758
+#EXTINF:-1, group-title="Sukan",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby
+#EXTINF:-1, group-title="Sukan",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby
+#EXTINF:-1, group-title="Sukan",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby
+#EXTINF:-1, group-title="Sukan",Red Bull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby
+#EXTINF:-1, group-title="Sukan",ASTRO SUPERSPORTS 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1, group-title="Sukan",ASTRO SUPERSPORTS 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1, group-title="Sukan",ASTRO SUPERSPORTS 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1, group-title="Sukan",ASTRO SUPERSPORTS 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1, group-title="Sukan", PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1, group-title="Sukan", STAR SPORTS 1HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
+
+
 
