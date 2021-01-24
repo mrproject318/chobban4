@@ -692,260 +692,30 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
-#EXTINF:-1 group-title="Knowledge & Infotainment", 5 Minutes Craft
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Adult Swim
-
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/afc.png", AFC
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", AKC
+#EXTINF:-1, AKC group-title="Knowledge & Infotainment"
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Al Jazeera Documentary
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Amazing Discoveries TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", American Classic Network
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", America's Funniest Videos
-
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/animalplanet.png", Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png", Animal Planet Hindi
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Arabic Music
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Arirang
+#EXTINF:-1,Animal Planet (Offline) group-title="Knowledge & Infotainment",
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, Arirang group-title="Knowledge & Infotainment",
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Asian Food Channel
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Beach TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth 
+#EXTINF:-1,BBC Earth (Offline) group-title="Knowledge & Infotainment",
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", BBC Lifestyle
- 
-#EXTINF:-1 group-title="Knowledge & Infotainment", Best Of WWE
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Blaze TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/blue_ant_entertainment.png", Blue Ant Entertainment
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/blue_ant_extreme.png", Blue Ant Extreme
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Bull TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Buzzr TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", CCTV 4K
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", CCTV9
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", CGTN Documentary
+#EXTINF:-1, CGTN Documentary group-title="Knowledge & Infotainment",
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Cheddar
-
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/crime_investigation.png", Crime Investigation 
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Citizen Television
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Classic Arts
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", CMC
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Court TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Create & Craft
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Cruise 1st TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Dil Se
-
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoverychannel.png", Discovery Channel
-http://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8 
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/discoveryasia.png", Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Channel Brazil
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery History
-
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/si/DiscoveryScience.si.png", Discovery Science
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Discovery Turbo
-
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png", Discovery Channel India
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Docubox
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Docurama
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Duronto TV
- 
-#EXTINF:-1 group-title="Knowledge & Infotainment", E!
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Entertainment Now
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Express Entertainment
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Fail Army
+#EXTINF:-1,Discovery Channel (Offline) group-title="Knowledge & Infotainment",
+http://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
+#EXTINF:-1,Discovery Asia (Offline) group-title="Knowledge & Infotainment",
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, Fail Army group-title="Knowledge & Infotainment",
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Fashion TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Filmax
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", FilmBox Arthouse
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", FilmBox Plus
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Filmrise Crime
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Fitness TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Forensic Files
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life 1
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Fox Life 2
- 
-#EXTINF:-1 group-title="Knowledge & Infotainment", FYI HD
- 
-#EXTINF:-1 group-title="Knowledge & Infotainment", Gems TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Hallmark
- 
-#EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/hgtv.png", HGTV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", History
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", History TV 18 (1)
-
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", History 2
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", History Lab
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Home & Living
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Hum Masala
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Hunt Channel
-
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png", Investigation Discovery
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Info Wars TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Japanet
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Kadak Hits
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", KBS World
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Law & Crime 
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", tvg-logo="https://macan.live/img/lifetime.png", Lifetime
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", LivingFoodz
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Love Nature
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Love World USA
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Macau Lotus
- 
-#EXTINF:-1 group-title="Knowledge & Infotainment", Made In Hollywood TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", MBC Action
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", MTV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", MTV Brasil
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", MTV Live
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Music Top 
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Nasa TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", National Geographic
+#EXTINF:-1,National Geographic (Offline) group-title="Knowledge & Infotainment",
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo People
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Nat Geo Wild
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", NewsMax
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Ocean TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Orange TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor Channel
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Outdoor America
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Parliament TV New Zealand
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", People TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", QVC Extra
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", RadioM20
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Real People
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Retro Music TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", RT Documentary
+#EXTINF:-1, RT Documentary group-title="Knowledge & Infotainment",
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", Safe TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", SBS Plus
+#EXTINF:-1, SBS Plus group-title="Knowledge & Infotainment",
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", SCM Legend
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Smithsonian
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Sony Gem
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Sony Mix
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Sony TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Star World
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Steelbird Music
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", The Action Channel
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", The Asylum TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", The Outdoor Cooking Channel
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", The Shopping Channel
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", The Xcorps TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", This Is Bulgaria
-
-#EXTINF:-1 group-title="Knowledge & Infotainment" tvg-logo="https://macan.live/img/tlc.png", TLC
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Tourism Travel
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", TV66 Israel
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", TvN
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Tv Edukasi
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", UN TV
+#EXTINF:-1, UN TV group-title="Knowledge & Infotainment",
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
-#EXTINF:-1 group-title="Knowledge & Infotainment", US House Channel
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Viasat History
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Warner TV
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", WWE
-
-#EXTINF:-1 group-title="Knowledge & Infotainment", Z Living USA
 
 #EXTINF:-1,group-title="Agama"  Surau TV
 http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
