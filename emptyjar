@@ -799,37 +799,37 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
-#EXTINF:-1,group-title="Knowlegde & Infotainment",  AKC
+#EXTINF:-1,group-title="Knowledge & Infotainment",  AKC
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1,group-title="Knowlegde & Infotainment",Animal Planet (Offline)
+#EXTINF:-1,group-title="Knowledge & Infotainment",Animal Planet (Offline)
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, group-title="Knowlegde & Infotainment",Arirang
+#EXTINF:-1, group-title="Knowledge & Infotainment",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,group-title="Knowlegde & Infotainment",BBC Earth (Offline)
+#EXTINF:-1,group-title="Knowledge & Infotainment",BBC Earth (Offline)
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,group-title="Knowlegde & Infotainment",Crime & Investigation
+#EXTINF:-1,group-title="Knowledge & Infotainment",Crime & Investigation
 http://203.154.243.31:15001
-#EXTINF:-1, group-title="Knowlegde & Infotainment",CGTN Documentary"
+#EXTINF:-1, group-title="Knowledge & Infotainment",CGTN Documentary"
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1,group-title="Knowlegde & Infotainment",Discovery Channel (Offline)
+#EXTINF:-1,group-title="Knowledge & Infotainment",Discovery Channel (Offline)
 http://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
-#EXTINF:-1,group-title="Knowlegde & Infotainment",Discovery Asia (Offline)
+#EXTINF:-1,group-title="Knowledge & Infotainment",Discovery Asia (Offline)
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, group-title="Knowlegde & Infotainment",Fail Army
+#EXTINF:-1, group-title="Knowledge & Infotainment",Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1,group-title="Knowlegde & Infotainment",HGTV
+#EXTINF:-1,group-title="Knowledge & Infotainment",HGTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
-#EXTINF:-1,group-title="Knowlegde & Infotainment",History
+#EXTINF:-1,group-title="Knowledge & Infotainment",History
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
-#EXTINF:-1,group-title="Knowlegde & Infotainment",National Geographic (Offline)
+#EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic (Offline)
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, group-title="Knowlegde & Infotainment",RT Documentary
+#EXTINF:-1, group-title="Knowledge & Infotainment",RT Documentary
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1,group-title="Knowlegde & Infotainment", SBS Plus
+#EXTINF:-1,group-title="Knowledge & Infotainment", SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1,group-title="Knowlegde & Infotainment",Travel HD
+#EXTINF:-1,group-title="Knowledge & Infotainment",Travel HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
-#EXTINF:-1,group-title="Knowlegde & Infotainment", UN TV
+#EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 
 
