@@ -35,9 +35,9 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 #EXTINF:-1, group-title="Malaysia", TV Selangor
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png", Bernama TV
-
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro AEC
-http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro Boo
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ceria.png", Astro Ceria
@@ -102,7 +102,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 #EXTINF:-1, group-title="Indonesia", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b192000_sleng.m3u8  
 #EXTINF:-1, group-title="Indonesia", CNN Indonesia
-
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Disney Jr Indonesia
 
 #EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV
@@ -112,12 +112,11 @@ http://93.190.139.34:8278/streams/d/GlobalTV_eko/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Indosiar
 http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8 
 #EXTINF:-1, group-title="Indonesia", iNews
-
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:-1, group-title="Indonesia", Jakarta Globe News
-
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
 #EXTINF:-1, group-title="Indonesia", Kompas TV
 http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8 
-
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
@@ -133,7 +132,7 @@ http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", SCTV
 http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Sinema Indonesia
-
+http://wz.insantv.net/monitor/ch106.m3u8
 #EXTINF:-1, group-title="Indonesia", TRANS TV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
 #EXTINF:-1, group-title="Indonesia", TRANS 7
@@ -143,7 +142,13 @@ http://93.190.139.34:8278/streams/d/TVRI/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", TV One
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", TVKU
-
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1, group-title="Indonesia", Drakor
+http://wz.insantv.net/monitor/ch105.m3u8
+#EXTINF:-1, group-title="Indonesia", Drakor Plus
+http://wz.insantv.net/monitor/ch107.m3u8
+#EXTINF:-1, group-title="Indonesia", Sinema Indonesia X
+http://wz.insantv.net/monitor/ch106.m3u8
 
 
 #EXTINF:-1, group-title="Brunei Darussalam", RTB Sukmaindera
@@ -427,10 +432,13 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", 2M Monde
 
 #EXTINF:-1 group-title="Movie Channel", American Horrors
-
+http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 group-title="Movie Channel", IFC
+
 #EXTINF:-1 group-title="Movie Channel", Sundance TV
+
 #EXTINF:-1 group-title="Movie Channel", Horror Channel
+
 #EXTINF:-1 group-title="Movie Channel", Aruj TV
 
 #EXTINF:-1 group-title="Movie Channel", Aflam TV
@@ -491,8 +499,7 @@ https://load.airtelxstream.in/colorsinfinity/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax (2)
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax By HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
+http://136.243.177.164/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Cinema World
 
 #EXTINF:-1 group-title="Movie Channel", Citra Bioskop
@@ -522,8 +529,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Flim World
 
 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox 
-
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox HD
+http://136.243.177.164/FOX/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
@@ -543,11 +550,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1, group-title="Movie Channel", Gem
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_family.png", HBO 2
+http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO 3
+http://136.243.177.164/HBO3/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Zone
@@ -831,7 +838,12 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
 #EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment", HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
+#EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
 
+#EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
 
 #EXTINF:-1,group-title="Agama",Surau TV
 http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
