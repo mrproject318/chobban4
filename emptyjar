@@ -152,28 +152,24 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8
 
 
-#EXTINF:-1, group-title="Philipines", TV5/ESPN 5
 
-#EXTINF:-1, group-title="Philipines", TV5 PLUS
 
-#EXTINF:-1, group-title="Philipines", CNN PHILIPPINES
+#EXTINF:-1, group-title="Philipines", ABS-CBN
+
+#EXTINF:-1, group-title="Philipines", TV5
+
+#EXTINF:-1, group-title="Philipines", CNN Philipines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1, group-title="Philipines", GMA Pinoy
+#EXTINF:-1, group-title="Philipines", GMA Network
 
-#EXTINF:-1, group-title="Philipines", SHOP TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
-#EXTINF:-1, group-title="Philipines", LIFE TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/chunklist_w1653262029.m3u8
-#EXTINF:-1, group-title="Philipines", POP LIFE
-
-#EXTINF:-1, group-title="Philipines", PILIPINAS HD
-https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
-#EXTINF:-1, group-title="Philipines", INQUIRER TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
-#EXTINF:-1, group-title="Philipines", UNTV
-https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8
 #EXTINF:-1, group-title="Philipines", Beam TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
+#EXTINF:-1, group-title="Philipines", Life TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/chunklist_w1653262029.m3u8
+#EXTINF:-1, group-title="Philipines", People's Television
+
+#EXTINF:-1, group-title="Philipines", UNTV
+
 #EXTINF:-1, group-title="Philipines", Telenovela Channel
 
 
@@ -183,31 +179,25 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m
 https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1, group-title="Korea", KBS World
 
-#EXTINF:-1, group-title="Korea", NHK
+#EXTINF:-1, group-title="Korea", CGN TV
 
-#EXTINF:-1, group-title="Korea", NHK Education TV
-http://203.162.235.41:16901
-#EXTINF:-1, group-title="Korea", NHK BS
-http://203.162.235.41:16910
-#EXTINF:-1, group-title="Korea", NHK World Premium
+#EXTINF:-1, group-title="Korea", YTN World
 
-#EXTINF:-1, group-title="Korea", MBS On
-http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
+#EXTINF:-1, group-title="Korea", KBS World 24
+
 #EXTINF:-1, group-title="Korea", SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+
 #EXTINF:-1, group-title="Korea", SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+
 #EXTINF:-1, group-title="Korea", SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+
 #EXTINF:-1, group-title="Korea", SBS Sports
 
 #EXTINF:-1, group-title="Korea", UBC
 http://59.25.202.81:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1, group-title="Korea", TJB
+#EXTINF:-1, group-title="Korea", TJB SBS
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1, group-title="Korea", JTBC
-
-#EXTINF:-1, group-title="Korea", JTBC 3
+#EXTINF:-1, group-title="Korea", Korea TV
 
 #EXTINF:-1, group-title="Korea", EBS+ 2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
@@ -217,14 +207,12 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1, group-title="Korea", TV Chosun
 
-#EXTINF:-1, group-title="Korea", Hally Pop
-https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
 #EXTINF:-1, group-title="Korea", K Plus
 http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1, group-title="Korea", MTN
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 #EXTINF:-1, group-title="Korea", Sony Set One
-http://210.210.155.66/h/h143/01.m3u8
+
 #EXTINF:-1, group-title="Korea", TvN
 
 #EXTINF:-1, group-title="Korea", YTN
@@ -233,12 +221,29 @@ http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 #EXTINF:-1, group-title="Korea", YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1, group-title="Korea", YTN Korean
-http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-#EXTINF:-1, group-title="Korea", TBS
-http://203.162.235.41:16907
 #EXTINF:-1, group-title="Korea", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+
+
+#EXTINF:-1, group-title="Japan", NHK World Premium
+http://203.162.235.41:16901
+#EXTINF:-1, group-title="Japan", NHK BSP
+http://203.162.235.41:16910
+#EXTINF:-1, group-title="Japan", TBS
+http://203.162.235.41:16907
+#EXTINF:-1, group-title="Japan", TV Asahi
+#EXTINF:-1, group-title="Japan", Fuji TV
+
+#EXTINF:-1, group-title="Japan", Nippon TV
+
+#EXTINF:-1, group-title="Japan", TV Tokyo
+
+#EXTINF:-1, group-title="Japan", TBS
+
+
+
+
 
 #EXTINF:-1,group-title="China",CCTV-1综合
 http://39.135.34.132:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive
@@ -276,6 +281,8 @@ http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=yst
 http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,group-title="China",CCTV 4K[移动] - OFFLINE
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+
+
 
 #EXTINF:-1,group-title="India", Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
@@ -337,6 +344,38 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 #EXTINF:-1,group-title="India",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,group-title="India", B4U Aflam
+
+#EXTINF:-1,group-title="India", Zee Cinema
+
+#EXTINF:-1,group-title="India", Star Gold
+
+#EXTINF:-1,group-title="India", Star Vijay
+
+#EXTINF:-1,group-title="India", Jaya TV
+
+#EXTINF:-1,group-title="India", Jaya Plus
+
+#EXTINF:-1,group-title="India", Jaya Max
+
+#EXTINF:-1,group-title="India", Star UStav
+
+#EXTINF:-1,group-title="India", Kalaingar TV
+
+#EXTINF:-1,group-title="India", Sun Tv
+
+#EXTINF:-1,group-title="India", Star Plus
+
+#EXTINF:-1,group-title="India", Star Maa
+
+#EXTINF:-1,group-title="India", Zee Anmol
+
+#EXTINF:-1,group-title="India", Sony Pal
+
+#EXTINF:-1,group-title="India", Zee TV
+
+#EXTINF:-1,group-title="India", Sony SAB
+
 
 
 #EXTINF:-1,group-title="Variety Package",Fuji TV
@@ -359,6 +398,7 @@ http://188.24.35.175:8000/play/a01t/index.m3u8
 http://185.128.240.12:8990/fh
 
 
+
 #EXTINF:-1,group-title="Kidz", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1,group-title="Kidz",CBeebies
@@ -371,6 +411,7 @@ http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 
 
+
 #EXTINF:-1 group-title="Movie Channel", &FlixHD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", &PriveHD
@@ -381,7 +422,21 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", American Horrors
 
+#EXTINF:-1 group-title="Movie Channel", IFC
+#EXTINF:-1 group-title="Movie Channel", Sundance TV
+#EXTINF:-1 group-title="Movie Channel", Horror Channel
+#EXTINF:-1 group-title="Movie Channel", Aruj TV
+
+#EXTINF:-1 group-title="Movie Channel", Aflam TV
+
+#EXTINF:-1 group-title="Movie Channel", 
 #EXTINF:-1 group-title="Movie Channel", AMC
+#EXTINF:-1 group-title="Movie Channel", AMC
+#EXTINF:-1 group-title="Movie Channel", AMC
+
+#EXTINF:-1 group-title="Movie Channel", AMC
+
+
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN Mexico
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
