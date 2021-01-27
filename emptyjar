@@ -233,6 +233,7 @@ http://203.162.235.41:16910
 #EXTINF:-1, group-title="Japan", TBS
 http://203.162.235.41:16907
 #EXTINF:-1, group-title="Japan", TV Asahi
+
 #EXTINF:-1, group-title="Japan", Fuji TV
 
 #EXTINF:-1, group-title="Japan", Nippon TV
@@ -245,41 +246,39 @@ http://203.162.235.41:16907
 
 
 
-#EXTINF:-1,group-title="China",CCTV-1综合
+#EXTINF:-1,group-title="China",CCTV 1
 http://39.135.34.132:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-2财经
+#EXTINF:-1,group-title="China",CCTV 2
 http://39.135.34.132:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-3综艺
+#EXTINF:-1,group-title="China",CCTV 3
 http://39.135.34.132:8080/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-4中文国际
+#EXTINF:-1,group-title="China",CCTV-4
 http://39.135.34.132:8080/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-5体育
+#EXTINF:-1,group-title="China",CCTV 5
 http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-6电影
+#EXTINF:-1,group-title="China",CCTV 6
 http://39.135.34.132:8080/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-7国防军事
+#EXTINF:-1,group-title="China",CCTV 7
 http://39.135.34.132:8080/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-8电视剧
+#EXTINF:-1,group-title="China",CCTV 8
 http://39.135.34.132:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-9纪录
+#EXTINF:-1,group-title="China",CCTV 9
 http://39.135.34.132:8080/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-10科教 - OFFLINE
+#EXTINF:-1,group-title="China",CCTV 10 - OFFLINE
 http://39.135.34.132:8080/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-10科教[移动]
-http://112.17.40.145:80/PLTV/88888888/224/3221226472/1.m3u8
-#EXTINF:-1,group-title="China",CCTV-11戏曲
+#EXTINF:-1,group-title="China",CCTV 11
 http://39.135.34.132:8080/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-12社会与法
+#EXTINF:-1,group-title="China",CCTV 12
 http://39.135.34.132:8080/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-13新闻
+#EXTINF:-1,group-title="China",CCTV 13
 http://39.135.34.132:8080/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-14少儿
+#EXTINF:-1,group-title="China",CCTV 14
 http://39.135.34.132:8080/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-15音乐 - OFFLINE
+#EXTINF:-1,group-title="China",CCTV 15 - OFFLINE
 http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV-17农业农村 - OFFLINE
+#EXTINF:-1,group-title="China",CCTV 17 - OFFLINE
 http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV 4K[移动] - OFFLINE
+#EXTINF:-1,group-title="China",CCTV 4K - OFFLINE
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 
 
@@ -376,6 +375,13 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,group-title="India", Sony SAB
 
+#EXTINF:-1,group-title="USA", 
+
+#EXTINF:-1,group-title="United Kingdom",
+
+#EXTINF:-1,group-title="Arabic", 
+
+
 
 
 #EXTINF:-1,group-title="Variety Package",Fuji TV
@@ -390,7 +396,7 @@ http://185.128.240.12:8098/amc
 http://185.128.240.12:8098/diva
 #EXTINF:-1,group-title="Variety Package",Film Cafe
 http://185.128.240.12:8098/filmcafe
-#EXTINF:-1,group-title="Variety Package",ARCADIA WORLD
+#EXTINF:-1,group-title="Variety Package",Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 #EXTINF:-1,group-title="Variety Package",CBS Reality
 http://188.24.35.175:8000/play/a01t/index.m3u8
@@ -429,12 +435,12 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", Aflam TV
 
+#EXTINF:-1 group-title="Movie Channel", AMC
 #EXTINF:-1 group-title="Movie Channel", 
-#EXTINF:-1 group-title="Movie Channel", AMC
-#EXTINF:-1 group-title="Movie Channel", AMC
-#EXTINF:-1 group-title="Movie Channel", AMC
+#EXTINF:-1 group-title="Movie Channel", 
+#EXTINF:-1 group-title="Movie Channel", 
 
-#EXTINF:-1 group-title="Movie Channel", AMC
+#EXTINF:-1 group-title="Movie Channel", 
 
 
 
