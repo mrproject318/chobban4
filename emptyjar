@@ -407,7 +407,10 @@ http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 http://188.24.35.175:8000/play/a01t/index.m3u8
 #EXTINF:-1,group-title="Variety Package",Fishing & Hunting
 http://185.128.240.12:8990/fh
-
+#EXTINF:-1,group-title="Variety Package", ANTV HD
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1,group-title="Variety Package",VTVCab4
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD.smil/chunklist_w1602351601_b2692000.m3u8
 
 
 #EXTINF:-1,group-title="Kidz", Biznet Kids
@@ -530,13 +533,13 @@ http://136.243.177.164/CINEMAX/index.m3u8
 
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox HD
-http://136.243.177.164/FOX/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies
- 
+
 #EXTINF:-1 group-title="Movie Channel", Fox Movies Vietnam
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_movies_premium.png", Fox Movies Premium
@@ -818,6 +821,8 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 http://203.154.243.31:15001
 #EXTINF:-1, group-title="Knowledge & Infotainment",CGTN Documentary"
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1, group-title="Knowledge & Infotainment", Channel V HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment",Discovery Channel (Offline)
 http://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment",Discovery Asia (Offline)
@@ -828,8 +833,8 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
 #EXTINF:-1,group-title="Knowledge & Infotainment",History
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
-#EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic (Offline)
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic Wild
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1, group-title="Knowledge & Infotainment",RT Documentary
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment", SBS Plus
