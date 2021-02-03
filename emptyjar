@@ -444,6 +444,90 @@ http://185.128.240.12:8990/fh
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1,group-title="Variety Package",VTVCab4
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD.smil/chunklist_w1602351601_b2692000.m3u8
+#EXTINF:-1,group-title="Variety Package",KAPAMILYA
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/11.m3u8
+#EXTINF:-1,group-title="Variety Package",PBO
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/12.m3u8
+#EXTINF:-1,group-title="Variety Package",VIVA
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/13.m3u8
+#EXTINF:-1,group-title="Variety Package",CINEMA ONE
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/14.m3u8
+#EXTINF:-1,group-title="Variety Package",CELESTIAL MOVIES PINOY
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/87.m3u8
+#EXTINF:-1,group-title="Variety Package",HBO HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/15.m3u8
+#EXTINF:-1,group-title="Variety Package",CINEMAX HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/16.m3u8
+#EXTINF:-1,group-title="Variety Package",FOX MOVIES HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/17.m3u8
+#EXTINF:-1,group-title="Variety Package",FOX ACTION MOVIES HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/18.m3u8
+#EXTINF:-1,group-title="Variety Package",FOX FAMILY MOVIES
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/19.m3u8
+#EXTINF:-1,group-title="Variety Package",RED BY HBO
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/20.m3u8
+#EXTINF:-1,group-title="Variety Package",WARNER TV
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/21.m3u8
+#EXTINF:-1,group-title="Variety Package",HITS MOVIES
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/22.m3u8
+#EXTINF:-1,group-title="Variety Package",DREAMWORKS
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/23.m3u8
+#EXTINF:-1,group-title="Variety Package",ANIMAX
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/24.m3u8
+#EXTINF:-1,group-title="Variety Package",DISNEY CHANNEL
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/25.m3u8
+#EXTINF:-1,group-title="Variety Package",DISNEY JR.
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/26.m3u8
+#EXTINF:-1,group-title="Variety Package",NICK JR.
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/27.m3u8
+#EXTINF:-1,group-title="Variety Package",NICK
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/28.m3u8
+#EXTINF:-1,group-title="Variety Package",CARTOON NETWORK
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/29.m3u8
+#EXTINF:-1,group-title="Variety Package",BOOMERANG
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/30.m3u8
+#EXTINF:-1,group-title="Variety Package",FOX SPORTS 2
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/31.m3u8
+#EXTINF:-1,group-title="Variety Package",ESPN
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/32.m3u8
+#EXTINF:-1,group-title="Variety Package",BBC EARTH
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/33.m3u8
+#EXTINF:-1,group-title="Variety Package",SOLAR SPORT
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/34.m3u8
+#EXTINF:-1,group-title="Variety Package",ANC
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/37.m3u8
+#EXTINF:-1,group-title="Variety Package",DISCOVERY HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/45.m3u8
+#EXTINF:-1,group-title="Variety Package",DISCOVERY ASIA
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/46.m3u8
+#EXTINF:-1,group-title="Variety Package",TLC HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/47.m3u8
+#EXTINF:-1,group-title="Variety Package",ANIMAL PLANET HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/49.m3u8
+#EXTINF:-1,group-title="Variety Package",NATIONAL GEOGRAPHIC
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/50.m3u8
+#EXTINF:-1,group-title="Variety Package",NATGEO WILD HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/51.m3u8
+#EXTINF:-1,group-title="Variety Package",NATGEO PEOPLE HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/52.m3u8
+#EXTINF:-1,group-title="Variety Package",HISTORY HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/53.m3u8
+#EXTINF:-1,group-title="Variety Package",KNOWLEDGE CHANNEL
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/54.m3u8
+#EXTINF:-1,group-title="Variety Package",LIFETIME
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/55.m3u8
+#EXTINF:-1,group-title="Variety Package",BLUE ANT ENT HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/56.m3u8
+#EXTINF:-1,group-title="Variety Package",BLUE ANT EXTREME HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/57.m3u8
+#EXTINF:-1,group-title="Variety Package",METRO CHANNEL
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/58.m3u8
+#EXTINF:-1,group-title="Variety Package",COMEDY CENTRAL HD
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/59.m3u8
+
+
+
+
 
 
 #EXTINF:-1,group-title="Kidz", Biznet Kids
