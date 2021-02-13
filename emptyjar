@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/TV1_Logo_2011.png/100px-TV1_Logo_2011.png", TV1 
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/TV2_Logo_2011.png/100px-TV2_Logo_2011.png", TV2 
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/100px-TV3_%28Malaysia%29.svg.png", TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/NTV7_logo_%282018%29.png/50px-NTV7_logo_%282018%29.png", NTV7 
@@ -19,7 +19,7 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20640
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png", RTM Sports HD 
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8  
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png", TV Alhijrah
-
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tvikim.my/images/logo-header-02.png", TV IKIM HD 
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/FJ9sZJy.png", Astro Naura 
@@ -76,9 +76,9 @@ https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 
 
 #EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png", Channel 5
-
+http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
 #EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/suria.png", Suria
-
+http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
 #EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png", Channel 8
 
 #EXTINF:-1, group-title="Singapore" tvg-logo="https://freeview.github.io/iptv/logos/vasantham.png", Vasantham
@@ -876,7 +876,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Classic
 
 #EXTINF:-1 group-title="Movie Channel", Sony Pix
-
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15570
 #EXTINF:-1 group-title="Movie Channel", Sony SAB HD
 
 #EXTINF:-1 group-title="Movie Channel", Star HD
