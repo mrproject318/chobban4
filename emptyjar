@@ -524,8 +524,100 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/57.m3u8
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/58.m3u8
 #EXTINF:-1,group-title="Variety Package",COMEDY CENTRAL HD
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/59.m3u8
-
-
+#EXTINF:-1,group-title="Variety Package",HBO ASIA
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1,group-title="Variety Package",HBO HITS
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1,group-title="Variety Package",STAR SPORTS
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby:iptvcat.com
+#EXTINF:-1,group-title="Variety Package",CINEMAX
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1,group-title="Variety Package",NATGEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:-1,group-title="Variety Package",VIP AR: FOX Crime HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16973
+#EXTINF:-1,group-title="Variety Package",VIP AR: ART Aflam 1
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/141
+#EXTINF:-1,group-title="Variety Package",VIP AR: ART Aflam 2
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/140
+#EXTINF:-1,group-title="Variety Package",VIP AR: ART Hekayat 1
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/138
+#EXTINF:-1,group-title="Variety Package",VIP AR: ART Hekayat 2
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/137
+#EXTINF:-1,group-title="Variety Package",VIP AR: Rotana Masriah HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5421
+#EXTINF:-1,group-title="Variety Package",VIP AR: Rotana Classic HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5423
+#EXTINF:-1,group-title="Variety Package",VIP AR: Rotana Cinema HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5424
+#EXTINF:-1,group-title="Variety Package",VIP AR: Rotana Aflam HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5425
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Al Yawm  HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23005
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Cinema 1 HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23006
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Cinema 2 HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23007
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Musalsalat HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23009
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Star Movies HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23002
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Star World HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23003
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN First Movies HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22987
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN First Movies 2 HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22986
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22992
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Action HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22990
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Enigma HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22989
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Bingi HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22988
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Comedy HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22991
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Yahala HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12541
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Yahala First HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12540
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Yahala Cinema HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12549
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Action HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12544
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Comedy HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3687
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Comedy HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3695
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Kids HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5467
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Star Movies HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7460
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Star World HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3688
+#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Box Office 2
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5383
+#EXTINF:-1,group-title="Variety Package",VIP AR: My Cinema HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12255
+#EXTINF:-1,group-title="Variety Package",VIP AR: BeIN Movies 1FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34543
+#EXTINF:-1,group-title="Variety Package",VIP AR: BeIN Movies 2FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34544
+#EXTINF:-1,group-title="Variety Package",VIP AR: BeIN Movies 3FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34545
+#EXTINF:-1,group-title="Variety Package",VIP AR: BeIN Movies 4FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34546
+#EXTINF:-1,group-title="Variety Package",VIP AR: BeIN Movies 4HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4019
+#EXTINF:-1,group-title="Variety Package",VIP AR: BeoutQ Movies HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23488
+#EXTINF:-1,group-title="Variety Package",VIP AR: BeoutQ Movies 2HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23487
+#EXTINF:-1,group-title="Variety Package",VIP AR: BeoutQ Action HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23490
+#EXTINF:-1,group-title="Variety Package",VIP AR: BeoutQ Action 2HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23489
 
 
 
