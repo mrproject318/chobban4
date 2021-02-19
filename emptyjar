@@ -120,7 +120,7 @@ http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
-http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
+https://tv.mbahnunungonline.net/playlist/mnctv.m3u8
 #EXTINF:-1, group-title="Indonesia", Net.TV
 
 #EXTINF:-1, group-title="Indonesia", Nusantara TV
