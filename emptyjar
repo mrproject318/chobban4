@@ -95,60 +95,57 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 
-#EXTINF:-1, group-title="Indonesia", ANTV
-http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8 
-#EXTINF:-1, group-title="Indonesia", Berita Satu World
+#EXTINF:-1, tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Indonesia", ANTV
+http://ironman.my.id/andri/andriant.php?channel=antv
+#EXTINF:-1,tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Indonesia", Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-3FNJE69u8Gk/W9yMvE3XYBI/AAAAAAAAJ7M/zWiB51aguT0mV1Yh_PiosfmLmlbHhblewCLcBGAs/s1600/bioskopindonesia.png?v=1.0.0.0" group-title="Indonesia", Bioskop Indonesia
+https://nonton.site:8443/live/novi/novi123/908.m3u8
 #EXTINF:-1, group-title="Indonesia", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b192000_sleng.m3u8  
-#EXTINF:-1, group-title="Indonesia", CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="Indonesia", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", Disney Jr Indonesia
 
 #EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV
 http://93.190.139.34:8278/streams/d/GlobalTV_eko/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Indonesia Channel
 
-#EXTINF:-1, group-title="Indonesia", Indosiar
+#EXTINF:-1, tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Indonesia", Indosiar
 http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8 
-#EXTINF:-1, group-title="Indonesia", iNews
+#EXTINF:-1,tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13" group-title="Indonesia", iNews
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-#EXTINF:-1, group-title="Indonesia", Jakarta Globe News
+#EXTINF:-1, tvg-logo="https://i.imgur.com/rg1rTkj.png?v=2.0.0.13" group-title="Indonesia", Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
-#EXTINF:-1, group-title="Indonesia", Kompas TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Indonesia", Kompas TV
 http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8 
-#EXTINF:-1, group-title="Indonesia", Metro TV
-http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1, group-title="Indonesia", MNC TV
-http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Net.TV
-
-#EXTINF:-1, group-title="Indonesia", Nusantara TV
-
-#EXTINF:-1 group-title="Indonesia", RCTI
+#EXTINF:-1, tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="Indonesia", Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Indonesia", MNC TV
+https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
+#EXTINF:-1,tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Indonesia", Net.TV
+tps://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
+#EXTINF:-1tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Indonesia", RCTI
 http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia", RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="Indonesia", RTV
 
-#EXTINF:-1, group-title="Indonesia", SCTV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Indonesia", SCTV
 http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", Sinema Indonesia
+#EXTINF:-1,tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="Indonesia", Sinema Indonesia
 http://wz.insantv.net/monitor/ch106.m3u8
-#EXTINF:-1, group-title="Indonesia", TRANS TV
-http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
-#EXTINF:-1, group-title="Indonesia", TRANS 7
+#EXTINF:-1, tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Indonesia", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Indonesia", TRANS 7
 http://93.190.139.34:8278/streams/d/Trans7_eko/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", TVRI HD
-http://93.190.139.34:8278/streams/d/TVRI/playlist.m3u8  
-#EXTINF:-1, group-title="Indonesia", TV One
+#EXTINF:-1,tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Indonesia", TVRI HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
+#EXTINF:-1,tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13"  group-title="Indonesia", TV One
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
-#EXTINF:-1, group-title="Indonesia", TVKU
-http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1, group-title="Indonesia", Drakor
 http://wz.insantv.net/monitor/ch105.m3u8
 #EXTINF:-1, group-title="Indonesia", Drakor Plus
 http://wz.insantv.net/monitor/ch107.m3u8
-#EXTINF:-1, group-title="Indonesia", Sinema Indonesia X
-http://wz.insantv.net/monitor/ch106.m3u8
+
 
 
 #EXTINF:-1, group-title="Brunei Darussalam", RTB Sukmaindera
@@ -534,90 +531,9 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby:iptvcat.com
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:-1,group-title="Variety Package",NATGEO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
-#EXTINF:-1,group-title="Variety Package",VIP AR: FOX Crime HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16973
-#EXTINF:-1,group-title="Variety Package",VIP AR: ART Aflam 1
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/141
-#EXTINF:-1,group-title="Variety Package",VIP AR: ART Aflam 2
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/140
-#EXTINF:-1,group-title="Variety Package",VIP AR: ART Hekayat 1
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/138
-#EXTINF:-1,group-title="Variety Package",VIP AR: ART Hekayat 2
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/137
-#EXTINF:-1,group-title="Variety Package",VIP AR: Rotana Masriah HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5421
-#EXTINF:-1,group-title="Variety Package",VIP AR: Rotana Classic HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5423
-#EXTINF:-1,group-title="Variety Package",VIP AR: Rotana Cinema HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5424
-#EXTINF:-1,group-title="Variety Package",VIP AR: Rotana Aflam HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5425
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Al Yawm  HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23005
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Cinema 1 HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23006
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Cinema 2 HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23007
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Musalsalat HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23009
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Star Movies HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23002
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Star World HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23003
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN First Movies HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22987
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN First Movies 2 HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22986
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22992
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Action HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22990
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Enigma HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22989
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Bingi HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22988
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Comedy HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22991
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Yahala HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12541
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Yahala First HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12540
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Yahala Cinema HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12549
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Action HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12544
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Comedy HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3687
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Movies Comedy HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3695
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Kids HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5467
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Star Movies HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7460
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Star World HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3688
-#EXTINF:-1,group-title="Variety Package",VIP AR: OSN Box Office 2
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5383
-#EXTINF:-1,group-title="Variety Package",VIP AR: My Cinema HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12255
-#EXTINF:-1,group-title="Variety Package",VIP AR: BeIN Movies 1FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34543
-#EXTINF:-1,group-title="Variety Package",VIP AR: BeIN Movies 2FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34544
-#EXTINF:-1,group-title="Variety Package",VIP AR: BeIN Movies 3FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34545
-#EXTINF:-1,group-title="Variety Package",VIP AR: BeIN Movies 4FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34546
-#EXTINF:-1,group-title="Variety Package",VIP AR: BeIN Movies 4HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4019
-#EXTINF:-1,group-title="Variety Package",VIP AR: BeoutQ Movies HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23488
-#EXTINF:-1,group-title="Variety Package",VIP AR: BeoutQ Movies 2HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23487
-#EXTINF:-1,group-title="Variety Package",VIP AR: BeoutQ Action HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23490
-#EXTINF:-1,group-title="Variety Package",VIP AR: BeoutQ Action 2HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23489
+#EXTINF:-1,group-title="Variety Package", Maori Television
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+
 
 
 
@@ -1044,6 +960,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
 #EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic Wild
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic Indonesia
+https://nonton.site:8443/live/novi/novi123/96.m3u8
 #EXTINF:-1, group-title="Knowledge & Infotainment",RT Documentary
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment", SBS Plus
