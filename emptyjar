@@ -127,8 +127,8 @@ http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonesia", RCTI
 http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia", RTV
-
+#EXTINF:-1 group-title="Indonesia", SEA Today
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8 
 #EXTINF:-1, group-title="Indonesia", SCTV
 http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia", Sinema Indonesia
