@@ -1088,7 +1088,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Classic
 
 #EXTINF:-1 group-title="Movie Channel", Sony Pix
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15570
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony SAB HD
 
 #EXTINF:-1 group-title="Movie Channel", Star HD
